@@ -1,7 +1,7 @@
 baseurl = "https://github.com/Jazzalchemist/blogdown_source/"
 languageCode = "en-us"
 title = "hugo-lithium-theme"
-theme = "hugo-lithium-theme"
+theme = "hugo-tranquilpeak-theme"
 googleAnalytics = ""
 disqusShortname = ""
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]

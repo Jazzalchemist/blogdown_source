@@ -1,6 +1,6 @@
 baseurl = "https://github.com/Jazzalchemist/blogdown_source/"
 languageCode = "en-us"
-title = "hugo-lithium-theme"
+title = "Jared Braggins"
 theme = "hugo-tranquilpeak-theme"
 googleAnalytics = ""
 disqusShortname = ""

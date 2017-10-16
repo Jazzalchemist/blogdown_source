@@ -41,7 +41,7 @@ canonifyurls = true
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
-  Your Twitter username without the @. E.g : Jazzalchemist
+  #Your Twitter username without the @. E.g : Jazzalchemist
   twitter = "https://twitter.com/Jazzalchemist"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
   # googlePlus = "+ThibaudLepretre"

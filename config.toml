@@ -37,12 +37,12 @@ canonifyurls = true
   job = "Senior Reporting Analyst"
   location = "New Zealand"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
-  gravatarEmail = "thibaud.lepretre@gmail.com"
+  gravatarEmail = "jazzalchemist@gmail.com"
   # Your profile picture
   # Overwritten by your gravatar image if `author.gravatarEmail` is filled
   # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simple-512.png"
   #Your Twitter username without the @. E.g : Jazzalchemist
-  twitter = "https://twitter.com/Jazzalchemist"
+  twitter = "Jazzalchemist"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
   # googlePlus = "+ThibaudLepretre"
 
@@ -177,15 +177,15 @@ canonifyurls = true
   # Comment and uncomment to enable or disable sharing options
   # If you wanna add a sharing option, read user documentation :
   # Tranquilpeak configuration > Theme configuration > sharing-options
-  [[params.sharingOptions]]
-    name = "Facebook"
-    icon = "fa-facebook-official"
-    url = "https://www.facebook.com/sharer/sharer.php?u=%s"
+  #[[params.sharingOptions]]
+    #name = "Facebook"
+    #icon = "fa-facebook-official"
+    #url = "https://www.facebook.com/sharer/sharer.php?u=%s"
 
   [[params.sharingOptions]]
     name = "Twitter"
     icon = "fa-twitter"
-    url = "https://twitter.com/intent/tweet?text=%s"
+    url = "https://twitter.com/Jazzalchemist"
 
   [[params.sharingOptions]]
     name = "Google+"

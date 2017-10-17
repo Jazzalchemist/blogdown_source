@@ -8,6 +8,10 @@
 
 
 
+  
+
+
+  
 
 <!DOCTYPE html>
 <html lang="en-us">
@@ -41,6 +45,8 @@
     
     
 
+    
+      <meta property="og:image" content="//www.gravatar.com/avatar/df5129279b4c225fcc442699f9175c47?s=640">
     
 
     
@@ -90,6 +96,8 @@ ga('send', 'pageview');
     
     
       
+        <img class="header-picture" src="//www.gravatar.com/avatar/df5129279b4c225fcc442699f9175c47?s=90" alt="Author&#39;s picture" />
+      
     
     </a>
   
@@ -97,6 +105,16 @@ ga('send', 'pageview');
 
       <nav id="sidebar" data-behavior="1">
   <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://jbraggins.netlify.com/#about">
+          <img class="sidebar-profile-picture" src="//www.gravatar.com/avatar/df5129279b4c225fcc442699f9175c47?s=110" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Jared Braggins</h4>
+        
+          <h5 class="sidebar-profile-bio">My name is Jared Braggins and I&rsquo;m a Senior Report Analyst from Wellington, New Zealand</h5>
+        
+      </div>
     
     <ul class="sidebar-buttons">
       
@@ -271,7 +289,7 @@ ga('send', 'pageview');
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/Jazzalchemist%25!%28EXTRA%20string=https://jbraggins.netlify.com/about/%29">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://jbraggins.netlify.com/about/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
@@ -355,7 +373,7 @@ ga('send', 'pageview');
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/Jazzalchemist%25!%28EXTRA%20string=https://jbraggins.netlify.com/about/%29">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://jbraggins.netlify.com/about/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
@@ -397,7 +415,7 @@ ga('send', 'pageview');
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://twitter.com/Jazzalchemist%25!%28EXTRA%20string=https%3A%2F%2Fjbraggins.netlify.com%2Fabout%2F%29">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fjbraggins.netlify.com%2Fabout%2F">
           <i class="fa fa-twitter"></i><span>Share on Twitter</span>
         </a>
       </li>
@@ -419,9 +437,11 @@ ga('send', 'pageview');
       <i class="fa fa-remove"></i>
     </div>
     
+      <img id="about-card-picture" src="//www.gravatar.com/avatar/df5129279b4c225fcc442699f9175c47?s=110" alt="Author&#39;s picture" />
+    
     <h4 id="about-card-name">Jared Braggins</h4>
     
-      <div id="about-card-bio">Data Analyst from Wellington, New Zealand</div>
+      <div id="about-card-bio">My name is Jared Braggins and I&rsquo;m a Senior Report Analyst from Wellington, New Zealand</div>
     
     
       <div id="about-card-job">
@@ -587,7 +607,7 @@ $(document).ready(function() {
             return;
           }
           var d = document, s = d.createElement('script');
-          var disqus_shortname = 'hugo-tranquilpeak-theme';
+          var disqus_shortname = 'jazzalchemist';
           s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
 
           s.setAttribute('data-timestamp', +new Date());

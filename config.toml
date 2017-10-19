@@ -33,8 +33,8 @@ canonifyurls = true
 
 [author]
   name = "Jared Braggins"
-  bio = "My name is Jared Braggins and I'm a Senior Report Analyst from Wellington, New Zealand"
-  job = "Senior Reporting Analyst"
+  bio = "My name is Jared Braggins and I'm a Data Analyst from Wellington, New Zealand"
+  job = "Data Analyst"
   location = "New Zealand"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "jazzalchemist@gmail.com"

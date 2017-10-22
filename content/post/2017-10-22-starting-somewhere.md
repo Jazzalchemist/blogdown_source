@@ -7,7 +7,7 @@ categories: []
 tags: []
 ---
 
-![optional caption text](C:/Project/Github/blogdown_source/public/images/Graph)
+![optional caption text](/Project/Github/blogdown_source/public/images/Graph raw=true)
 
 ---
 

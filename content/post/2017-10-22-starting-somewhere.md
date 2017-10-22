@@ -7,7 +7,6 @@ categories: []
 tags: []
 ---
 
-![Line Graph](/Project/Github/blogdown_source/public/images/Graph.jpg)
 
 ---
 

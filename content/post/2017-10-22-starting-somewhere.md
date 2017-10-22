@@ -6,6 +6,11 @@ slug: starting-somewhere-rmd
 categories: []
 tags: []
 ---
+
+![optional caption text](C:/Project/Github/blogdown_source/public/images/Graph)
+
+---
+
 Hi there!
 
 First and foremost, welcome to my blog.

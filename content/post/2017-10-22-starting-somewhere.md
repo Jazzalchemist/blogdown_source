@@ -6,7 +6,7 @@ slug: starting-somewhere-rmd
 categories: []
 tags: []
 ---
-
+![Alt text](/Project/Github/blogdown_source/public/images/Graph.jpg)
 
 ---
 

@@ -8,7 +8,7 @@ tags: []
 
 ---
 
-![](/img/Graph.jpg]
+![](/img/Graph.jpg)
 
 ---
 

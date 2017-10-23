@@ -8,8 +8,9 @@ tags: []
 
 ---
 
-![](/img/Graph.jpg)
+featuredImage = "/img/Graph.jpg"
 
+---
 
 Hi there!
 

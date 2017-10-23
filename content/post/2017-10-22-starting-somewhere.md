@@ -6,6 +6,7 @@ slug: starting-somewhere-rmd
 categories: []
 tags: [analytics]
 thumbnailImage: "/img/Graph.jpg"
+thumbnailImagePosition: left
 
 ---
 

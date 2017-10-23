@@ -4,8 +4,8 @@ author: ~
 date: '2017-10-22'
 slug: starting-somewhere-rmd
 categories: []
-tags: [blogdown]
-images: /Project/Github/blogdown_source/public/images/Graph.jpg
+tags: []
+images: [/Project/Github/blogdown_source/public/images/Graph.jpg]
 
 ---
 

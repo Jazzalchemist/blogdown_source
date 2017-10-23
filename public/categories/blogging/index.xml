@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Jared Braggins</title>
-    <link>/</link>
-    <description>Recent content on Jared Braggins</description>
+    <title>Blogging on Jared Braggins</title>
+    <link>/categories/blogging/</link>
+    <description>Recent content in Blogging on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/blogging/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -23,15 +23,6 @@ First and foremost, welcome to my blog.
 This is something that I have wanted to do for a while now, but I always seemed to put it off. I&amp;rsquo;ve decided to step into the wondrous world of blogging for a few reasons:
  I enjoy the process of writing, and I have recently missed this creative outlet
  I&amp;rsquo;ve been reading and learning from numerous other bloggers for the past three years, and I thought I&amp;rsquo;d throw my hat in the ring and see if I can give a little back</description>
-    </item>
-    
-    <item>
-      <title>About</title>
-      <link>/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
-      
-      <guid>/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     
   </channel>

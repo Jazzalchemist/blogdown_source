@@ -3,7 +3,7 @@ title: The first step is taken!
 author: ~
 date: '2017-10-22'
 slug: starting-somewhere-rmd
-categories: [blogging]
+categories: []
 tags: [analytics]
 thumbnailImage: "/img/Graph.jpg"
 

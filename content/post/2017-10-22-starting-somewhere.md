@@ -8,7 +8,7 @@ tags: []
 
 ---
 
-featuredImage = "/img/Graph.jpg"
+featuredImage: (/img/Graph.jpg)
 
 ---
 

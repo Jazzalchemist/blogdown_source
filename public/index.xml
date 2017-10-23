@@ -2,22 +2,22 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Jared Braggins</title>
-    <link>https://jbraggins.netlify.com/</link>
+    <link>/</link>
     <description>Recent content on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jbraggins.netlify.com/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The first step is taken!</title>
-      <link>https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/</link>
+      <link>/2017/10/starting-somewhere-rmd/</link>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/</guid>
-      <description>featuredImage = &amp;ldquo;/img/Graph.jpg&amp;rdquo;
+      <guid>/2017/10/starting-somewhere-rmd/</guid>
+      <description>featuredImage: (/img/Graph.jpg)
 Hi there!
 First and foremost, welcome to my blog.
 This is something that I have wanted to do for a while now, but I always seemed to put it off. I&amp;rsquo;ve decided to step into the wondrous world of blogging for a few reasons:
@@ -27,10 +27,10 @@ This is something that I have wanted to do for a while now, but I always seemed 
     
     <item>
       <title>About</title>
-      <link>https://jbraggins.netlify.com/about/</link>
+      <link>/about/</link>
       <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
       
-      <guid>https://jbraggins.netlify.com/about/</guid>
+      <guid>/about/</guid>
       <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
     </item>
     

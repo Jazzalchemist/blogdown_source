@@ -5,7 +5,10 @@ date: '2017-10-22'
 slug: starting-somewhere-rmd
 categories: []
 tags: []
-images: [/Project/Github/blogdown_source/public/images/Graph.jpg]
+
+---
+
+![](/img/Graph.jpg]
 
 ---
 

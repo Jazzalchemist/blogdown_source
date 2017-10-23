@@ -1,11 +1,11 @@
 ---
-title: The first step is taken! 
+title: The first step is taken
 author: ~
 date: '2017-10-22'
 slug: starting-somewhere-rmd
 categories: []
 tags: [analytics]
-thumbnailImage: "/img/Graph.jpg"
+thumbnailImage: "/img/Graph.jpg =100x20"
 thumbnailImagePosition: left
 
 ---

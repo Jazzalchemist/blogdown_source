@@ -10,8 +10,6 @@ tags: []
 
 ![](/img/Graph.jpg)
 
----
-
 
 Hi there!
 

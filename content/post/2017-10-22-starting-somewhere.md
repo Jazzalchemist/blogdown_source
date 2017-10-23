@@ -5,10 +5,7 @@ date: '2017-10-22'
 slug: starting-somewhere-rmd
 categories: [blogging]
 tags: [analytics]
-
----
-
-thumbnailImage: /img/Graph.jpg
+thumbnailImage: "/img/Graph.jpg"
 
 ---
 

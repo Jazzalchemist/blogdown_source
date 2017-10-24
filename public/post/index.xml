@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jared Braggins</title>
-    <link>/post/</link>
+    <link>https://jbraggins.netlify.com/post/</link>
     <description>Recent content in Posts on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 22 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbraggins.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>The first step is taken</title>
-      <link>/2017/10/starting-somewhere-rmd/</link>
+      <link>https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/</link>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/10/starting-somewhere-rmd/</guid>
+      <guid>https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/</guid>
       <description>Hi there!
 First and foremost, welcome to my blog.
 This is something that I have wanted to do for a while now, but I always seemed to put it off. I&amp;rsquo;ve decided to step into the wondrous world of blogging for a few reasons:

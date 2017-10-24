@@ -5,7 +5,7 @@ date: '2017-10-22'
 slug: starting-somewhere-rmd
 categories: []
 tags: [analytics]
-thumbnailImage: "/img/Graph.jpg"
+thumbnailImage: "/img/bryan-rodriguez-855.jpg"
 thumbnailImagePosition: left
 
 ---

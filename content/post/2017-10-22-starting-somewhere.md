@@ -19,10 +19,10 @@ I've decided to step into the wondrous world of blogging for a few reasons:
 
 1. I enjoy the process of writing, and I have recently missed this creative outlet
 
-2. I've been reading and learning from numerous other bloggers for the past three years, and I thought I'd throw my hat in the ring and see if I can give a little back
+2. I've been reading and learning from numerous analytics bloggers for the past three years. I thought I'd throw my hat in the ring and see if I can give a little back
 
-3. The process of blogging will ensure that I keep up the momentum for learning new things
+3. The process of blogging will ensure that I keep the momentum up for learning new things
 
 Beyond interesting things happening in the analytics community, expect to see posts about coding, craft beer, basketball and general analytics geekery. 
 
-
+Thanks, and feel free to leave a comment!

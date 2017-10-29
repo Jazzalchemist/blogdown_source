@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes" ?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Analytics on Jared Braggins</title>
-    <link>/tags/analytics/</link>
-    <description>Recent content in Analytics on Jared Braggins</description>
+    <title>Excel on Jared Braggins</title>
+    <link>/tags/excel/</link>
+    <description>Recent content in Excel on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 29 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
@@ -20,19 +20,6 @@
       <description>This week I thought I&amp;rsquo;d discuss using Excel for analysis. I also wanted to mention something I recently heard at work.
 A co-worker of mine swears against using Excel for analysis. He will strive to use any other tool at his disposal.
 After discussing his background in business intelligence - and history with using tools like Tableau and PowerBI - I can kind of understand where he is coming from based on his current skillset.</description>
-    </item>
-    
-    <item>
-      <title>The first step is taken</title>
-      <link>/2017/10/starting-somewhere-rmd/</link>
-      <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
-      
-      <guid>/2017/10/starting-somewhere-rmd/</guid>
-      <description>Hi there!
-First and foremost, welcome to my blog.
-This is something that I have wanted to do for a while now, but I always seemed to put it off. I&amp;rsquo;ve decided to step into the wondrous world of blogging for a few reasons:
- I enjoy the process of writing, and I have recently missed this creative outlet
- I&amp;rsquo;ve been reading and learning from numerous analytics bloggers for the past three years.</description>
     </item>
     
   </channel>

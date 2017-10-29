@@ -2,21 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jared Braggins</title>
-    <link>https://jbraggins.netlify.com/post/</link>
+    <link>/post/</link>
     <description>Recent content in Posts on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 22 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 29 Oct 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jbraggins.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
+      <title>In Defence of Excel</title>
+      <link>/2017/10/in-defence-of-excel/</link>
+      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
+      
+      <guid>/2017/10/in-defence-of-excel/</guid>
+      <description>This week I thought I&amp;rsquo;d discuss using Excel for analysis. I also wanted to mention something I recently heard at work.
+A co-worker of mine swears against using Excel for analysis. He will strive to use any other tool at his disposal.
+After discussing his background in business intelligence - and history with using tools like Tableau and PowerBI - I can kind of understand where he is coming from based on his current skillset.</description>
+    </item>
+    
+    <item>
       <title>The first step is taken</title>
-      <link>https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/</link>
+      <link>/2017/10/starting-somewhere-rmd/</link>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/</guid>
+      <guid>/2017/10/starting-somewhere-rmd/</guid>
       <description>Hi there!
 First and foremost, welcome to my blog.
 This is something that I have wanted to do for a while now, but I always seemed to put it off. I&amp;rsquo;ve decided to step into the wondrous world of blogging for a few reasons:

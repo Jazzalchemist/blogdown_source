@@ -17,8 +17,8 @@ languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Jared Braggins"
 theme = "hugo-tranquilpeak-theme"
-disqusShortname = "https-jbraggins-netlify-com"
-#disqusShortname = "https://jbraggins.netlify.com/"
+disqusShortname = "jbraggins"
+#disqusShortname = "https-jbraggins-netlify-com"
 googleAnalytics = "UA-108165514-1"
 paginate = 7
 canonifyurls = true
@@ -28,7 +28,7 @@ canonifyurls = true
 
 [taxonomies]
   tag = "tags"
-  category = "categories"
+  category = "Excel"
   archive = "archives"
 
 [author]

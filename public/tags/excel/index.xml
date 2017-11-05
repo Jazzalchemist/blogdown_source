@@ -6,10 +6,21 @@
     <description>Recent content in Excel on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 29 Oct 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jbraggins.netlify.com/tags/excel/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Analysis in Excel - Part One</title>
+      <link>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/</link>
+      <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/</guid>
+      <description>Last week I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&amp;rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&amp;rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.
+#####Look-up functions
+Look-up functions are used when you want to find a value that relates to another (e.</description>
+    </item>
     
     <item>
       <title>In Defence of Excel</title>

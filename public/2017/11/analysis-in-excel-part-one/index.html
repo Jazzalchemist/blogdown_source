@@ -20,7 +20,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="Hugo 0.30.2 with theme Tranquilpeak 0.4.1-BETA">
-    <title>The first step is taken</title>
+    <title>Analysis in Excel - Part One</title>
     <meta name="author" content="Jared Braggins">
     <meta name="keywords" content="">
 
@@ -28,27 +28,21 @@
     
 
     
-    <meta name="description" content="Hi there!
-First and foremost, welcome to my blog.
-This is something that I have wanted to do for a while now, but I always seemed to put it off. I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons:
- I enjoy the process of writing, and I have recently missed this creative outlet
- I&rsquo;ve been reading and learning from numerous analytics bloggers for the past three years.">
-    <meta property="og:description" content="Hi there!
-First and foremost, welcome to my blog.
-This is something that I have wanted to do for a while now, but I always seemed to put it off. I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons:
- I enjoy the process of writing, and I have recently missed this creative outlet
- I&rsquo;ve been reading and learning from numerous analytics bloggers for the past three years.">
+    <meta name="description" content="Last week I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.
+#####Look-up functions
+Look-up functions are used when you want to find a value that relates to another (e.">
+    <meta property="og:description" content="Last week I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.
+#####Look-up functions
+Look-up functions are used when you want to find a value that relates to another (e.">
     <meta property="og:type" content="blog">
-    <meta property="og:title" content="The first step is taken">
-    <meta property="og:url" content="/2017/10/starting-somewhere-rmd/">
+    <meta property="og:title" content="Analysis in Excel - Part One">
+    <meta property="og:url" content="/2017/11/analysis-in-excel-part-one/">
     <meta property="og:site_name" content="Jared Braggins">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Jared Braggins">
-    <meta name="twitter:description" content="Hi there!
-First and foremost, welcome to my blog.
-This is something that I have wanted to do for a while now, but I always seemed to put it off. I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons:
- I enjoy the process of writing, and I have recently missed this creative outlet
- I&rsquo;ve been reading and learning from numerous analytics bloggers for the past three years.">
+    <meta name="twitter:description" content="Last week I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.
+#####Look-up functions
+Look-up functions are used when you want to find a value that relates to another (e.">
     
       <meta name="twitter:creator" content="@Jazzalchemist">
     
@@ -62,7 +56,7 @@ This is something that I have wanted to do for a while now, but I always seemed 
     
 
     
-      <meta property="og:image" content="https://jbraggins.netlify.com/img/bryan-rodriguez-855.jpg">
+      <meta property="og:image" content="https://jbraggins.netlify.com/img/accountant-1794122_640.png">
     
     
     
@@ -237,19 +231,27 @@ ga('send', 'pageview');
             <div class="post-header main-content-wrap text-left">
   
     <h1 class="post-title" itemprop="headline">
-      The first step is taken
+      Analysis in Excel - Part One
     </h1>
   
   
   <div class="postShorten-meta post-meta">
     
-      <time itemprop="datePublished" datetime="2017-10-22T00:00:00Z">
+      <time itemprop="datePublished" datetime="2017-11-05T00:00:00Z">
         
-  October 22, 2017
+  November 5, 2017
 
       </time>
     
     
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://jbraggins.netlify.com/categories/excel">Excel</a>
+    
+  
+
 
   </div>
 
@@ -257,24 +259,143 @@ ga('send', 'pageview');
           
           <div class="post-content markdown" itemprop="articleBody">
             <div class="main-content-wrap">
-              <p>Hi there!</p>
+              <p><a href="https://jbraggins.netlify.com/2017/10/in-defence-of-excel">Last week</a> I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.</p>
 
-<p>First and foremost, welcome to my blog.</p>
+<p>#####Look-up functions</p>
 
-<p>This is something that I have wanted to do for a while now, but I always seemed to put it off.
-I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons:</p>
+<p>Look-up functions are used when you want to find a value that relates to another (e.g. using a product ID to find which product it relates to).</p>
 
-<ol>
-<li><p>I enjoy the process of writing, and I have recently missed this creative outlet</p></li>
+<p>#####VLOOKUP</p>
 
-<li><p>I&rsquo;ve been reading and learning from numerous analytics bloggers for the past three years. I thought I&rsquo;d throw my hat in the ring and see if I can give a little back</p></li>
+<p>VLOOKUP (vertical lookup) is a function that looks for a value in the first column, and then returns a value in the same row from a specified column. Here&rsquo;s the syntax:</p>
 
-<li><p>The process of blogging will ensure that I keep the momentum up for learning new things</p></li>
-</ol>
+<pre><code>  = VLOOKUP(lookup value, table to retrieve value from, column from table to retrieve value from, TRUE for     approximate match/FALSE for exact match) 
+</code></pre>
 
-<p>Beyond interesting things happening in the analytics community, expect to see posts about coding, craft beer, basketball and general analytics geekery.</p>
+<p><img src="https://jbraggins.netlify.com/img/vlookup.png" title="Vlookup example" /></p>
 
-<p>Thanks, and feel free to leave a comment!</p>
+<p>One drawback of using the VLOOKUP function is that it can only look from left-to-right. If you want to look for a value from right-to-left you would use .</p>
+
+<p>#####INDEX + MATCH</p>
+
+<p>INDEX + MATCH is two functions used together. INDEX is used to return a specified value from a defined column/range. MATCH is used to return a number based on the position of a specified value within a defined column/range. When used together you have:</p>
+
+<pre><code>  = INDEX(Column to return a value from, MATCH(lookup value, Column to lookup against, &quot;0&quot; for an exact match))
+</code></pre>
+
+<ul>
+<li>Example</li>
+</ul>
+
+<p>There are many other look-up functions worth looking into like HLOOKUP, or more advanced versions of INDEX + MATCH (e.g. INDEX + MATCH + MATCH), but I personally believe that VLOOKUP and INDEX + MATCH are the best look-up functions to learn first.</p>
+
+<p>#####Conditional and Logical functions</p>
+
+<p>Conditional functions are used to test whether a value meets a condition or not. Whereas logical functions are used to test multiple conditions instead of just one. Logical functions will return either TRUE or FALSE depending on the outcome of the test.</p>
+
+<p>#####IF</p>
+
+<p>IF is used to test a condition and return a value if the condition is met, or another value if the condition isn&rsquo;t met.</p>
+
+<pre><code>  = IF(test, value if the condition is met, value if the condition isn't met)
+</code></pre>
+
+<ul>
+<li>Example</li>
+</ul>
+
+<p>#####AND</p>
+
+<p>AND will return TRUE if all arguments are TRUE.</p>
+
+<pre><code>  = AND(first equals second value, third value equals fourth value)
+</code></pre>
+
+<ul>
+<li>Example</li>
+</ul>
+
+<p>#####OR</p>
+
+<p>OR will return TRUE if any of the arguments are TRUE.</p>
+
+<pre><code>  = OR(first equals second value, third value equals fourth value)
+</code></pre>
+
+<ul>
+<li>Example</li>
+</ul>
+
+<p>AND and OR can be nested in the IF function when you need several test conditions. For example:</p>
+
+<pre><code>  = IF(AND(first value equals second value, third value equals fourth value), value if true, value if false)
+</code></pre>
+
+<p>The syntax is the same for using OR in place of AND when nested in IF.
+There are other conditional and logical functions worth learning like IFERROR, IFNA and NOT. If you are new to these types of functions then IF, AND and OR are a good place to start.</p>
+
+<p>#####Text functions</p>
+
+<p>Text functions are useful for cleaning or converting the case of a text string.</p>
+
+<p>#####TRIM</p>
+
+<p>TRIM is used to remove spaces at the start or end of a text string, or to remove duplicate spaces. The syntax is simple:</p>
+
+<pre><code>  = TRIM(text to remove extra spaces from)
+</code></pre>
+
+<p>#####CLEAN</p>
+
+<p>CLEAN is used to remove non-printable characters from a cell. These non-printable characters usually appear at the start of data that was imported into Excel from another application.</p>
+
+<pre><code>    = CLEAN(text to remove non-printable characters from)
+    ```
+
+#####LOWER, UPPER and PROPER
+
+LOWER, UPPER and PROPER are used change the case of a text string. All three functions have similar syntax to TRIM and CLEAN, i.e:
+
+</code></pre>
+
+<p>= LOWER(text to change to lower case)
+  = UPPER(text to change to upper case)
+  = PROPER(text to sentence case)</p>
+
+<pre><code>
+#####Other functions
+
+#####CONCATENATE
+
+CONCATENATE is used to combine a series of provided text strings into one text string. This can be useful when you need to create a unique ID for a row by using the provided text strings (I've often used this when I need to find duplicated rows in a dataset). 
+
+</code></pre>
+
+<p>= CONCATENATE(text1, text2, . )</p>
+
+<pre><code>  
+  - Example
+
+#####LEN
+
+LEN is used to find the length of a text string in a cell. 
+
+</code></pre>
+
+<p>= LEN(text to check length of)
+  ```</p>
+
+<ul>
+<li>Example</li>
+</ul>
+
+<p>#####Conclusion</p>
+
+<p>That&rsquo;s it for now. For my second post on using Excel for analysis I&rsquo;ll explore other useful analytical tools like pivot tables, charts and conditional formatting.</p>
+
+<p>Excel is more-often-than-not the default application provided by organisations for data analysis, therefore it is always useful to keep your skills up-to-date. Even if you have other tools at your disposal, it&rsquo;s always worth starting with Excel to build intuition and knowledge before attempting more advanced applications like R or Python.</p>
+
+<p>#####Is there anything that I&rsquo;ve missed? Or, would you like to know about another function not included here? Let me know below. Thanks, and make sure to check-in next week for part two of Analysis in Excel!</p>
 
               
             </div>
@@ -287,7 +408,9 @@ I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons
                   <div class="post-footer-tags">
                     <span class="text-color-light text-small">TAGGED IN</span><br/>
                     
-  <a class="tag tag--primary tag--small" href="https://jbraggins.netlify.com//tags/analytics/">analytics</a>
+  <a class="tag tag--primary tag--small" href="https://jbraggins.netlify.com//tags/excel/">Excel</a>
+
+  <a class="tag tag--primary tag--small" href="https://jbraggins.netlify.com//tags/analytics/">Analytics</a>
 
                   </div>
                 
@@ -299,7 +422,7 @@ I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons
         <ul class="post-actions post-action-nav">
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://jbraggins.netlify.com/2017/10/in-defence-of-excel/" data-tooltip="In Defence of Excel">
+                <a class="post-action-btn btn btn--disabled">
               
                 <i class="fa fa-angle-left"></i>
                 <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
@@ -307,7 +430,7 @@ I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--disabled">
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://jbraggins.netlify.com/2017/10/in-defence-of-excel/" data-tooltip="In Defence of Excel">
               
                 <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
                 <i class="fa fa-angle-right"></i>
@@ -324,19 +447,19 @@ I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons
         </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
               <i class="fa fa-facebook-official"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
               <i class="fa fa-google-plus"></i>
             </a>
           </li>
@@ -383,7 +506,7 @@ I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons
         <ul class="post-actions post-action-nav">
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://jbraggins.netlify.com/2017/10/in-defence-of-excel/" data-tooltip="In Defence of Excel">
+                <a class="post-action-btn btn btn--disabled">
               
                 <i class="fa fa-angle-left"></i>
                 <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
@@ -391,7 +514,7 @@ I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons
             </li>
             <li class="post-action">
               
-                <a class="post-action-btn btn btn--disabled">
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://jbraggins.netlify.com/2017/10/in-defence-of-excel/" data-tooltip="In Defence of Excel">
               
                 <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
                 <i class="fa fa-angle-right"></i>
@@ -408,19 +531,19 @@ I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons
         </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
               <i class="fa fa-facebook-official"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
               <i class="fa fa-twitter"></i>
             </a>
           </li>
         
           <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/">
+            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
               <i class="fa fa-google-plus"></i>
             </a>
           </li>
@@ -450,19 +573,19 @@ I&rsquo;ve decided to step into the wondrous world of blogging for a few reasons
   <ul class="share-options">
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjbraggins.netlify.com%2F2017%2F10%2Fstarting-somewhere-rmd%2F">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjbraggins.netlify.com%2F2017%2F11%2Fanalysis-in-excel-part-one%2F">
           <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
         </a>
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fjbraggins.netlify.com%2F2017%2F10%2Fstarting-somewhere-rmd%2F">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fjbraggins.netlify.com%2F2017%2F11%2Fanalysis-in-excel-part-one%2F">
           <i class="fa fa-twitter"></i><span>Share on Twitter</span>
         </a>
       </li>
     
       <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=https%3A%2F%2Fjbraggins.netlify.com%2F2017%2F10%2Fstarting-somewhere-rmd%2F">
+        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=https%3A%2F%2Fjbraggins.netlify.com%2F2017%2F11%2Fanalysis-in-excel-part-one%2F">
           <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
         </a>
       </li>
@@ -641,9 +764,9 @@ $(document).ready(function() {
     
       <script>
         var disqus_config = function () {
-          this.page.url = 'https:\/\/jbraggins.netlify.com\/2017\/10\/starting-somewhere-rmd\/';
+          this.page.url = 'https:\/\/jbraggins.netlify.com\/2017\/11\/analysis-in-excel-part-one\/';
           
-            this.page.identifier = '\/2017\/10\/starting-somewhere-rmd\/'
+            this.page.identifier = '\/2017\/11\/analysis-in-excel-part-one\/'
           
         };
         (function() {

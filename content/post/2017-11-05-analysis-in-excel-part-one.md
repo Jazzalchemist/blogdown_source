@@ -33,7 +33,7 @@ One drawback of using the VLOOKUP function is that it can only look from left-to
 INDEX + MATCH is two functions used together. INDEX is used to return a specified value from a defined column/range. MATCH is used to return a number based on the position of a specified value within a defined column/range. When used together you have:
 
   ```
-  = INDEX(Column to return a value from, MATCH(lookup value, Column to lookup against, "0" for an exact match))
+  = INDEX(Column to return a value from, MATCH(lookup value, Column to lookup against, "0" for an exact match))  
   ```
   
 Example:
@@ -51,7 +51,7 @@ Conditional functions are used to test whether a value meets a condition or not.
 IF is used to test a condition and return a value if the condition is met, or another value if the condition isn't met. 
 
   ```
-  = IF(test, value if the condition is met, value if the condition isn't met)
+  = IF(test, value if the condition is met, value if the condition isn't met)  
   ```
   
 Example:
@@ -63,7 +63,7 @@ Example:
 AND will return TRUE if all arguments are TRUE.
 
   ```
-  = AND(first equals second value, third value equals fourth value)
+  = AND(first equals second value, third value equals fourth value)  
   ```
 
 Example:
@@ -75,7 +75,7 @@ Example:
 OR will return TRUE if any of the arguments are TRUE.
 
   ```
-  = OR(first equals second value, third value equals fourth value)
+  = OR(first equals second value, third value equals fourth value)  
   ```
 
 Example:
@@ -86,7 +86,7 @@ Example:
 AND and OR can be nested in the IF function when you need several test conditions. For example:
   
   ```
-  = IF(AND(first value equals second value, third value equals fourth value), value if true, value if false)
+  = IF(AND(first value equals second value, third value equals fourth value), value if true, value if false)  
   ```
 
 The syntax is the same for using OR in place of AND when nested in IF. 
@@ -101,7 +101,7 @@ Text functions are useful for cleaning or converting the case of a text string.
 TRIM is used to remove spaces at the start or end of a text string, or to remove duplicate spaces. The syntax is simple: 
   
   ```
-  = TRIM(text to remove extra spaces from)
+  = TRIM(text to remove extra spaces from)  
   ```
 
 ### CLEAN
@@ -109,7 +109,7 @@ TRIM is used to remove spaces at the start or end of a text string, or to remove
 CLEAN is used to remove non-printable characters from a cell. These non-printable characters usually appear at the start of data that was imported into Excel from another application.
 
   ```
-	= CLEAN(text to remove non-printable characters from)
+	= CLEAN(text to remove non-printable characters from)  
 	```
 
 ### LOWER, UPPER and PROPER
@@ -117,7 +117,7 @@ CLEAN is used to remove non-printable characters from a cell. These non-printabl
 LOWER, UPPER and PROPER are used change the case of a text string. All three functions have similar syntax to TRIM and CLEAN, i.e:
 
   ```
-  = LOWER(text to change to lower case)/UPPER(text to change to upper case)/PROPER(text to sentence case)
+  = LOWER(text to change to lower case)/UPPER(text to change to upper case)/PROPER(text to sentence case)  
   ```
 
 ## Other functions
@@ -127,7 +127,7 @@ LOWER, UPPER and PROPER are used change the case of a text string. All three fun
 CONCATENATE is used to combine a series of provided text strings into one text string. This can be useful when you need to create a unique ID for a row by using the provided text strings (I've often used this when I need to find duplicated rows in a dataset). 
 
   ```
-  = CONCATENATE(text1, text2, . )
+  = CONCATENATE(text1, text2, . )  
   ```
   
 Example:
@@ -139,7 +139,7 @@ Example:
 LEN is used to find the length of a text string in a cell. 
 
   ```
-  = LEN(text to check length of)
+  = LEN(text to check length of)  
   ```
   
 Example:

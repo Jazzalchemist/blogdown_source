@@ -20,7 +20,7 @@ Look-up functions are used when you want to find a value that relates to another
 VLOOKUP (vertical lookup) is a function that looks for a value in the first column, and then returns a value in the same row from a specified column. Here's the syntax:
 
   ```
-  = VLOOKUP(lookup value, table to retrieve value from, column from table to retrieve value from, TRUE for     approximate match/FALSE for exact match) 
+  = VLOOKUP(lookup value, table to retrieve value from, column from table to retrieve value from, TRUE for approximate match/FALSE for exact match) 
   ```
 Example:
 
@@ -117,9 +117,7 @@ CLEAN is used to remove non-printable characters from a cell. These non-printabl
 LOWER, UPPER and PROPER are used change the case of a text string. All three functions have similar syntax to TRIM and CLEAN, i.e:
 
   ```
-  = LOWER(text to change to lower case)
-  = UPPER(text to change to upper case)
-  = PROPER(text to sentence case)
+  = LOWER(text to change to lower case)/UPPER(text to change to upper case)/PROPER(text to sentence case)
   ```
 
 ## Other functions

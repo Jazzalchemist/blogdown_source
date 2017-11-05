@@ -15,7 +15,7 @@ thumbnailImagePosition: left
 
 Look-up functions are used when you want to find a value that relates to another (e.g. using a product ID to find which product it relates to).
 
-## VLOOKUP
+### VLOOKUP
 
 VLOOKUP (vertical lookup) is a function that looks for a value in the first column, and then returns a value in the same row from a specified column. Here's the syntax:
 
@@ -28,7 +28,7 @@ Example:
 
 One drawback of using the VLOOKUP function is that it can only look from left-to-right. If you want to look for a value from right-to-left you would use .
 
-## INDEX + MATCH
+### INDEX + MATCH
 
 INDEX + MATCH is two functions used together. INDEX is used to return a specified value from a defined column/range. MATCH is used to return a number based on the position of a specified value within a defined column/range. When used together you have:
 
@@ -46,7 +46,7 @@ There are many other look-up functions worth looking into like HLOOKUP, or more 
 
 Conditional functions are used to test whether a value meets a condition or not. Whereas logical functions are used to test multiple conditions instead of just one. Logical functions will return either TRUE or FALSE depending on the outcome of the test.   
 
-## IF
+### IF
 
 IF is used to test a condition and return a value if the condition is met, or another value if the condition isn't met. 
 
@@ -58,7 +58,7 @@ Example:
 
 <img src="/img/if.png" title="if example"/>
 
-## AND 
+### AND 
 
 AND will return TRUE if all arguments are TRUE.
 
@@ -70,7 +70,7 @@ Example:
 
 <img src="/img/and.png" title="and example"/>
 
-## OR
+### OR
 
 OR will return TRUE if any of the arguments are TRUE.
 
@@ -96,7 +96,7 @@ There are other conditional and logical functions worth learning like IFERROR, I
 
 Text functions are useful for cleaning or converting the case of a text string.
 
-## TRIM
+### TRIM
 
 TRIM is used to remove spaces at the start or end of a text string, or to remove duplicate spaces. The syntax is simple: 
   
@@ -104,7 +104,7 @@ TRIM is used to remove spaces at the start or end of a text string, or to remove
   = TRIM(text to remove extra spaces from)
   ```
 
-## CLEAN
+### CLEAN
 
 CLEAN is used to remove non-printable characters from a cell. These non-printable characters usually appear at the start of data that was imported into Excel from another application.
 
@@ -112,7 +112,7 @@ CLEAN is used to remove non-printable characters from a cell. These non-printabl
 	= CLEAN(text to remove non-printable characters from)
 	```
 
-## LOWER, UPPER and PROPER
+### LOWER, UPPER and PROPER
 
 LOWER, UPPER and PROPER are used change the case of a text string. All three functions have similar syntax to TRIM and CLEAN, i.e:
 
@@ -122,7 +122,7 @@ LOWER, UPPER and PROPER are used change the case of a text string. All three fun
 
 ## Other functions
 
-## CONCATENATE
+### CONCATENATE
 
 CONCATENATE is used to combine a series of provided text strings into one text string. This can be useful when you need to create a unique ID for a row by using the provided text strings (I've often used this when I need to find duplicated rows in a dataset). 
 
@@ -134,7 +134,7 @@ Example:
 
 <img src="/img/concatenate.png" title="concatenate example"/>
 
-## LEN
+### LEN
 
 LEN is used to find the length of a text string in a cell. 
 

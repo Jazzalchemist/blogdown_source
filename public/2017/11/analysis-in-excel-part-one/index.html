@@ -351,40 +351,34 @@ There are other conditional and logical functions worth learning like IFERROR, I
 <p>CLEAN is used to remove non-printable characters from a cell. These non-printable characters usually appear at the start of data that was imported into Excel from another application.</p>
 
 <pre><code>    = CLEAN(text to remove non-printable characters from)  
-    ```
-
-### LOWER, UPPER and PROPER
-
-LOWER, UPPER and PROPER are used change the case of a text string. All three functions have similar syntax to TRIM and CLEAN, i.e:
-
 </code></pre>
 
-<p>= LOWER(text to change to lower case)/UPPER(text to change to upper case)/PROPER(text to sentence case)</p>
+<h3 id="lower-upper-and-proper">LOWER, UPPER and PROPER</h3>
 
-<pre><code>
-## Other functions
+<p>LOWER, UPPER and PROPER are used change the case of a text string. All three functions have similar syntax to TRIM and CLEAN, i.e:</p>
 
-### CONCATENATE
-
-CONCATENATE is used to combine a series of provided text strings into one text string. This can be useful when you need to create a unique ID for a row by using the provided text strings (I've often used this when I need to find duplicated rows in a dataset). 
-
+<pre><code>  = LOWER(text to change to lower case)/UPPER(text to change to upper case)/PROPER(text to sentence case)  
 </code></pre>
 
-<p>= CONCATENATE(text1, text2, . )</p>
+<h2 id="other-functions">Other functions</h2>
 
-<pre><code>  
-Example:
+<h3 id="concatenate">CONCATENATE</h3>
 
-&lt;img src=&quot;/img/concatenate.png&quot; title=&quot;concatenate example&quot;/&gt;
+<p>CONCATENATE is used to combine a series of provided text strings into one text string. This can be useful when you need to create a unique ID for a row by using the provided text strings (I&rsquo;ve often used this when I need to find duplicated rows in a dataset).</p>
 
-### LEN
-
-LEN is used to find the length of a text string in a cell. 
-
+<pre><code>  = CONCATENATE(text1, text2, . )  
 </code></pre>
 
-<p>= LEN(text to check length of)<br />
-  ```</p>
+<p>Example:</p>
+
+<p><img src="https://jbraggins.netlify.com/img/concatenate.png" title="concatenate example"/></p>
+
+<h3 id="len">LEN</h3>
+
+<p>LEN is used to find the length of a text string in a cell.</p>
+
+<pre><code>  = LEN(text to check length of)  
+</code></pre>
 
 <p>Example:</p>
 

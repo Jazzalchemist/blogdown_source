@@ -110,7 +110,7 @@ CLEAN is used to remove non-printable characters from a cell. These non-printabl
 
   ```
 	= CLEAN(text to remove non-printable characters from)  
-	```
+  ```
 
 ### LOWER, UPPER and PROPER
 

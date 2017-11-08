@@ -13,7 +13,7 @@ thumbnailImagePosition: left
 
 ## Look-up functions
 
-Look-up functions are used when you want to find a value that relates to another (e.g. using a product ID to find which product it relates to).
+Look-up functions are used when you want to find a value that relates to another.
 
 ### VLOOKUP
 

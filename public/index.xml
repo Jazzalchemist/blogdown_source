@@ -6,10 +6,20 @@
     <description>Recent content on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 05 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 08 Nov 2017 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jbraggins.netlify.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>When to Say No (and a bit of Self-Reflection)</title>
+      <link>https://jbraggins.netlify.com/2017/11/when-to-say-no/</link>
+      <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/2017/11/when-to-say-no/</guid>
+      <description>This week I’ve found myself in an all-too familiar trap. It started off with a client asking for a mock-up of a dashboard to be done ASAP. Now, I knew this task was looming on the horizon, but I had been putting it off mainly because I was helping the client with something else arguably more important.
+Just to clarify, I had already talked to the client about putting off working on the dashboard due to the high priority task.</description>
+    </item>
     
     <item>
       <title>Analysis in Excel - Part One</title>

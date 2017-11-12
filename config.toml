@@ -127,7 +127,7 @@ canonifyurls = true
   # If false it will flat categories.
   hierarchicalCategories = true
 
-  description = "Jared Braggins: Data Analyst | Film-maker | Blogger"
+  description = "Jared Braggins: Data Analyst | Blogger"
 
   # Customization
   # Define the behavior of the sidebar
@@ -167,7 +167,7 @@ canonifyurls = true
   autoThumbnailImage = true
 
   # Your favicon path, default is "/favicon.png"
-  # favicon = "/favicon.png"
+  favicon = "/Profile_pic.png"
 
   # Header configuration
   # The link at the right of the header is customizable

@@ -15,18 +15,15 @@ thumbnailImagePosition: left
 
 Conditional formatting allows you to highlight cells based on certain values or rules. Some examples of this includes highlighting duplicate values, or highlighting values over or under a specified value. Conditional Formatting can be found under the Home tab on the Ribbon. Conditional formatting can be found under the Home tab on the Ribbon.
 
-Example highlighting values greater than 60:
 
-
-
-1.  Data before applying conditional formatting
+Data before applying conditional formatting:
 
 
 <img src="/img/Conditional_formatting1.png" title="Conditional_formatting_example_one"/>
 
 
 
-2.  Data after applying conditional formatting to cells A1:A10 (conditional formatting is at the top right of the image)
+Data after applying conditional formatting to cells A1:A10 (conditional formatting is at the top right of the image):
 
 
 <img src="/img/Conditional_formatting2.png" title="Conditional_formatting_example_two"/>
@@ -35,18 +32,15 @@ Example highlighting values greater than 60:
 
 Pivot tables are great for summarising a data-set. They are incredibly useful for analysis, and are fairly easy to create. Pivot Tables can be found on the Insert tab on the Ribbon.
 
-Example of pivoting sales by region:
 
-
-
-1.  Original sales data
+Original sales data:
 
 
 <img src="/img/Pivot1.png" title="Pivot_table_example_one"/>
 
 
 
-2.  Pivot table summarising sales data by region
+Pivot table summarising sales data by region:
 
 
 <img src="/img/Pivot2.png" title="Pivot_table_example_two"/>

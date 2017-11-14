@@ -17,19 +17,35 @@ Conditional formatting allows you to highlight cells based on certain values or 
 
 Example highlighting values greater than 60:
 
-<img src="/img/Conditional_formatting1.png" title="Conditional_formatting_example_one"/>
 
 1. Data before applying conditional formatting
 
-<img src="/img/Conditional_formatting2.png" title="Conditional_formatting_example_two"/>
+
+<img src="/img/Conditional_formatting1.png" title="Conditional_formatting_example_one"/>
+
 
 2. Data after applying conditional formatting to cells A1:A10 (conditional formatting is at the top right of the image)
+
+
+<img src="/img/Conditional_formatting2.png" title="Conditional_formatting_example_two"/>
 
 #### Pivot Tables
 
 Pivot tables are great for summarising a data-set. They are incredibly useful for analysis, and are fairly easy to create.
 
-Example:
+Example of pivoting sales by region:
+
+
+1. Original sales data
+
+
+<img src="/img/Pivot1.png" title="Pivot_table_example_one"/>
+
+
+2. Pivot table summarising sales data by region
+
+
+<img src="/img/Pivot2.png" title="Pivot_table_example_two"/>
 
 #### Charts
 

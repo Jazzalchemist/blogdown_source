@@ -19,14 +19,14 @@ Example highlighting values greater than 60:
 
 
 
-1. Data before applying conditional formatting
+1.  Data before applying conditional formatting
 
 
 <img src="/img/Conditional_formatting1.png" title="Conditional_formatting_example_one"/>
 
 
 
-2. Data after applying conditional formatting to cells A1:A10 (conditional formatting is at the top right of the image)
+2.  Data after applying conditional formatting to cells A1:A10 (conditional formatting is at the top right of the image)
 
 
 <img src="/img/Conditional_formatting2.png" title="Conditional_formatting_example_two"/>
@@ -39,14 +39,14 @@ Example of pivoting sales by region:
 
 
 
-1. Original sales data
+1.  Original sales data
 
 
 <img src="/img/Pivot1.png" title="Pivot_table_example_one"/>
 
 
 
-2. Pivot table summarising sales data by region
+2.  Pivot table summarising sales data by region
 
 
 <img src="/img/Pivot2.png" title="Pivot_table_example_two"/>

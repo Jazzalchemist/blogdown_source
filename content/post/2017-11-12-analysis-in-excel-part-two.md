@@ -15,9 +15,15 @@ thumbnailImagePosition: left
 
 Conditional formatting allows you to highlight cells based on certain values or rules. Some examples of this includes highlighting duplicate values, or highlighting values over or under a specified value.
 
-Example:
+Example highlighting values greater than 60:
 
-Data before
+<img src="/img/Conditional_formatting1.png" title="Conditional_formatting_example_one"/>
+
+1. Data before applying conditional formatting
+
+<img src="/img/Conditional_formatting2.png" title="Conditional_formatting_example_two"/>
+
+2. Data after applying conditional formatting to cells A1:A10 (conditional formatting is at the top right of the image)
 
 #### Pivot Tables
 

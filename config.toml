@@ -33,7 +33,7 @@ canonifyurls = true
 [author]
   name = "Jared Braggins"
   bio = "Data Analyst from Wellington, New Zealand"
-  #job = "Data Analyst"
+  job = "Data Analyst"
   location = "New Zealand"
   # Your Gravatar email. Overwrite `author.picture` everywhere in the blog
   # gravatarEmail = "jazzalchemist@gmail.com"
@@ -83,7 +83,7 @@ canonifyurls = true
   name = "About"
   #pre = "<i class="\"sidebar-button-icon fa fa-lg fa-question\"></i>"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-user\", title='About'></i>"
-  url = "/#about"
+  url = "/about"
 
 [[menu.links]]
   weight = 1

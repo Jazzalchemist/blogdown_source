@@ -1,6 +1,23 @@
 ---
-title: "About"
-date: "2016-05-05T21:48:51-07:00"
+title: "About Me"
+date: "2016-11-19"
+showTags: false
+showPagination: false
+showSocial: false
+comments: false
 ---
 
-This is a "hello world" example website for the [**blogdown**](https://github.com/rstudio/blogdown) package. The theme was forked from [@jrutheiser/hugo-lithium-theme](https://github.com/jrutheiser/hugo-lithium-theme) and modified by [Yihui Xie](https://github.com/yihui/hugo-lithium-theme).
+<h4 class='text-center'>
+    I am a data analyst specializing in data visualisation.
+</h4>
+
+
+## Skills
+
+<div class='display-card skills'>
+    <h3 class='skill-category'>Programming</h3>
+    <span class='tooltip--top' data-tooltip='My primary programming language.'>R</span>
+    <span>Python</span>
+    <span>SQL</span>
+    <span>VBA</span>
+</div>

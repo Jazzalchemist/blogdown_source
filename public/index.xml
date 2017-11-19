@@ -66,12 +66,12 @@ This is something that I have wanted to do for a while now, but I always seemed 
     </item>
     
     <item>
-      <title>About</title>
+      <title>About Me</title>
       <link>https://jbraggins.netlify.com/about/</link>
-      <pubDate>Thu, 05 May 2016 21:48:51 -0700</pubDate>
+      <pubDate>Sat, 19 Nov 2016 00:00:00 +0000</pubDate>
       
       <guid>https://jbraggins.netlify.com/about/</guid>
-      <description>This is a &amp;ldquo;hello world&amp;rdquo; example website for the blogdown package. The theme was forked from @jrutheiser/hugo-lithium-theme and modified by Yihui Xie.</description>
+      <description> I am a data analyst specializing in data visualisation.  Skills Programming R Python SQL VBA  </description>
     </item>
     
   </channel>

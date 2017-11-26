@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jbraggins.netlify.com/2017/11/big-book-dashboards/</loc>
+    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-two/</loc>
     <lastmod>2017-11-12T00:00:00+00:00</lastmod>
   </url>
@@ -34,17 +39,12 @@
   
   <url>
     <loc>https://jbraggins.netlify.com/tags/analytics/</loc>
-    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jbraggins.netlify.com/archives/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jbraggins.netlify.com/excel/</loc>
     <priority>0</priority>
   </url>
   
@@ -55,20 +55,25 @@
   </url>
   
   <url>
+    <loc>https://jbraggins.netlify.com/excel/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jbraggins.netlify.com/</loc>
-    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jbraggins.netlify.com/post/</loc>
-    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jbraggins.netlify.com/tags/</loc>
-    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
+    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

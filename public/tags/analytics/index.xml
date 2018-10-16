@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analytics on Jared Braggins</title>
-    <link>https://jbraggins.netlify.com/tags/analytics/</link>
+    <link>/tags/analytics/</link>
     <description>Recent content in Analytics on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jbraggins.netlify.com/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/tags/analytics/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Book Recommendation - The Big Book of Dashboards</title>
-      <link>https://jbraggins.netlify.com/2017/11/big-book-dashboards/</link>
+      <link>/2017/11/big-book-dashboards/</link>
       <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jbraggins.netlify.com/2017/11/big-book-dashboards/</guid>
+      <guid>/2017/11/big-book-dashboards/</guid>
       <description>First of all, I really like how the title says it all - it is indeed a very big book of dashboards.
 I first came across the book in a post over at Storytelling with Data (one of my favourite sites for data visualisation inspiration). Since I pretty much trust anything that Cole Nussbaumer Knaflic endorses, I thought I&amp;rsquo;d buy the book.
 I wasn&amp;rsquo;t disappointed.
@@ -25,30 +25,30 @@ I&amp;rsquo;ve been using this book at work for two to three months now, and I c
     
     <item>
       <title>Analysis in Excel - Part Two</title>
-      <link>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-two/</link>
+      <link>/2017/11/analysis-in-excel-part-two/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-two/</guid>
+      <guid>/2017/11/analysis-in-excel-part-two/</guid>
       <description>Last week I went over some useful Excel functions in the first of two parts about analysis in Excel. For part two I thought I’d go over some other tools available within Excel, including some examples of how to use them.
 Conditional Formatting Conditional formatting allows you to highlight cells based on certain values or rules. Some examples of this includes highlighting duplicate values, or highlighting values over or under a specified value.</description>
     </item>
     
     <item>
       <title>Analysis in Excel - Part One</title>
-      <link>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/</link>
+      <link>/2017/11/analysis-in-excel-part-one/</link>
       <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/</guid>
+      <guid>/2017/11/analysis-in-excel-part-one/</guid>
       <description>Last week I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&amp;rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&amp;rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.
 Look-up functions Look-up functions are used when you want to find a value that relates to another.</description>
     </item>
     
     <item>
       <title>In Defence of Excel</title>
-      <link>https://jbraggins.netlify.com/2017/10/in-defence-of-excel/</link>
+      <link>/2017/10/in-defence-of-excel/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jbraggins.netlify.com/2017/10/in-defence-of-excel/</guid>
+      <guid>/2017/10/in-defence-of-excel/</guid>
       <description>This week I thought I&amp;rsquo;d discuss using Excel for analysis. I also wanted to mention something I recently heard at work.
 A co-worker of mine swears against using Excel for analysis. He will strive to use any other tool at his disposal.
 After discussing his background in business intelligence - and history with tools like Tableau and PowerBI - I can kind of understand where he is coming from based on his current skillset.</description>
@@ -56,10 +56,10 @@ After discussing his background in business intelligence - and history with tool
     
     <item>
       <title>The first step is taken</title>
-      <link>https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/</link>
+      <link>/2017/10/starting-somewhere-rmd/</link>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/</guid>
+      <guid>/2017/10/starting-somewhere-rmd/</guid>
       <description>Hi there!
 First and foremost, welcome to my blog.
 This is something that I have wanted to do for a while now, but I always seemed to put it off. I&amp;rsquo;ve decided to step into the wondrous world of blogging for a few reasons:

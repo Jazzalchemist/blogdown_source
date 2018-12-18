@@ -6,13 +6,23 @@
     <description>Recent content on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 01 Oct 2018 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Nearly A Year Later...</title>
+      <title>Finding the Motivation</title>
+      <link>/2018/12/finding-the-motivation/</link>
+      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      
+      <guid>/2018/12/finding-the-motivation/</guid>
+      <description>It has been a tough few months in the lead up to Christmas.
+I&amp;rsquo;ve found my motivation to do, well, anything in data visualisation has severely waned. As a result, I took steps to try and reinvigorate my interest in what I was doing. For example, I started learning Tableau in late July, and shortly after began to post to things to my Tableau Public profile. I even started taking part in the #SWDchallenge.</description>
+    </item>
+    
+    <item>
+      <title>Nearly A Year Later ...</title>
       <link>/2018/10/nearly-a-year-later/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       

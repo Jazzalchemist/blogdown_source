@@ -26,6 +26,6 @@ I've finally started taking part in the #Makeover Monday challenge! Week 11 look
 #### What I focused on
 - As it was my first week, I thought I'd try and focus on clean design. I decided to add more detail to the area chart to try and show what the high/low points meant
 
-<img src="/img/MortgageDash.png" title="/img/MortgageDash.png"/>
+<img src="/img/MortgageDash.png" title="/img/MortgageDash"/>
 
 The interactive version can be found [here](https://public.tableau.com/profile/jared.braggins2936#!/vizhome/PhiladelphiasHousingMarket/MortgageDash)

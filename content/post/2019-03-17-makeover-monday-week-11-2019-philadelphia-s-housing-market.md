@@ -3,17 +3,8 @@ title: #Makeover Monday Week 11 2019 - Philadelphia's Housing Market
 author: Jared Braggins
 date: '2019-03-17'
 slug: makeover-monday-week-11-2019-philadelphia-s-housing-market
-categories:
-  - Data Visualisation
-  - Tableau
-tags:
-  - Real Estate
-  - Philadelphia
-  - Data Viz
-  - Data Visualisation
-  - Makeover Monday
-  - Tableau
-  - Analytics
+categories: [Data Visualisation, Tableau]
+tags: [Real Estate, Philadelphia, Data Viz, Data Visualisation, Makeover Monday, Tableau]
 thumbnailImage: "/img/MortgageDash.png"
 thumbnailImagePosition: left
 ---

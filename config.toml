@@ -90,7 +90,7 @@ canonifyurls = true
   identifier = "github"
   name = "GitHub"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-github\"></i>"
-  url = "https:/github.com/Jazzalchemist/blogdown_source"
+  url = "https://github.com/Jazzalchemist/"
   [[menu.links]]
   weight = 10
   identifier = "linkedin"

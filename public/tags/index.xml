@@ -2,93 +2,102 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jared Braggins</title>
-    <link>/tags/</link>
+    <link>https://jbraggins.netlify.com/tags/</link>
     <description>Recent content in Tags on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 26 Nov 2017 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbraggins.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Analytics</title>
-      <link>/tags/analytics/</link>
-      <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+      <link>https://jbraggins.netlify.com/tags/analytics/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/analytics/</guid>
+      <guid>https://jbraggins.netlify.com/tags/analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Visualisation</title>
-      <link>/tags/data-visualisation/</link>
+      <link>https://jbraggins.netlify.com/tags/data-visualisation/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/data-visualisation/</guid>
+      <guid>https://jbraggins.netlify.com/tags/data-visualisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Viz</title>
-      <link>/tags/data-viz/</link>
+      <link>https://jbraggins.netlify.com/tags/data-viz/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/data-viz/</guid>
+      <guid>https://jbraggins.netlify.com/tags/data-viz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Excel</title>
-      <link>/tags/excel/</link>
+      <link>https://jbraggins.netlify.com/tags/excel/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/tags/excel/</guid>
+      <guid>https://jbraggins.netlify.com/tags/excel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Makeover Monday</title>
-      <link>/tags/makeover-monday/</link>
+      <link>https://jbraggins.netlify.com/tags/makeover-monday/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/makeover-monday/</guid>
+      <guid>https://jbraggins.netlify.com/tags/makeover-monday/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philadelphia</title>
-      <link>/tags/philadelphia/</link>
+      <link>https://jbraggins.netlify.com/tags/philadelphia/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/philadelphia/</guid>
+      <guid>https://jbraggins.netlify.com/tags/philadelphia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real Estate</title>
-      <link>/tags/real-estate/</link>
+      <link>https://jbraggins.netlify.com/tags/real-estate/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/real-estate/</guid>
+      <guid>https://jbraggins.netlify.com/tags/real-estate/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Swd Challenge</title>
+      <link>https://jbraggins.netlify.com/tags/swd-challenge/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/tags/swd-challenge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tableau</title>
-      <link>/tags/tableau/</link>
+      <link>https://jbraggins.netlify.com/tags/tableau/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/tableau/</guid>
+      <guid>https://jbraggins.netlify.com/tags/tableau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoughts</title>
-      <link>/tags/thoughts/</link>
+      <link>https://jbraggins.netlify.com/tags/thoughts/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/tags/thoughts/</guid>
+      <guid>https://jbraggins.netlify.com/tags/thoughts/</guid>
       <description></description>
     </item>
     

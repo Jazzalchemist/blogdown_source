@@ -3,133 +3,144 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</loc>
+    <loc>https://jbraggins.netlify.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2018/12/finding-the-motivation/</loc>
+    <loc>https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://jbraggins.netlify.com/2018/12/finding-the-motivation/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2018/10/nearly-a-year-later/</loc>
+    <loc>https://jbraggins.netlify.com/2018/10/nearly-a-year-later/</loc>
     <lastmod>2018-10-01T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/11/big-book-dashboards/</loc>
+    <loc>https://jbraggins.netlify.com/2017/11/big-book-dashboards/</loc>
     <lastmod>2017-11-26T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/11/analysis-in-excel-part-two/</loc>
+    <loc>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-two/</loc>
     <lastmod>2017-11-12T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/11/when-to-say-no/</loc>
+    <loc>https://jbraggins.netlify.com/2017/11/when-to-say-no/</loc>
     <lastmod>2017-11-08T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/11/analysis-in-excel-part-one/</loc>
+    <loc>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/</loc>
     <lastmod>2017-11-05T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/10/in-defence-of-excel/</loc>
+    <loc>https://jbraggins.netlify.com/2017/10/in-defence-of-excel/</loc>
     <lastmod>2017-10-29T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/2017/10/starting-somewhere-rmd/</loc>
+    <loc>https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/</loc>
     <lastmod>2017-10-22T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/about/</loc>
+    <loc>https://jbraggins.netlify.com/about/</loc>
     <lastmod>2016-11-19T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>/tags/analytics/</loc>
-    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/archives/</loc>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/data-visualisation/</loc>
+    <loc>https://jbraggins.netlify.com/tags/analytics/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/data-viz/</loc>
+    <loc>https://jbraggins.netlify.com/archives/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jbraggins.netlify.com/tags/data-visualisation/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/excel/</loc>
+    <loc>https://jbraggins.netlify.com/tags/data-viz/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jbraggins.netlify.com/tags/excel/</loc>
     <lastmod>2017-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/excel/</loc>
+    <loc>https://jbraggins.netlify.com/excel/</loc>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/</loc>
+    <loc>https://jbraggins.netlify.com/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/makeover-monday/</loc>
+    <loc>https://jbraggins.netlify.com/tags/makeover-monday/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/philadelphia/</loc>
+    <loc>https://jbraggins.netlify.com/tags/philadelphia/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/post/</loc>
+    <loc>https://jbraggins.netlify.com/post/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/real-estate/</loc>
+    <loc>https://jbraggins.netlify.com/tags/real-estate/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/tableau/</loc>
+    <loc>https://jbraggins.netlify.com/tags/swd-challenge/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/</loc>
-    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
+    <loc>https://jbraggins.netlify.com/tags/tableau/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/tags/thoughts/</loc>
+    <loc>https://jbraggins.netlify.com/tags/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jbraggins.netlify.com/tags/thoughts/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

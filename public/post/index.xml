@@ -2,41 +2,53 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on Jared Braggins</title>
-    <link>/post/</link>
+    <link>https://jbraggins.netlify.com/post/</link>
     <description>Recent content in Posts on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbraggins.netlify.com/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</link>
+      <title>Makeover Monday Week 11 2019 - Philadelphia&#39;s Housing Market</title>
+      <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</guid>
+      <guid>https://jbraggins.netlify.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</guid>
       <description>I&amp;rsquo;ve finally started taking part in the #Makeover Monday challenge! Week 11 looked at real estate transfers in Philadelphia. Here&amp;rsquo;s the original visualisation:
 What works well:  Clean area chart is easy to read Simple colour scheme Sorted bar chart  What could be improved:  The bar chart needs to be resized The map lacks detail The titles aren&amp;rsquo;t very helpful  What I focused on  As it was my first week, I thought I&amp;rsquo;d try and focus on clean design.</description>
     </item>
     
     <item>
+      <title>SWDChallenge March 2019 - Which Countries Contributed the most to Foreign Aid?</title>
+      <link>https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/</guid>
+      <description>After a hiatus of a few months I&amp;rsquo;m back into taking part in the #SWDChallenge!
+March&amp;rsquo;s challenge was a collaboration between Cole Nussbaumer Knaflic (Storytelling with Data) and Enrico Bertini (Data Stories podcast). The aim was to visualise a predefined data set and answer the question of &amp;lsquo;who donates?&amp;rsquo;.
+The Data The dataset came from AidData
+My Approach I had a couple of ideas in mind with this challenge: - Create a one page report that addressed the question - Zero in on the highest donators and take a look at how they were contributing</description>
+    </item>
+    
+    <item>
       <title>Finding the Motivation</title>
-      <link>/2018/12/finding-the-motivation/</link>
+      <link>https://jbraggins.netlify.com/2018/12/finding-the-motivation/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/12/finding-the-motivation/</guid>
+      <guid>https://jbraggins.netlify.com/2018/12/finding-the-motivation/</guid>
       <description>It has been a tough few months in the lead up to Christmas.
 I&amp;rsquo;ve found my motivation to do, well, anything in data visualisation has severely waned. As a result, I took steps to try and reinvigorate my interest in what I was doing. For example, I started learning Tableau in late July, and shortly after began to post to things to my Tableau Public profile. I even started taking part in the #SWDchallenge.</description>
     </item>
     
     <item>
       <title>Nearly A Year Later ...</title>
-      <link>/2018/10/nearly-a-year-later/</link>
+      <link>https://jbraggins.netlify.com/2018/10/nearly-a-year-later/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/10/nearly-a-year-later/</guid>
+      <guid>https://jbraggins.netlify.com/2018/10/nearly-a-year-later/</guid>
       <description>Hey there! It&amp;rsquo;s been awhile.
 Habits are interesting things. Good habits take awhile to form, but can be incredibly beneficial. I like forming good habits, but over the previous 11 months I&amp;rsquo;ve noticed how easy it is to break a habit - namely, blogging.
 I started blogging back in November 2017 to get back into writing in a way that I actually enjoy, and to force myself to write about what I&amp;rsquo;m learning.</description>
@@ -44,10 +56,10 @@ I started blogging back in November 2017 to get back into writing in a way that 
     
     <item>
       <title>Book Recommendation - The Big Book of Dashboards</title>
-      <link>/2017/11/big-book-dashboards/</link>
+      <link>https://jbraggins.netlify.com/2017/11/big-book-dashboards/</link>
       <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/11/big-book-dashboards/</guid>
+      <guid>https://jbraggins.netlify.com/2017/11/big-book-dashboards/</guid>
       <description>First of all, I really like how the title says it all - it is indeed a very big book of dashboards.
 I first came across the book in a post over at Storytelling with Data (one of my favourite sites for data visualisation inspiration). Since I pretty much trust anything that Cole Nussbaumer Knaflic endorses, I thought I&amp;rsquo;d buy the book.
 I wasn&amp;rsquo;t disappointed.
@@ -56,40 +68,40 @@ I&amp;rsquo;ve been using this book at work for two to three months now, and I c
     
     <item>
       <title>Analysis in Excel - Part Two</title>
-      <link>/2017/11/analysis-in-excel-part-two/</link>
+      <link>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-two/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/11/analysis-in-excel-part-two/</guid>
+      <guid>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-two/</guid>
       <description>Last week I went over some useful Excel functions in the first of two parts about analysis in Excel. For part two I thought I’d go over some other tools available within Excel, including some examples of how to use them.
 Conditional Formatting Conditional formatting allows you to highlight cells based on certain values or rules. Some examples of this includes highlighting duplicate values, or highlighting values over or under a specified value.</description>
     </item>
     
     <item>
       <title>When to Say No (and a bit of Self-Reflection)</title>
-      <link>/2017/11/when-to-say-no/</link>
+      <link>https://jbraggins.netlify.com/2017/11/when-to-say-no/</link>
       <pubDate>Wed, 08 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/11/when-to-say-no/</guid>
+      <guid>https://jbraggins.netlify.com/2017/11/when-to-say-no/</guid>
       <description>This week I’ve found myself in an all-too familiar trap. It started off with a client asking for a mock-up of a dashboard to be done ASAP. Now, I knew this task was looming on the horizon, but I had been putting it off mainly because I was helping the client with something else arguably more important.
 Just to clarify, I had already talked to the client about putting off working on the dashboard due to the high priority task.</description>
     </item>
     
     <item>
       <title>Analysis in Excel - Part One</title>
-      <link>/2017/11/analysis-in-excel-part-one/</link>
+      <link>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/</link>
       <pubDate>Sun, 05 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/11/analysis-in-excel-part-one/</guid>
+      <guid>https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/</guid>
       <description>Last week I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&amp;rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&amp;rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.
 Look-up functions Look-up functions are used when you want to find a value that relates to another.</description>
     </item>
     
     <item>
       <title>In Defence of Excel</title>
-      <link>/2017/10/in-defence-of-excel/</link>
+      <link>https://jbraggins.netlify.com/2017/10/in-defence-of-excel/</link>
       <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/10/in-defence-of-excel/</guid>
+      <guid>https://jbraggins.netlify.com/2017/10/in-defence-of-excel/</guid>
       <description>This week I thought I&amp;rsquo;d discuss using Excel for analysis. I also wanted to mention something I recently heard at work.
 A co-worker of mine swears against using Excel for analysis. He will strive to use any other tool at his disposal.
 After discussing his background in business intelligence - and history with tools like Tableau and PowerBI - I can kind of understand where he is coming from based on his current skillset.</description>
@@ -97,10 +109,10 @@ After discussing his background in business intelligence - and history with tool
     
     <item>
       <title>The first step is taken</title>
-      <link>/2017/10/starting-somewhere-rmd/</link>
+      <link>https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/</link>
       <pubDate>Sun, 22 Oct 2017 00:00:00 +0000</pubDate>
       
-      <guid>/2017/10/starting-somewhere-rmd/</guid>
+      <guid>https://jbraggins.netlify.com/2017/10/starting-somewhere-rmd/</guid>
       <description>Hi there!
 First and foremost, welcome to my blog.
 This is something that I have wanted to do for a while now, but I always seemed to put it off. I&amp;rsquo;ve decided to step into the wondrous world of blogging for a few reasons:

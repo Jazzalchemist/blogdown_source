@@ -2,12 +2,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Excel on Jared Braggins</title>
-    <link>/excel/</link>
+    <link>https://jbraggins.netlify.com/excel/</link>
     <description>Recent content in Excel on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     
-	<atom:link href="/excel/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbraggins.netlify.com/excel/index.xml" rel="self" type="application/rss+xml" />
     
     
   </channel>

@@ -1,9 +1,5 @@
 
 
-  
-    
-  
-
 
   
 
@@ -20,26 +16,25 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1">
     <meta name="generator" content="Hugo 0.52 with theme Tranquilpeak 0.4.1-BETA">
-    <title>Analysis in Excel - Part One</title>
+    <title>Swd Challenge</title>
     <meta name="author" content="Jared Braggins">
     <meta name="keywords" content="">
 
     <link rel="icon" href="https://jbraggins.netlify.com/img/Profile_pic.jpg">
     
+      <link rel="alternate" type="application/rss+xml" title="RSS" href="https://jbraggins.netlify.com/tags/swd-challenge/index.xml">
+    
 
     
-    <meta name="description" content="Last week I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.
-Look-up functions Look-up functions are used when you want to find a value that relates to another.">
-    <meta property="og:description" content="Last week I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.
-Look-up functions Look-up functions are used when you want to find a value that relates to another.">
+    <meta name="description" content="Jared Braggins: Data Analyst | Blogger">
+    <meta property="og:description" content="Jared Braggins: Data Analyst | Blogger">
     <meta property="og:type" content="blog">
-    <meta property="og:title" content="Analysis in Excel - Part One">
-    <meta property="og:url" content="/2017/11/analysis-in-excel-part-one/">
+    <meta property="og:title" content="Swd Challenge">
+    <meta property="og:url" content="/tags/swd-challenge/">
     <meta property="og:site_name" content="Jared Braggins">
     <meta name="twitter:card" content="summary">
     <meta name="twitter:title" content="Jared Braggins">
-    <meta name="twitter:description" content="Last week I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.
-Look-up functions Look-up functions are used when you want to find a value that relates to another.">
+    <meta name="twitter:description" content="Jared Braggins: Data Analyst | Blogger">
     
       <meta name="twitter:creator" content="@Jazzalchemist">
     
@@ -52,8 +47,6 @@ Look-up functions Look-up functions are used when you want to find a value that 
       <meta property="og:image" content="https://jbraggins.netlify.com/images/Profile_pic.jpg">
     
 
-    
-      <meta property="og:image" content="https://jbraggins.netlify.com/img/accountant-1794122_640.png">
     
     
     
@@ -91,7 +84,7 @@ if (!doNotTrack) {
 
   <body>
     <div id="blog">
-      <header id="header" data-behavior="4">
+      <header id="header" data-behavior="1">
   <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
   <div class="header-title">
     <a class="header-title-link" href="https://jbraggins.netlify.com/">Jared Braggins</a>
@@ -111,7 +104,7 @@ if (!doNotTrack) {
   
 </header>
 
-      <nav id="sidebar" data-behavior="4">
+      <nav id="sidebar" data-behavior="1">
   <div class="sidebar-container">
     
       <div class="sidebar-profile">
@@ -220,26 +213,40 @@ if (!doNotTrack) {
 </nav>
 
       
+        
 
-      <div id="main" data-behavior="4"
+      
+      <div id="main" data-behavior="1"
         class="
                hasCoverMetaIn
                ">
-        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
-          
-          
-            <div class="post-header main-content-wrap text-left">
+        
+          <section class="postShorten-group main-content-wrap">
+            
+            
+              
   
-    <h1 class="post-title" itemprop="headline">
-      Analysis in Excel - Part One
-    </h1>
+    
   
+
+
   
+
+<article class="postShorten postShorten--thumbnailimg-left" itemscope itemType="http://schema.org/BlogPosting">
+  <div class="postShorten-wrap">
+    
+    <div class="postShorten-header">
+      <h1 class="postShorten-title" itemprop="headline">
+        <a class="link-unstyled" href="https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/">
+          SWDChallenge March 2019 - Which Countries Contributed the most to Foreign Aid?
+        </a>
+      </h1>
+      
   <div class="postShorten-meta post-meta">
     
-      <time itemprop="datePublished" datetime="2017-11-05T00:00:00Z">
+      <time itemprop="datePublished" datetime="2019-03-17T00:00:00Z">
         
-  November 5, 2017
+  March 17, 2019
 
       </time>
     
@@ -248,248 +255,41 @@ if (!doNotTrack) {
   
     <span>in</span>
     
-      <a class="category-link" href="https://jbraggins.netlify.com/categories/excel">Excel</a>
+      <a class="category-link" href="https://jbraggins.netlify.com/categories/data-visualisation">Data Visualisation</a>, 
+    
+      <a class="category-link" href="https://jbraggins.netlify.com/categories/tableau">Tableau</a>
     
   
 
 
   </div>
 
-</div>
-          
-          <div class="post-content markdown" itemprop="articleBody">
-            <div class="main-content-wrap">
-              
-
-<p><a href="https://jbraggins.netlify.com/2017/10/in-defence-of-excel">Last week</a> I promised to post the first of two parts on using Excel for analysis. With the first post, I thought I&rsquo;d list some useful functions in Excel, and provide some examples on how to use them. Please note that this list isn&rsquo;t comprehensive - there are numerous other functions that can and should be learned to complement what is included here.</p>
-
-<h3 id="look-up-functions">Look-up functions</h3>
-
-<p>Look-up functions are used when you want to find a value that relates to another.</p>
-
-<h4 id="vlookup">VLOOKUP</h4>
-
-<p>VLOOKUP (vertical lookup) is a function that looks for a value in the first column, and then returns a value in the same row from a specified column. Here&rsquo;s the syntax:</p>
-
-<pre><code>  = VLOOKUP(lookup value, table to retrieve value from, column from table to retrieve value from, TRUE for approximate match/FALSE for exact match) 
-</code></pre>
-
-<p>Example:</p>
-
-<p><img src="https://jbraggins.netlify.com/img/vlookup.png" title="Vlookup example"/></p>
-
-<p>One drawback of using the VLOOKUP function is that it can only look from left-to-right. If you want to look for a value from right-to-left you would use .</p>
-
-<h4 id="index-match">INDEX + MATCH</h4>
-
-<p>INDEX + MATCH is two functions used together. INDEX is used to return a specified value from a defined column/range. MATCH is used to return a number based on the position of a specified value within a defined column/range. When used together you have:</p>
-
-<pre><code>  = INDEX(Column to return a value from, MATCH(lookup value, Column to lookup against, &quot;0&quot; for an exact match))  
-</code></pre>
-
-<p>Example:</p>
-
-<p><img src="https://jbraggins.netlify.com/img/index+match.png" title="index + match example"/></p>
-
-<p>There are many other look-up functions worth looking into like HLOOKUP, or more advanced versions of INDEX + MATCH (e.g. INDEX + MATCH + MATCH), but I personally believe that VLOOKUP and INDEX + MATCH are the best look-up functions to learn first.</p>
-
-<h3 id="conditional-and-logical-functions">Conditional and Logical functions</h3>
-
-<p>Conditional functions are used to test whether a value meets a condition or not. Whereas logical functions are used to test multiple conditions instead of just one. Logical functions will return either TRUE or FALSE depending on the outcome of the test.</p>
-
-<h4 id="if">IF</h4>
-
-<p>IF is used to test a condition and return a value if the condition is met, or another value if the condition isn&rsquo;t met.</p>
-
-<pre><code>  = IF(test, value if the condition is met, value if the condition isn't met)  
-</code></pre>
-
-<p>Example:</p>
-
-<p><img src="https://jbraggins.netlify.com/img/if.png" title="if example"/></p>
-
-<h4 id="and">AND</h4>
-
-<p>AND will return TRUE if all arguments are TRUE.</p>
-
-<pre><code>  = AND(first equals second value, third value equals fourth value)  
-</code></pre>
-
-<p>Example:</p>
-
-<p><img src="https://jbraggins.netlify.com/img/and.png" title="and example"/></p>
-
-<h4 id="or">OR</h4>
-
-<p>OR will return TRUE if any of the arguments are TRUE.</p>
-
-<pre><code>  = OR(first equals second value, third value equals fourth value)  
-</code></pre>
-
-<p>Example:</p>
-
-<p><img src="https://jbraggins.netlify.com/img/or.png" title="orr example"/></p>
-
-<p>AND and OR can be nested in the IF function when you need several test conditions. For example:</p>
-
-<pre><code>  = IF(AND(first value equals second value, third value equals fourth value), value if true, value if false)  
-</code></pre>
-
-<p>The syntax is the same for using OR in place of AND when nested in IF.
-There are other conditional and logical functions worth learning like IFERROR, IFNA and NOT. If you are new to these types of functions then IF, AND and OR are a good place to start.</p>
-
-<h3 id="text-functions">Text functions</h3>
-
-<p>Text functions are useful for cleaning or converting the case of a text string.</p>
-
-<h4 id="trim">TRIM</h4>
-
-<p>TRIM is used to remove spaces at the start or end of a text string, or to remove duplicate spaces. The syntax is simple:</p>
-
-<pre><code>  = TRIM(text to remove extra spaces from)  
-</code></pre>
-
-<h4 id="clean">CLEAN</h4>
-
-<p>CLEAN is used to remove non-printable characters from a cell. These non-printable characters usually appear at the start of data that was imported into Excel from another application.</p>
-
-<pre><code>    = CLEAN(text to remove non-printable characters from)  
-</code></pre>
-
-<h4 id="lower-upper-and-proper">LOWER, UPPER and PROPER</h4>
-
-<p>LOWER, UPPER and PROPER are used change the case of a text string. All three functions have similar syntax to TRIM and CLEAN, i.e:</p>
-
-<pre><code>  = LOWER(text to change to lower case)/UPPER(text to change to upper case)/PROPER(text to sentence case)  
-</code></pre>
-
-<h3 id="other-functions">Other functions</h3>
-
-<h4 id="concatenate">CONCATENATE</h4>
-
-<p>CONCATENATE is used to combine a series of provided text strings into one text string. This can be useful when you need to create a unique ID for a row by using the provided text strings (I&rsquo;ve often used this when I need to find duplicated rows in a dataset).</p>
-
-<pre><code>  = CONCATENATE(text1, text2, . )  
-</code></pre>
-
-<p>Example:</p>
-
-<p><img src="https://jbraggins.netlify.com/img/concatenate.png" title="concatenate example"/></p>
-
-<h4 id="len">LEN</h4>
-
-<p>LEN is used to find the length of a text string in a cell.</p>
-
-<pre><code>  = LEN(text to check length of)  
-</code></pre>
-
-<p>Example:</p>
-
-<p><img src="https://jbraggins.netlify.com/img/len.png" title="len example"/></p>
-
-<h3 id="conclusion">Conclusion</h3>
-
-<p>That&rsquo;s it for now. For my second post on using Excel for analysis I&rsquo;ll explore other useful analytical tools like pivot tables, charts and conditional formatting.</p>
-
-<p>Excel is more-often-than-not the default application provided by organisations for data analysis, therefore it is always useful to keep your skills up-to-date. Even if you have other tools at your disposal, it&rsquo;s always worth starting with Excel to build intuition and knowledge before attempting more advanced applications like R or Python.</p>
-
-<h5 id="is-there-anything-that-i-ve-missed-or-would-you-like-to-know-about-another-function-not-included-here-let-me-know-below-thanks-and-make-sure-to-check-in-next-week-for-part-two-of-analysis-in-excel">Is there anything that I&rsquo;ve missed? Or, would you like to know about another function not included here? Let me know below. Thanks, and make sure to check-in next week for part two of Analysis in Excel!</h5>
-
-              
-            </div>
-          </div>
-          <div id="post-footer" class="post-footer main-content-wrap">
-            
-              
-                
-                
-                  <div class="post-footer-tags">
-                    <span class="text-color-light text-small">TAGGED IN</span><br/>
-                    
-  <a class="tag tag--primary tag--small" href="https://jbraggins.netlify.com//tags/excel/">Excel</a>
-
-  <a class="tag tag--primary tag--small" href="https://jbraggins.netlify.com//tags/analytics/">Analytics</a>
-
-                  </div>
-                
-              
-            
-            
-  <div class="post-actions-wrap">
-      <nav >
-        <ul class="post-actions post-action-nav">
-            <li class="post-action">
-              
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://jbraggins.netlify.com/2017/11/when-to-say-no/" data-tooltip="When to Say No (and a bit of Self-Reflection)">
-              
-                <i class="fa fa-angle-left"></i>
-                <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
-              </a>
-            </li>
-            <li class="post-action">
-              
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://jbraggins.netlify.com/2017/10/in-defence-of-excel/" data-tooltip="In Defence of Excel">
-              
-                <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
-                <i class="fa fa-angle-right"></i>
-              </a>
-            </li>
-        </ul>
-      </nav>
-    <ul class="post-actions post-action-share" >
-      
-        <li class="post-action hide-lg hide-md hide-sm">
-          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
-            <i class="fa fa-share-alt"></i>
-          </a>
-        </li>
+    </div>
+    <div class="postShorten-excerpt" itemprop="articleBody">
+      After a hiatus of a few months I&rsquo;m back into taking part in the #SWDChallenge!
+March&rsquo;s challenge was a collaboration between Cole Nussbaumer Knaflic (Storytelling with Data) and Enrico Bertini (Data Stories podcast). The aim was to visualise a predefined data set and answer the question of &lsquo;who donates?&rsquo;.
+The Data The dataset came from AidData
+My Approach I had a couple of ideas in mind with this challenge: - Create a one page report that addressed the question - Zero in on the highest donators and take a look at how they were contributing
+      <p>
+        <a href="https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/" class="postShorten-excerpt_link link">Continue reading</a>
         
-          <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
-              <i class="fa fa-facebook-official"></i>
-            </a>
-          </li>
-        
-          <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
-              <i class="fa fa-twitter"></i>
-            </a>
-          </li>
-        
-          <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
-              <i class="fa fa-google-plus"></i>
-            </a>
-          </li>
-        
-      
-      
-        <li class="post-action">
-          <a class="post-action-btn btn btn--default" href="#disqus_thread">
-            <i class="fa fa-comment-o"></i>
-          </a>
-        </li>
-      
-      <li class="post-action">
-        
-          <a class="post-action-btn btn btn--default" href="#">
-        
-          <i class="fa fa-list"></i>
-        </a>
-      </li>
-    </ul>
+      </p>
+    </div>
   </div>
-
+  
+    <a href="https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/">
+      <div class="postShorten-thumbnailimg">
+        <img alt="" itemprop="image" src="https://jbraggins.netlify.com/img/AidData%20Report.png"/>
+      </div>
+    </a>
+  
+</article>
 
             
-              
-                <div id="disqus_thread">
-  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
-</div>
-              
             
-          </div>
-        </article>
+
+          </section>
+        
         <footer id="footer" class="main-content-wrap">
   <span class="copyrights">
     &copy; 2019 Jared Braggins. All Rights Reserved
@@ -497,100 +297,6 @@ There are other conditional and logical functions worth learning like IFERROR, I
 </footer>
 
       </div>
-      <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
-        
-  <div class="post-actions-wrap">
-      <nav >
-        <ul class="post-actions post-action-nav">
-            <li class="post-action">
-              
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://jbraggins.netlify.com/2017/11/when-to-say-no/" data-tooltip="When to Say No (and a bit of Self-Reflection)">
-              
-                <i class="fa fa-angle-left"></i>
-                <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
-              </a>
-            </li>
-            <li class="post-action">
-              
-                <a class="post-action-btn btn btn--default tooltip--top" href="https://jbraggins.netlify.com/2017/10/in-defence-of-excel/" data-tooltip="In Defence of Excel">
-              
-                <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
-                <i class="fa fa-angle-right"></i>
-              </a>
-            </li>
-        </ul>
-      </nav>
-    <ul class="post-actions post-action-share" >
-      
-        <li class="post-action hide-lg hide-md hide-sm">
-          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
-            <i class="fa fa-share-alt"></i>
-          </a>
-        </li>
-        
-          <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
-              <i class="fa fa-facebook-official"></i>
-            </a>
-          </li>
-        
-          <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
-              <i class="fa fa-twitter"></i>
-            </a>
-          </li>
-        
-          <li class="post-action hide-xs">
-            <a class="post-action-btn btn btn--default" target="new" href="https://plus.google.com/share?url=https://jbraggins.netlify.com/2017/11/analysis-in-excel-part-one/">
-              <i class="fa fa-google-plus"></i>
-            </a>
-          </li>
-        
-      
-      
-        <li class="post-action">
-          <a class="post-action-btn btn btn--default" href="#disqus_thread">
-            <i class="fa fa-comment-o"></i>
-          </a>
-        </li>
-      
-      <li class="post-action">
-        
-          <a class="post-action-btn btn btn--default" href="#">
-        
-          <i class="fa fa-list"></i>
-        </a>
-      </li>
-    </ul>
-  </div>
-
-
-      </div>
-      <div id="share-options-bar" class="share-options-bar" data-behavior="4">
-  <i id="btn-close-shareoptions" class="fa fa-close"></i>
-  <ul class="share-options">
-    
-      <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjbraggins.netlify.com%2F2017%2F11%2Fanalysis-in-excel-part-one%2F">
-          <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
-        </a>
-      </li>
-    
-      <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fjbraggins.netlify.com%2F2017%2F11%2Fanalysis-in-excel-part-one%2F">
-          <i class="fa fa-twitter"></i><span>Share on Twitter</span>
-        </a>
-      </li>
-    
-      <li class="share-option">
-        <a class="share-option-btn" target="new" href="https://plus.google.com/share?url=https%3A%2F%2Fjbraggins.netlify.com%2F2017%2F11%2Fanalysis-in-excel-part-one%2F">
-          <i class="fa fa-google-plus"></i><span>Share on Google&#43;</span>
-        </a>
-      </li>
-    
-  </ul>
-</div>
-<div id="share-options-mask" class="share-options-mask"></div>
     </div>
     
     <div id="about">
@@ -870,32 +576,6 @@ $(document).ready(function() {
   });
 });
 </script>
-
-  
-    
-      <script>
-        var disqus_config = function () {
-          this.page.url = 'https:\/\/jbraggins.netlify.com\/2017\/11\/analysis-in-excel-part-one\/';
-          
-            this.page.identifier = '\/2017\/11\/analysis-in-excel-part-one\/'
-          
-        };
-        (function() {
-          
-          
-          if (window.location.hostname == "localhost") {
-            return;
-          }
-          var d = document, s = d.createElement('script');
-          var disqus_shortname = 'https-jbraggins-netlify-com';
-          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
-
-          s.setAttribute('data-timestamp', +new Date());
-          (d.head || d.body).appendChild(s);
-        })();
-      </script>
-    
-  
 
 
 

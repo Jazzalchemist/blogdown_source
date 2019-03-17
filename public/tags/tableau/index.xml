@@ -2,23 +2,35 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tableau on Jared Braggins</title>
-    <link>/tags/tableau/</link>
+    <link>https://jbraggins.netlify.com/tags/tableau/</link>
     <description>Recent content in Tableau on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbraggins.netlify.com/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title></title>
-      <link>/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</link>
+      <title>Makeover Monday Week 11 2019 - Philadelphia&#39;s Housing Market</title>
+      <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</guid>
+      <guid>https://jbraggins.netlify.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</guid>
       <description>I&amp;rsquo;ve finally started taking part in the #Makeover Monday challenge! Week 11 looked at real estate transfers in Philadelphia. Here&amp;rsquo;s the original visualisation:
 What works well:  Clean area chart is easy to read Simple colour scheme Sorted bar chart  What could be improved:  The bar chart needs to be resized The map lacks detail The titles aren&amp;rsquo;t very helpful  What I focused on  As it was my first week, I thought I&amp;rsquo;d try and focus on clean design.</description>
+    </item>
+    
+    <item>
+      <title>SWDChallenge March 2019 - Which Countries Contributed the most to Foreign Aid?</title>
+      <link>https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/</guid>
+      <description>After a hiatus of a few months I&amp;rsquo;m back into taking part in the #SWDChallenge!
+March&amp;rsquo;s challenge was a collaboration between Cole Nussbaumer Knaflic (Storytelling with Data) and Enrico Bertini (Data Stories podcast). The aim was to visualise a predefined data set and answer the question of &amp;lsquo;who donates?&amp;rsquo;.
+The Data The dataset came from AidData
+My Approach I had a couple of ideas in mind with this challenge: - Create a one page report that addressed the question - Zero in on the highest donators and take a look at how they were contributing</description>
     </item>
     
   </channel>

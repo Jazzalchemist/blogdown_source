@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>/2018/12/finding-the-motivation/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
   </url>
@@ -59,7 +64,14 @@
   </url>
   
   <url>
-    <loc>/excel/</loc>
+    <loc>/tags/data-visualisation/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/data-viz/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -70,14 +82,43 @@
   </url>
   
   <url>
+    <loc>/excel/</loc>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/makeover-monday/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/philadelphia/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>/post/</loc>
-    <lastmod>2018-12-18T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/real-estate/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/tags/tableau/</loc>
+    <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

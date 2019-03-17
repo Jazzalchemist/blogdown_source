@@ -21,6 +21,15 @@
     </item>
     
     <item>
+      <title>Board Games</title>
+      <link>https://jbraggins.netlify.com/tags/board-games/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/tags/board-games/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Data Visualisation</title>
       <link>https://jbraggins.netlify.com/tags/data-visualisation/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
@@ -39,11 +48,29 @@
     </item>
     
     <item>
+      <title>Dplyr</title>
+      <link>https://jbraggins.netlify.com/tags/dplyr/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/tags/dplyr/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Excel</title>
       <link>https://jbraggins.netlify.com/tags/excel/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
       
       <guid>https://jbraggins.netlify.com/tags/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Ggplot</title>
+      <link>https://jbraggins.netlify.com/tags/ggplot/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/tags/ggplot/</guid>
       <description></description>
     </item>
     
@@ -62,6 +89,15 @@
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jbraggins.netlify.com/tags/philadelphia/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://jbraggins.netlify.com/tags/r/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/tags/r/</guid>
       <description></description>
     </item>
     
@@ -98,6 +134,24 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>https://jbraggins.netlify.com/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidy Tuesday</title>
+      <link>https://jbraggins.netlify.com/tags/tidy-tuesday/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/tags/tidy-tuesday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidyverse</title>
+      <link>https://jbraggins.netlify.com/tags/tidyverse/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/tags/tidyverse/</guid>
       <description></description>
     </item>
     

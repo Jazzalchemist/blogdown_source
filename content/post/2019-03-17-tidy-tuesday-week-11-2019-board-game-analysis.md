@@ -73,7 +73,7 @@ running_total %>%
            hjust = 0, color = 'deepskyblue4') +
   theme_classic() +
   theme(axis.title.y = element_text(size = 10, vjust = 1, hjust = 0, angle = 0),
-       axis.title.x = element_text(size = 10, hjust = 0)) 
+       axis.title.x = element_text(size = 10, hjust = 0)) buil
   ```
 Here's the chart
 <img src="/img/Board Game.png" title="/img/Board Game"/>

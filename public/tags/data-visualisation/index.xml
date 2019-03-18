@@ -6,10 +6,20 @@
     <description>Recent content in Data Visualisation on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jbraggins.netlify.com/tags/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Makeover Monday Week 12 2019 - The Reykjavik Index For Leadership</title>
+      <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-12-2019-the-reykjavik-index-for-leadership/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/2019/03/makeover-monday-week-12-2019-the-reykjavik-index-for-leadership/</guid>
+      <description>Week 12 of #Makeover Monday looked at the Reykjavik Index Index. Here&amp;rsquo;s the original visualisation:
+What works well:  Simple colour scheme It is possible to figure see which countries are above average  What could be improved:  Being a radial chart, it&amp;rsquo;s circular nature makes it much harder to read than a bar chart The chart lacks context for what it is trying to show The G7 average gets a bit lost amongst the countries, despite being a different colour  What I focused on  I wanted to show the data in a bar chart that had supporting commentary.</description>
+    </item>
     
     <item>
       <title>Makeover Monday Week 11 2019 - Philadelphia&#39;s Housing Market</title>

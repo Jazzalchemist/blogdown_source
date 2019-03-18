@@ -11,7 +11,6 @@ tags:
   - Data Viz
   - Makeover Monday
   - Tableau
-  - Reykjavik
 thumbnailImage: "/img/Reykjavik Index.png"
 thumbnailImagePosition: left
 ---

@@ -2,20 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jared Braggins</title>
-    <link>/categories/</link>
+    <link>https://jbraggins.netlify.com/categories/</link>
     <description>Recent content in Categories on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbraggins.netlify.com/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Excel</title>
-      <link>/categories/excel/</link>
-      <pubDate>Sun, 29 Oct 2017 00:00:00 +0000</pubDate>
+      <title>Analysis</title>
+      <link>https://jbraggins.netlify.com/categories/analysis/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/categories/excel/</guid>
+      <guid>https://jbraggins.netlify.com/categories/analysis/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Books</title>
+      <link>https://jbraggins.netlify.com/categories/books/</link>
+      <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/categories/books/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Data Visualisation</title>
+      <link>https://jbraggins.netlify.com/categories/data-visualisation/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/categories/data-visualisation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Excel</title>
+      <link>https://jbraggins.netlify.com/categories/excel/</link>
+      <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/categories/excel/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>R</title>
+      <link>https://jbraggins.netlify.com/categories/r/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/categories/r/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tableau</title>
+      <link>https://jbraggins.netlify.com/categories/tableau/</link>
+      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/categories/tableau/</guid>
       <description></description>
     </item>
     

@@ -79,6 +79,12 @@
   </url>
   
   <url>
+    <loc>https://jbraggins.netlify.com/categories/analysis/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jbraggins.netlify.com/tags/analytics/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -96,7 +102,25 @@
   </url>
   
   <url>
+    <loc>https://jbraggins.netlify.com/categories/books/</loc>
+    <lastmod>2017-11-26T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jbraggins.netlify.com/categories/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jbraggins.netlify.com/tags/data-visualisation/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jbraggins.netlify.com/categories/data-visualisation/</loc>
     <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -114,12 +138,13 @@
   </url>
   
   <url>
-    <loc>https://jbraggins.netlify.com/excel/</loc>
+    <loc>https://jbraggins.netlify.com/tags/excel/</loc>
+    <lastmod>2017-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jbraggins.netlify.com/tags/excel/</loc>
+    <loc>https://jbraggins.netlify.com/categories/excel/</loc>
     <lastmod>2017-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -161,6 +186,12 @@
   </url>
   
   <url>
+    <loc>https://jbraggins.netlify.com/categories/r/</loc>
+    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jbraggins.netlify.com/tags/real-estate/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
     <priority>0</priority>
@@ -174,6 +205,12 @@
   
   <url>
     <loc>https://jbraggins.netlify.com/tags/tableau/</loc>
+    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jbraggins.netlify.com/categories/tableau/</loc>
     <lastmod>2019-03-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

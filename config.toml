@@ -27,7 +27,7 @@ canonifyurls = true
 
 [taxonomies]
   tag = "tags"
-  category = "Excel"
+  category = "categories"
   archive = "archives"
 
 [author]

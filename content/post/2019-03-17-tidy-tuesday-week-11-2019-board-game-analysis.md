@@ -18,7 +18,7 @@ tags:
   - ggplot
   - dplyr
 thumbnailImage: "/img/Board Game.png"
-thumbnailImagePosition: left
+thumbnailImagePosition: top
 ---
 
 I've started taking part in #TidyTuesday, a weekly project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset. The big draw card for me is getting better at using R for analysis. 

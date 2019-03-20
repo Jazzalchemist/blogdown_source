@@ -12,7 +12,7 @@ tags:
   - Makeover Monday
   - Tableau
 thumbnailImage: "/img/Reykjavik Index.png"
-thumbnailImagePosition: left
+thumbnailImagePosition: top
 ---
 
 Week 12 of #Makeover Monday looked at the Reykjavik Index Index. Here's the original visualisation:

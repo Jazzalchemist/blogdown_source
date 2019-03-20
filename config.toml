@@ -27,7 +27,7 @@ canonifyurls = true
 
 [taxonomies]
   tag = "tags"
-  category = "Excel, Books, Data Visualisation, Analysis, R, Tableau"
+  category = "Excel"
   archive = "archives"
 
 [author]
@@ -59,20 +59,20 @@ canonifyurls = true
   name = "Blog"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file-text-o\" title='Blog'></i>"
   url = "/post"
-#[[menu.main]]
-  #weight = 3
-  #identifier = "categories"
-  #name = "Categories"
-  #pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
-  #url = "/categories"
-#[[menu.main]]
-  #weight = 4
-  #identifier = "tags"
-  #name = "Tags"
-  #pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
-  #url = "/tags"
 [[menu.main]]
   weight = 4
+  identifier = "categories"
+  name = "Categories"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
+  url = "/categories"
+[[menu.main]]
+  weight = 5
+  identifier = "tags"
+  name = "Tags"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
+  url = "/tags"
+[[menu.main]]
+  weight = 6
   identifier = "archives"
   name = "Archives"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"

@@ -27,7 +27,7 @@ canonifyurls = true
 
 [taxonomies]
   tag = "tags"
-  category = "Excel"
+  category = "Excel, Books, Data Visualisation, Analysis, R, Tableau"
   archive = "archives"
 
 [author]

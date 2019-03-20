@@ -19,7 +19,7 @@
       <guid>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-12-2019-stanford-policing-project-analysis/</guid>
       <description>My second week taking part in #TidyTuesday! Let&amp;rsquo;s keep the ball rolling&amp;hellip;
 The Data The data for week 12 was all about traffic stops made by US police officers, which comes from the Stanford Open Policing Project
-Analysis I wanted to continue focussing on refreshing my ggplot2 skills this week, particularly around the use of using facet_wrap(). My approach to analysis was to have a look at driver race in terms of traffic stops.</description>
+Analysis I wanted to continue focusing on refreshing my ggplot2 skills this week, particularly around the use of using facet_wrap(). My approach to the analysis was to have a look at driver race in terms of number of traffic stops.</description>
     </item>
     
     <item>

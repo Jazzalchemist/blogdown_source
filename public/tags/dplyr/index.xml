@@ -6,10 +6,21 @@
     <description>Recent content in Dplyr on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jbraggins.netlify.com/tags/dplyr/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Tidy Tuesday Week 12 2019 - Stanford Policing Project Analysis</title>
+      <link>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-12-2019-stanford-policing-project-analysis/</link>
+      <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-12-2019-stanford-policing-project-analysis/</guid>
+      <description>My second week taking part in #TidyTuesday! Let&amp;rsquo;s keep the ball rolling&amp;hellip;
+The Data The data for week 12 was all about traffic stops made by US police officers, which comes from the Stanford Open Policing Project
+Analysis I wanted to continue focussing on refreshing my ggplot2 skills this week, particularly around the use of using facet_wrap(). My approach to analysis was to have a look at driver race in terms of traffic stops.</description>
+    </item>
     
     <item>
       <title>Tidy Tuesday Week 11 2019 - Board Game Analysis</title>

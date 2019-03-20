@@ -6,7 +6,7 @@ slug: makeover-monday-week-11-2019-philadelphia-s-housing-market
 categories: [Data Visualisation, Tableau]
 tags: [Real Estate, Philadelphia, Data Viz, Data Visualisation, Makeover Monday, Tableau]
 thumbnailImage: "/img/MortgageDash.png"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 ---
 
 I've finally started taking part in the #Makeover Monday challenge! Week 11 looked at real estate transfers in Philadelphia. Here's the original visualisation:

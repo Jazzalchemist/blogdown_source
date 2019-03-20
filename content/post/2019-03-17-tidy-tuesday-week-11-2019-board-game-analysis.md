@@ -8,17 +8,17 @@ categories:
   - Analysis
   - R
 tags:
-  - Analytics
+  - Analysis
   - Data Visualisation
   - Data Viz
   - Tidy Tuesday
   - R
   - Board Games
   - tidyverse
-  - ggplot
+  - ggplot2
   - dplyr
 thumbnailImage: "/img/Board Game.png"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 ---
 
 I've started taking part in #TidyTuesday, a weekly project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset. The big draw card for me is getting better at using R for analysis. 
@@ -73,10 +73,10 @@ running_total %>%
            hjust = 0, color = 'deepskyblue4') +
   theme_classic() +
   theme(axis.title.y = element_text(size = 10, vjust = 1, hjust = 0, angle = 0),
-       axis.title.x = element_text(size = 10, hjust = 0)) buil
+       axis.title.x = element_text(size = 10, hjust = 0))
   ```
 Here's the chart
 <img src="/img/Board Game.png" title="/img/Board Game"/>
 
 #### Conclusion
-My analysis for this week's #TidyTuesday wasn't as detailed as I would have liked, but I did get in some valuable ggplot practice.
+My analysis for this week's #TidyTuesday wasn't as detailed as I would have liked, but I did get in some valuable ggplot2 practice.

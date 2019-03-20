@@ -25,7 +25,7 @@ My second week taking part in #TidyTuesday! Let's keep the ball rolling...
 The data for week 12 was all about [traffic stops made by US police officers](https://github.com/rfordatascience/tidytuesday/tree/master/data/2019/2019-03-12), which comes from the [Stanford Open Policing Project](https://openpolicing.stanford.edu/)
 
 #### Analysis
-I wanted to continue focussing on refreshing my ggplot2 skills this week, particularly around the use of using facet_wrap(). My approach to analysis was to have a look at driver race in terms of traffic stops. I wanted to use small multiples to show this for each state.  
+I wanted to continue focusing on refreshing my ggplot2 skills this week, particularly around the use of using facet_wrap(). My approach to the analysis was to have a look at driver race in terms of number of traffic stops. I wanted to use small multiples to show this for each state.  
 
 So lets bring the data in and convert the state abbreviations to full state names:
 

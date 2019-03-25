@@ -21,7 +21,7 @@ Week 13 of #Makeover Monday looked at how different generations are spending the
 <img src="/img/Consumer Spending.png" title="Consumer Spending"/>
 
 #### What works well:
-- The overall payout is simple and uncluttered
+- The overall layout is simple and uncluttered
 - Vivid colours help make each category stand out
 
 #### What could be improved:

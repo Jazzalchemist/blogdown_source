@@ -1,5 +1,5 @@
 ---
-title: Tidy Tuesday Week 11 2019 - Board Game Analysis
+title: #TidyTuesday Week 11 2019 - Board Game Analysis
 author: Jared Braggins
 date: '2019-03-17'
 slug: tidy-tuesday-week-11-2019-board-game-analysis
@@ -11,7 +11,7 @@ tags:
   - Analysis
   - Data Visualisation
   - Data Viz
-  - Tidy Tuesday
+  - '#TidyTuesday'
   - R
   - Board Games
   - tidyverse

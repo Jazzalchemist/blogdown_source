@@ -1,5 +1,5 @@
 ---
-title: Makeover Monday Week 12 2019 - The Reykjavik Index For Leadership
+title: #MakeoverMonday Week 12 2019 - The Reykjavik Index For Leadership
 author: Jared Braggins
 date: '2019-03-18'
 slug: makeover-monday-week-12-2019-the-reykjavik-index-for-leadership
@@ -9,13 +9,13 @@ categories:
 tags:
   - Data Visualisation
   - Data Viz
-  - Makeover Monday
+  - #'MakeoverMonday'
   - Tableau
 thumbnailImage: "/img/Reykjavik Index.png"
 thumbnailImagePosition: left
 ---
 
-Week 12 of #Makeover Monday looked at the Reykjavik Index Index. Here's the original visualisation:
+Week 12 of #MakeoverMonday looked at the Reykjavik Index Index. Here's the original visualisation:
 
 <img src="/img/G7 Reykjavik.jpg" title="G7 Reykjavik"/>
 

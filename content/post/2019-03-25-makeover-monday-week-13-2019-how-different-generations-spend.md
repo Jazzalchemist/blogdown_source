@@ -1,5 +1,5 @@
 ---
-title: Makeover Monday Week 13 2019 - How Different Generations Spend
+title: #MakeoverMonday Week 13 2019 - How Different Generations Spend
 author: Jared Braggins
 date: '2019-03-25'
 slug: makeover-monday-week-13-2019-how-different-generations-spend
@@ -11,12 +11,12 @@ tags:
   - Data Visualisation
   - Data Viz
   - Tableau
-  - Makeover Monday
+  - '#MakeoverMonday'
 thumbnailImage: "/img/Gen Spend.png"
 thumbnailImagePosition: left
 ---
 
-Week 13 of #Makeover Monday looked at how different generations are spending their income. Here's the original visualisation:
+Week 13 of #MakeoverMonday looked at how different generations are spending their income. Here's the original visualisation:
 
 <img src="/img/Consumer Spending.png" title="Consumer Spending"/>
 

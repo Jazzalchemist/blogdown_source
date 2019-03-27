@@ -1,5 +1,5 @@
 ---
-title: '#TidyTuesday Week 13 2019 - Seattle Pet Names'
+title: #TidyTuesday Week 13 2019 - Seattle Pet Names
 author: Jared Braggins
 date: '2019-03-27'
 slug: tidytuesday-week-13-2019-seattle-pet-names

@@ -1,5 +1,5 @@
 ---
-title: #MakeoverMonday Week 13 2019 - How Different Generations Spend
+title: Makeover Monday Week 13 2019 - How Different Generations Spend
 author: Jared Braggins
 date: '2019-03-25'
 slug: makeover-monday-week-13-2019-how-different-generations-spend

@@ -12,7 +12,7 @@
     
     
     <item>
-      <title></title>
+      <title>Tidy Tuesday Week 13 2019 - Seattle Pet Names</title>
       <link>https://jbraggins.netlify.com/2019/03/tidytuesday-week-13-2019-seattle-pet-names/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -24,7 +24,7 @@ Here&amp;rsquo;s the code:
     </item>
     
     <item>
-      <title></title>
+      <title>Makeover Monday Week 13 2019 - How Different Generations Spend</title>
       <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -34,7 +34,7 @@ What works well:  The overall layout is simple and uncluttered Vivid colours hel
     </item>
     
     <item>
-      <title></title>
+      <title>Tidy Tuesday Week 12 2019 - Stanford Policing Project Analysis</title>
       <link>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-12-2019-stanford-policing-project-analysis/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -45,7 +45,7 @@ Analysis I wanted to continue focusing on refreshing my ggplot2 skills this week
     </item>
     
     <item>
-      <title></title>
+      <title>Makeover Monday Week 12 2019 - The Reykjavik Index For Leadership</title>
       <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-12-2019-the-reykjavik-index-for-leadership/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -55,24 +55,13 @@ What works well:  Simple colour scheme It is possible to figure see which countr
     </item>
     
     <item>
-      <title></title>
+      <title>Makeover Monday Week 11 2019 - Philadelphia&#39;s Housing Market</title>
       <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jbraggins.netlify.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</guid>
       <description>I&amp;rsquo;ve finally started taking part in the #Makeover Monday challenge! Week 11 looked at real estate transfers in Philadelphia. Here&amp;rsquo;s the original visualisation:
 What works well:  Clean area chart is easy to read Simple colour scheme Sorted bar chart  What could be improved:  The bar chart needs to be resized The map lacks detail The titles aren&amp;rsquo;t very helpful  What I focused on  As it was my first week, I thought I&amp;rsquo;d try and focus on clean design.</description>
-    </item>
-    
-    <item>
-      <title></title>
-      <link>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</link>
-      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</guid>
-      <description>I&amp;rsquo;ve started taking part in #TidyTuesday, a weekly project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset. The big draw card for me is getting better at using R for analysis.
-The Data The data for week 11 was all about board games, which comes from the Board Game Geek Database
-Analysis I kept it very simple this week. This was mainly due to my R skills slipping over the previous year.</description>
     </item>
     
     <item>
@@ -85,6 +74,17 @@ Analysis I kept it very simple this week. This was mainly due to my R skills sli
 March&amp;rsquo;s challenge was a collaboration between Cole Nussbaumer Knaflic (Storytelling with Data) and Enrico Bertini (Data Stories podcast). The aim was to visualise a predefined data set and answer the question of &amp;lsquo;who donates?&amp;rsquo;.
 The Data The dataset came from AidData
 My Approach  Create a one page report that addressed the question Zero in on the highest donators and take a look at how they were contributing  Reflections What worked well?</description>
+    </item>
+    
+    <item>
+      <title>Tidy Tuesday Week 11 2019 - Board Game Analysis</title>
+      <link>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</guid>
+      <description>I&amp;rsquo;ve started taking part in #TidyTuesday, a weekly project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset. The big draw card for me is getting better at using R for analysis.
+The Data The data for week 11 was all about board games, which comes from the Board Game Geek Database
+Analysis I kept it very simple this week. This was mainly due to my R skills slipping over the previous year.</description>
     </item>
     
     <item>

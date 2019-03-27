@@ -1,5 +1,5 @@
 ---
-title: #TidyTuesday Week 12 2019 - Stanford Policing Project Analysis
+title: Tidy Tuesday Week 12 2019 - Stanford Policing Project Analysis
 author: Jared Braggins
 date: '2019-03-20'
 slug: tidy-tuesday-week-12-2019-stanford-policing-project-analysis

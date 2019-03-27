@@ -1,5 +1,5 @@
 ---
-title: #MakeoverMonday Week 12 2019 - The Reykjavik Index For Leadership
+title: Makeover Monday Week 12 2019 - The Reykjavik Index For Leadership
 author: Jared Braggins
 date: '2019-03-18'
 slug: makeover-monday-week-12-2019-the-reykjavik-index-for-leadership

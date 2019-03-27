@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jbraggins.netlify.com/2019/03/tidytuesday-week-13-2019-seattle-pet-names/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jbraggins.netlify.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
   </url>
@@ -23,12 +28,12 @@
   </url>
   
   <url>
-    <loc>https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/</loc>
+    <loc>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</loc>
+    <loc>https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/</loc>
     <lastmod>2019-03-17T00:00:00+00:00</lastmod>
   </url>
   
@@ -78,14 +83,32 @@
   </url>
   
   <url>
-    <loc>https://jbraggins.netlify.com/tags/analysis/</loc>
+    <loc>https://jbraggins.netlify.com/tags/</loc>
+    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jbraggins.netlify.com/tags/makeovermonday/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
+    <loc>https://jbraggins.netlify.com/tags/tidytuesday/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jbraggins.netlify.com/tags/analysis/</loc>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>https://jbraggins.netlify.com/categories/analysis/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -114,19 +137,19 @@
   
   <url>
     <loc>https://jbraggins.netlify.com/categories/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jbraggins.netlify.com/tags/data-visualisation/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jbraggins.netlify.com/categories/data-visualisation/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -138,7 +161,7 @@
   
   <url>
     <loc>https://jbraggins.netlify.com/tags/dplyr/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -156,19 +179,13 @@
   
   <url>
     <loc>https://jbraggins.netlify.com/tags/ggplot2/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jbraggins.netlify.com/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jbraggins.netlify.com/tags/makeover-monday/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -180,19 +197,19 @@
   
   <url>
     <loc>https://jbraggins.netlify.com/post/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jbraggins.netlify.com/tags/r/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jbraggins.netlify.com/categories/r/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -222,19 +239,13 @@
   
   <url>
     <loc>https://jbraggins.netlify.com/tags/</loc>
-    <lastmod>2019-03-25T00:00:00+00:00</lastmod>
+    <lastmod>2019-03-18T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jbraggins.netlify.com/tags/thoughts/</loc>
     <lastmod>2018-12-18T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jbraggins.netlify.com/tags/tidy-tuesday/</loc>
-    <lastmod>2019-03-20T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

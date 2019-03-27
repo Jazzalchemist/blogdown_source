@@ -6,23 +6,35 @@
     <description>Recent content in Data Visualisation on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jbraggins.netlify.com/categories/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Makeover Monday Week 13 2019 - How Different Generations Spend</title>
+      <title>#TidyTuesday Week 13 2019 - Seattle Pet Names</title>
+      <link>https://jbraggins.netlify.com/2019/03/tidytuesday-week-13-2019-seattle-pet-names/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/2019/03/tidytuesday-week-13-2019-seattle-pet-names/</guid>
+      <description>The Data Week 13&amp;rsquo;s data comes from Seattle&amp;rsquo;s open data portal and contains information about registered pets.
+The Analysis Since this was a quick #TidyTuesday this week I decided to visualise the top ten pet names. I highlighted the most popular name in a different colour to help it stand out.
+Here&amp;rsquo;s the code:
+ library(tidyverse) seattle_pets &amp;lt;- read.csv(&amp;quot;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-03-26/seattle_pets.csv&amp;quot;) # Inspect data View(seattle_pets) # Find top ten names for all pets pet_names &amp;lt;- seattle_pets %&amp;gt;% filter(!</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jbraggins.netlify.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</guid>
-      <description>Week 13 of #Makeover Monday looked at how different generations are spending their income. Here&amp;rsquo;s the original visualisation:
+      <description>Week 13 of #MakeoverMonday looked at how different generations are spending their income. Here&amp;rsquo;s the original visualisation:
 What works well:  The overall layout is simple and uncluttered Vivid colours help make each category stand out  What could be improved:  The legend could be moved to the top to help make reading the chart easier Each portion of each bar doesn&amp;rsquo;t start from the same place, so it tricky to compare across each age group (although the labels do help with this)  What I focused on  I simplified the original visualisation by separating each age group and category into separate bar charts.</description>
     </item>
     
     <item>
-      <title>Tidy Tuesday Week 12 2019 - Stanford Policing Project Analysis</title>
+      <title></title>
       <link>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-12-2019-stanford-policing-project-analysis/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -33,23 +45,34 @@ Analysis I wanted to continue focusing on refreshing my ggplot2 skills this week
     </item>
     
     <item>
-      <title>Makeover Monday Week 12 2019 - The Reykjavik Index For Leadership</title>
+      <title></title>
       <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-12-2019-the-reykjavik-index-for-leadership/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jbraggins.netlify.com/2019/03/makeover-monday-week-12-2019-the-reykjavik-index-for-leadership/</guid>
-      <description>Week 12 of #Makeover Monday looked at the Reykjavik Index Index. Here&amp;rsquo;s the original visualisation:
+      <description>Week 12 of #MakeoverMonday looked at the Reykjavik Index Index. Here&amp;rsquo;s the original visualisation:
 What works well:  Simple colour scheme It is possible to figure see which countries are above average  What could be improved:  Being a radial chart, it&amp;rsquo;s circular nature makes it much harder to read than a bar chart The chart lacks context for what it is trying to show The G7 average gets a bit lost amongst the countries, despite being a different colour  What I focused on  I wanted to show the data in a bar chart that had supporting commentary.</description>
     </item>
     
     <item>
-      <title>Makeover Monday Week 11 2019 - Philadelphia&#39;s Housing Market</title>
+      <title></title>
       <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jbraggins.netlify.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</guid>
       <description>I&amp;rsquo;ve finally started taking part in the #Makeover Monday challenge! Week 11 looked at real estate transfers in Philadelphia. Here&amp;rsquo;s the original visualisation:
 What works well:  Clean area chart is easy to read Simple colour scheme Sorted bar chart  What could be improved:  The bar chart needs to be resized The map lacks detail The titles aren&amp;rsquo;t very helpful  What I focused on  As it was my first week, I thought I&amp;rsquo;d try and focus on clean design.</description>
+    </item>
+    
+    <item>
+      <title></title>
+      <link>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</link>
+      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</guid>
+      <description>I&amp;rsquo;ve started taking part in #TidyTuesday, a weekly project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset. The big draw card for me is getting better at using R for analysis.
+The Data The data for week 11 was all about board games, which comes from the Board Game Geek Database
+Analysis I kept it very simple this week. This was mainly due to my R skills slipping over the previous year.</description>
     </item>
     
     <item>
@@ -62,17 +85,6 @@ What works well:  Clean area chart is easy to read Simple colour scheme Sorted b
 March&amp;rsquo;s challenge was a collaboration between Cole Nussbaumer Knaflic (Storytelling with Data) and Enrico Bertini (Data Stories podcast). The aim was to visualise a predefined data set and answer the question of &amp;lsquo;who donates?&amp;rsquo;.
 The Data The dataset came from AidData
 My Approach  Create a one page report that addressed the question Zero in on the highest donators and take a look at how they were contributing  Reflections What worked well?</description>
-    </item>
-    
-    <item>
-      <title>Tidy Tuesday Week 11 2019 - Board Game Analysis</title>
-      <link>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</link>
-      <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</guid>
-      <description>I&amp;rsquo;ve started taking part in #TidyTuesday, a weekly project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset. The big draw card for me is getting better at using R for analysis.
-The Data The data for week 11 was all about board games, which comes from the Board Game Geek Database
-Analysis I kept it very simple this week. This was mainly due to my R skills slipping over the previous year.</description>
     </item>
     
     <item>

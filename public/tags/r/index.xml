@@ -6,13 +6,25 @@
     <description>Recent content in R on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 20 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jbraggins.netlify.com/tags/r/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Tidy Tuesday Week 12 2019 - Stanford Policing Project Analysis</title>
+      <title>#TidyTuesday Week 13 2019 - Seattle Pet Names</title>
+      <link>https://jbraggins.netlify.com/2019/03/tidytuesday-week-13-2019-seattle-pet-names/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jbraggins.netlify.com/2019/03/tidytuesday-week-13-2019-seattle-pet-names/</guid>
+      <description>The Data Week 13&amp;rsquo;s data comes from Seattle&amp;rsquo;s open data portal and contains information about registered pets.
+The Analysis Since this was a quick #TidyTuesday this week I decided to visualise the top ten pet names. I highlighted the most popular name in a different colour to help it stand out.
+Here&amp;rsquo;s the code:
+ library(tidyverse) seattle_pets &amp;lt;- read.csv(&amp;quot;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-03-26/seattle_pets.csv&amp;quot;) # Inspect data View(seattle_pets) # Find top ten names for all pets pet_names &amp;lt;- seattle_pets %&amp;gt;% filter(!</description>
+    </item>
+    
+    <item>
+      <title></title>
       <link>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-12-2019-stanford-policing-project-analysis/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
@@ -23,7 +35,7 @@ Analysis I wanted to continue focusing on refreshing my ggplot2 skills this week
     </item>
     
     <item>
-      <title>Tidy Tuesday Week 11 2019 - Board Game Analysis</title>
+      <title></title>
       <link>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       

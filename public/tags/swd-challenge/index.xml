@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Swd Challenge on Jared Braggins</title>
-    <link>https://jbraggins.netlify.com/tags/swd-challenge/</link>
+    <link>https://jaredbraggins.com/tags/swd-challenge/</link>
     <description>Recent content in Swd Challenge on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 17 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jbraggins.netlify.com/tags/swd-challenge/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jaredbraggins.com/tags/swd-challenge/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>SWDChallenge March 2019 - Which Countries Contributed the most to Foreign Aid?</title>
-      <link>https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/</link>
+      <link>https://jaredbraggins.com/2019/03/swd-challenge-march-2019/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/</guid>
+      <guid>https://jaredbraggins.com/2019/03/swd-challenge-march-2019/</guid>
       <description>After a hiatus of a few months I&amp;rsquo;m back into taking part in the #SWDChallenge!
 March&amp;rsquo;s challenge was a collaboration between Cole Nussbaumer Knaflic (Storytelling with Data) and Enrico Bertini (Data Stories podcast). The aim was to visualise a predefined data set and answer the question of &amp;lsquo;who donates?&amp;rsquo;.
 The Data The dataset came from AidData

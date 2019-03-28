@@ -43,7 +43,7 @@ canonifyurls = true
   # picture = "https://cdn1.iconfinder.com/data/icons/ninja-things-1/1772/ninja-simpl-512.png"
   picture = "/images/Profile_pic.jpg"
   #Your Twitter username without the @. E.g : thibaudlepretre
-  twitter = "Jazzalchemist"
+  twitter = "JareBraggins"
   # Your google plus profile id. E.g : +ThibaudLepretre or 114625208755123718311
   # googlePlus = "+ThibaudLepretre"
 
@@ -99,11 +99,11 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-linkedin\" title='LinkedIn'></i>"
   url = "https://www.linkedin.com/in/jared-braggins-01184587/"
 [[menu.links]]
-  #weight = 2
-  #identifier = "stackoverflow"
-  #name = "Stack Overflow"
-  #pre = "<i class=\"sidebar-button-icon fa fa-lg fa-stack-overflow\"></i>"
-  #url = "https://stackoverflow.com/users/636472/kakawait"
+  weight = 11
+  identifier = "twitter"
+  name = "Twitter"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg twitter\"></i>"
+  url = "https://twitter.com/JaredBraggins"
 
 [[menu.misc]]
   weight = 1

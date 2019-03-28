@@ -2,174 +2,174 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on Jared Braggins</title>
-    <link>https://jaredbraggins.com/tags/</link>
+    <link>https://jbraggins.netlify.com/tags/</link>
     <description>Recent content in Tags on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jaredbraggins.com/tags/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbraggins.netlify.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title></title>
-      <link>https://jaredbraggins.com/tags/</link>
+      <link>https://jbraggins.netlify.com/tags/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/</guid>
+      <guid>https://jbraggins.netlify.com/tags/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#Makeovermonday</title>
-      <link>https://jaredbraggins.com/tags/makeovermonday/</link>
+      <link>https://jbraggins.netlify.com/tags/makeovermonday/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/makeovermonday/</guid>
+      <guid>https://jbraggins.netlify.com/tags/makeovermonday/</guid>
       <description></description>
     </item>
     
     <item>
       <title>#Tidytuesday</title>
-      <link>https://jaredbraggins.com/tags/tidytuesday/</link>
+      <link>https://jbraggins.netlify.com/tags/tidytuesday/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/tidytuesday/</guid>
+      <guid>https://jbraggins.netlify.com/tags/tidytuesday/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analysis</title>
-      <link>https://jaredbraggins.com/tags/analysis/</link>
+      <link>https://jbraggins.netlify.com/tags/analysis/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/analysis/</guid>
+      <guid>https://jbraggins.netlify.com/tags/analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Analytics</title>
-      <link>https://jaredbraggins.com/tags/analytics/</link>
+      <link>https://jbraggins.netlify.com/tags/analytics/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/analytics/</guid>
+      <guid>https://jbraggins.netlify.com/tags/analytics/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Board Games</title>
-      <link>https://jaredbraggins.com/tags/board-games/</link>
+      <link>https://jbraggins.netlify.com/tags/board-games/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/board-games/</guid>
+      <guid>https://jbraggins.netlify.com/tags/board-games/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Visualisation</title>
-      <link>https://jaredbraggins.com/tags/data-visualisation/</link>
+      <link>https://jbraggins.netlify.com/tags/data-visualisation/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/data-visualisation/</guid>
+      <guid>https://jbraggins.netlify.com/tags/data-visualisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Viz</title>
-      <link>https://jaredbraggins.com/tags/data-viz/</link>
+      <link>https://jbraggins.netlify.com/tags/data-viz/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/data-viz/</guid>
+      <guid>https://jbraggins.netlify.com/tags/data-viz/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Dplyr</title>
-      <link>https://jaredbraggins.com/tags/dplyr/</link>
+      <link>https://jbraggins.netlify.com/tags/dplyr/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/dplyr/</guid>
+      <guid>https://jbraggins.netlify.com/tags/dplyr/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Excel</title>
-      <link>https://jaredbraggins.com/tags/excel/</link>
+      <link>https://jbraggins.netlify.com/tags/excel/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/excel/</guid>
+      <guid>https://jbraggins.netlify.com/tags/excel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Ggplot2</title>
-      <link>https://jaredbraggins.com/tags/ggplot2/</link>
+      <link>https://jbraggins.netlify.com/tags/ggplot2/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/ggplot2/</guid>
+      <guid>https://jbraggins.netlify.com/tags/ggplot2/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Philadelphia</title>
-      <link>https://jaredbraggins.com/tags/philadelphia/</link>
+      <link>https://jbraggins.netlify.com/tags/philadelphia/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/philadelphia/</guid>
+      <guid>https://jbraggins.netlify.com/tags/philadelphia/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://jaredbraggins.com/tags/r/</link>
+      <link>https://jbraggins.netlify.com/tags/r/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/r/</guid>
+      <guid>https://jbraggins.netlify.com/tags/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Real Estate</title>
-      <link>https://jaredbraggins.com/tags/real-estate/</link>
+      <link>https://jbraggins.netlify.com/tags/real-estate/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/real-estate/</guid>
+      <guid>https://jbraggins.netlify.com/tags/real-estate/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Swd Challenge</title>
-      <link>https://jaredbraggins.com/tags/swd-challenge/</link>
+      <link>https://jbraggins.netlify.com/tags/swd-challenge/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/swd-challenge/</guid>
+      <guid>https://jbraggins.netlify.com/tags/swd-challenge/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tableau</title>
-      <link>https://jaredbraggins.com/tags/tableau/</link>
+      <link>https://jbraggins.netlify.com/tags/tableau/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/tableau/</guid>
+      <guid>https://jbraggins.netlify.com/tags/tableau/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Thoughts</title>
-      <link>https://jaredbraggins.com/tags/thoughts/</link>
+      <link>https://jbraggins.netlify.com/tags/thoughts/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/thoughts/</guid>
+      <guid>https://jbraggins.netlify.com/tags/thoughts/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tidyverse</title>
-      <link>https://jaredbraggins.com/tags/tidyverse/</link>
+      <link>https://jbraggins.netlify.com/tags/tidyverse/</link>
       <pubDate>Wed, 20 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/tags/tidyverse/</guid>
+      <guid>https://jbraggins.netlify.com/tags/tidyverse/</guid>
       <description></description>
     </item>
     

@@ -2,51 +2,51 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tableau on Jared Braggins</title>
-    <link>https://jaredbraggins.com/tags/tableau/</link>
+    <link>https://jbraggins.netlify.com/tags/tableau/</link>
     <description>Recent content in Tableau on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 25 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jaredbraggins.com/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbraggins.netlify.com/tags/tableau/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Makeover Monday Week 13 2019 - How Different Generations Spend</title>
-      <link>https://jaredbraggins.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</link>
+      <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</guid>
+      <guid>https://jbraggins.netlify.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</guid>
       <description>Week 13 of #MakeoverMonday looked at how different generations are spending their income. Here&amp;rsquo;s the original visualisation:
 What works well:  The overall layout is simple and uncluttered Vivid colours help make each category stand out  What could be improved:  The legend could be moved to the top to help make reading the chart easier Each portion of each bar doesn&amp;rsquo;t start from the same place, so it tricky to compare across each age group (although the labels do help with this)  What I focused on  I simplified the original visualisation by separating each age group and category into separate bar charts.</description>
     </item>
     
     <item>
       <title>Makeover Monday Week 12 2019 - The Reykjavik Index For Leadership</title>
-      <link>https://jaredbraggins.com/2019/03/makeover-monday-week-12-2019-the-reykjavik-index-for-leadership/</link>
+      <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-12-2019-the-reykjavik-index-for-leadership/</link>
       <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/2019/03/makeover-monday-week-12-2019-the-reykjavik-index-for-leadership/</guid>
+      <guid>https://jbraggins.netlify.com/2019/03/makeover-monday-week-12-2019-the-reykjavik-index-for-leadership/</guid>
       <description>Week 12 of #MakeoverMonday looked at the Reykjavik Index Index. Here&amp;rsquo;s the original visualisation:
 What works well:  Simple colour scheme It is possible to figure see which countries are above average  What could be improved:  Being a radial chart, it&amp;rsquo;s circular nature makes it much harder to read than a bar chart The chart lacks context for what it is trying to show The G7 average gets a bit lost amongst the countries, despite being a different colour  What I focused on  I wanted to show the data in a bar chart that had supporting commentary.</description>
     </item>
     
     <item>
       <title>Makeover Monday Week 11 2019 - Philadelphia&#39;s Housing Market</title>
-      <link>https://jaredbraggins.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</link>
+      <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</guid>
+      <guid>https://jbraggins.netlify.com/2019/03/makeover-monday-week-11-2019-philadelphia-s-housing-market/</guid>
       <description>I&amp;rsquo;ve finally started taking part in the #Makeover Monday challenge! Week 11 looked at real estate transfers in Philadelphia. Here&amp;rsquo;s the original visualisation:
 What works well:  Clean area chart is easy to read Simple colour scheme Sorted bar chart  What could be improved:  The bar chart needs to be resized The map lacks detail The titles aren&amp;rsquo;t very helpful  What I focused on  As it was my first week, I thought I&amp;rsquo;d try and focus on clean design.</description>
     </item>
     
     <item>
       <title>SWDChallenge March 2019 - Which Countries Contributed the most to Foreign Aid?</title>
-      <link>https://jaredbraggins.com/2019/03/swd-challenge-march-2019/</link>
+      <link>https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/2019/03/swd-challenge-march-2019/</guid>
+      <guid>https://jbraggins.netlify.com/2019/03/swd-challenge-march-2019/</guid>
       <description>After a hiatus of a few months I&amp;rsquo;m back into taking part in the #SWDChallenge!
 March&amp;rsquo;s challenge was a collaboration between Cole Nussbaumer Knaflic (Storytelling with Data) and Enrico Bertini (Data Stories podcast). The aim was to visualise a predefined data set and answer the question of &amp;lsquo;who donates?&amp;rsquo;.
 The Data The dataset came from AidData

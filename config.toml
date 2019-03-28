@@ -12,8 +12,7 @@
 # For developpers, if you modify this theme, put your images in `source/images` folder and
 # use grunt task `build` to synchronize assets
 
-# baseurl = "https://jbraggins.netlify.com/"
-baseurl = "https://jaredbraggins.com/"
+baseurl = "https://jbraggins.netlify.com/"
 languageCode = "en-us"
 defaultContentLanguage = "en-us"
 title = "Jared Braggins"

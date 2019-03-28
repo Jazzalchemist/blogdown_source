@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Analysis on Jared Braggins</title>
-    <link>https://jaredbraggins.com/tags/analysis/</link>
+    <link>https://jbraggins.netlify.com/tags/analysis/</link>
     <description>Recent content in Analysis on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jaredbraggins.com/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbraggins.netlify.com/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Tidy Tuesday Week 13 2019 - Seattle Pet Names</title>
-      <link>https://jaredbraggins.com/2019/03/tidytuesday-week-13-2019-seattle-pet-names/</link>
+      <link>https://jbraggins.netlify.com/2019/03/tidytuesday-week-13-2019-seattle-pet-names/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/2019/03/tidytuesday-week-13-2019-seattle-pet-names/</guid>
+      <guid>https://jbraggins.netlify.com/2019/03/tidytuesday-week-13-2019-seattle-pet-names/</guid>
       <description>The Data Week 13&amp;rsquo;s data comes from Seattle&amp;rsquo;s open data portal and contains information about registered pets.
 The Analysis Since this was a quick #TidyTuesday this week I decided to visualise the top ten pet names. I highlighted the most popular name in a different colour to help it stand out.
 Here&amp;rsquo;s the code:
@@ -25,20 +25,20 @@ Here&amp;rsquo;s the code:
     
     <item>
       <title>Makeover Monday Week 13 2019 - How Different Generations Spend</title>
-      <link>https://jaredbraggins.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</link>
+      <link>https://jbraggins.netlify.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</guid>
+      <guid>https://jbraggins.netlify.com/2019/03/makeover-monday-week-13-2019-how-different-generations-spend/</guid>
       <description>Week 13 of #MakeoverMonday looked at how different generations are spending their income. Here&amp;rsquo;s the original visualisation:
 What works well:  The overall layout is simple and uncluttered Vivid colours help make each category stand out  What could be improved:  The legend could be moved to the top to help make reading the chart easier Each portion of each bar doesn&amp;rsquo;t start from the same place, so it tricky to compare across each age group (although the labels do help with this)  What I focused on  I simplified the original visualisation by separating each age group and category into separate bar charts.</description>
     </item>
     
     <item>
       <title>Tidy Tuesday Week 11 2019 - Board Game Analysis</title>
-      <link>https://jaredbraggins.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</link>
+      <link>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</guid>
+      <guid>https://jbraggins.netlify.com/2019/03/tidy-tuesday-week-11-2019-board-game-analysis/</guid>
       <description>I&amp;rsquo;ve started taking part in #TidyTuesday, a weekly project focused on using tidyverse packages to clean, wrangle, tidy, and plot a new dataset. The big draw card for me is getting better at using R for analysis.
 The Data The data for week 11 was all about board games, which comes from the Board Game Geek Database
 Analysis I kept it very simple this week. This was mainly due to my R skills slipping over the previous year.</description>

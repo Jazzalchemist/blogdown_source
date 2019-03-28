@@ -2,21 +2,21 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Books on Jared Braggins</title>
-    <link>https://jaredbraggins.com/categories/books/</link>
+    <link>https://jbraggins.netlify.com/categories/books/</link>
     <description>Recent content in Books on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 26 Nov 2017 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jaredbraggins.com/categories/books/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jbraggins.netlify.com/categories/books/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Book Recommendation - The Big Book of Dashboards</title>
-      <link>https://jaredbraggins.com/2017/11/big-book-dashboards/</link>
+      <link>https://jbraggins.netlify.com/2017/11/big-book-dashboards/</link>
       <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/2017/11/big-book-dashboards/</guid>
+      <guid>https://jbraggins.netlify.com/2017/11/big-book-dashboards/</guid>
       <description>First of all, I really like how the title says it all - it is indeed a very big book of dashboards.
 I first came across the book in a post over at Storytelling with Data (one of my favourite sites for data visualisation inspiration). Since I pretty much trust anything that Cole Nussbaumer Knaflic endorses, I thought I&amp;rsquo;d buy the book.
 I wasn&amp;rsquo;t disappointed.

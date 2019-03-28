@@ -102,7 +102,7 @@ canonifyurls = true
   weight = 11
   identifier = "twitter"
   name = "Twitter"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg twitter\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-twitter\"></i>"
   url = "https://twitter.com/JaredBraggins"
 
 [[menu.misc]]

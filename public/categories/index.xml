@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on Jared Braggins</title>
-    <link>https://jaredbraggins.com/categories/</link>
+    <link>/categories/</link>
     <description>Recent content in Categories on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="https://jaredbraggins.com/categories/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Analysis</title>
-      <link>https://jaredbraggins.com/categories/analysis/</link>
+      <link>/categories/analysis/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/categories/analysis/</guid>
+      <guid>/categories/analysis/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Books</title>
-      <link>https://jaredbraggins.com/categories/books/</link>
+      <link>/categories/books/</link>
       <pubDate>Sun, 26 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/categories/books/</guid>
+      <guid>/categories/books/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Data Visualisation</title>
-      <link>https://jaredbraggins.com/categories/data-visualisation/</link>
+      <link>/categories/data-visualisation/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/categories/data-visualisation/</guid>
+      <guid>/categories/data-visualisation/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Excel</title>
-      <link>https://jaredbraggins.com/categories/excel/</link>
+      <link>/categories/excel/</link>
       <pubDate>Sun, 12 Nov 2017 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/categories/excel/</guid>
+      <guid>/categories/excel/</guid>
       <description></description>
     </item>
     
     <item>
       <title>R</title>
-      <link>https://jaredbraggins.com/categories/r/</link>
+      <link>/categories/r/</link>
       <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/categories/r/</guid>
+      <guid>/categories/r/</guid>
       <description></description>
     </item>
     
     <item>
       <title>Tableau</title>
-      <link>https://jaredbraggins.com/categories/tableau/</link>
+      <link>/categories/tableau/</link>
       <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>https://jaredbraggins.com/categories/tableau/</guid>
+      <guid>/categories/tableau/</guid>
       <description></description>
     </item>
     

@@ -83,13 +83,13 @@
   </url>
   
   <url>
-    <loc>/tags/analysis/</loc>
+    <loc>/categories/analysis/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/analysis/</loc>
+    <loc>/tags/analysis/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -124,13 +124,13 @@
   </url>
   
   <url>
-    <loc>/tags/data-visualisation/</loc>
+    <loc>/categories/data-visualisation/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/data-visualisation/</loc>
+    <loc>/tags/data-visualisation/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -148,13 +148,13 @@
   </url>
   
   <url>
-    <loc>/tags/excel/</loc>
+    <loc>/categories/excel/</loc>
     <lastmod>2017-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/excel/</loc>
+    <loc>/tags/excel/</loc>
     <lastmod>2017-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -190,13 +190,13 @@
   </url>
   
   <url>
-    <loc>/tags/r/</loc>
+    <loc>/categories/r/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/r/</loc>
+    <loc>/tags/r/</loc>
     <lastmod>2019-03-27T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -214,13 +214,13 @@
   </url>
   
   <url>
-    <loc>/tags/tableau/</loc>
+    <loc>/categories/tableau/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>/categories/tableau/</loc>
+    <loc>/tags/tableau/</loc>
     <lastmod>2019-03-25T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>

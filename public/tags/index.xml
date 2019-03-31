@@ -6,37 +6,10 @@
     <description>Recent content in Tags on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 18 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
-    
-    <item>
-      <title></title>
-      <link>/tags/</link>
-      <pubDate>Mon, 18 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>#Makeovermonday</title>
-      <link>/tags/#makeovermonday/</link>
-      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/#makeovermonday/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>#Tidytuesday</title>
-      <link>/tags/#tidytuesday/</link>
-      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
-      
-      <guid>/tags/#tidytuesday/</guid>
-      <description></description>
-    </item>
     
     <item>
       <title>Analysis</title>
@@ -111,6 +84,15 @@
     </item>
     
     <item>
+      <title>Makeovermonday</title>
+      <link>/tags/makeovermonday/</link>
+      <pubDate>Mon, 25 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/makeovermonday/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Philadelphia</title>
       <link>/tags/philadelphia/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
@@ -138,11 +120,11 @@
     </item>
     
     <item>
-      <title>Swd Challenge</title>
-      <link>/tags/swd-challenge/</link>
+      <title>Swdchallenge</title>
+      <link>/tags/swdchallenge/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
       
-      <guid>/tags/swd-challenge/</guid>
+      <guid>/tags/swdchallenge/</guid>
       <description></description>
     </item>
     
@@ -161,6 +143,15 @@
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
       <guid>/tags/thoughts/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Tidytuesday</title>
+      <link>/tags/tidytuesday/</link>
+      <pubDate>Wed, 27 Mar 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/tags/tidytuesday/</guid>
       <description></description>
     </item>
     

@@ -6,10 +6,20 @@
     <description>Recent content in Data Visualisation on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Wed, 27 Mar 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 01 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="/tags/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Makeover Monday Week 14 2019 - What Kind of Waste Appeared on UK Beaches in 2017?</title>
+      <link>/2019/04/makeover-monday-week-14-2019-what-kind-of-waste-appeared-on-uk-beaches-in-2017/</link>
+      <pubDate>Mon, 01 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>/2019/04/makeover-monday-week-14-2019-what-kind-of-waste-appeared-on-uk-beaches-in-2017/</guid>
+      <description>Week 14 of #MakeoverMonday looked at the different types of waste found on UK beaches per 100m. The data comes from a 2017 by the Marine Conservation Society. Here&amp;rsquo;s the original visualisation:
+What works well:  Clean layout with minimal colours Clear title and subtitle The icons help improve the design  What could be improved:  The scattered circles make it hard to compare each category What&amp;rsquo;s the bigger story behind this viz?</description>
+    </item>
     
     <item>
       <title>Tidy Tuesday Week 13 2019 - Seattle Pet Names</title>

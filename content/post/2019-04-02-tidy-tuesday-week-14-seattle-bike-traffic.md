@@ -17,7 +17,7 @@ tags:
   - TidyTuesday
   - tidyverse
 thumbnailImage: "/img/Seattle_Monthly_Crossing.png"
-thumbnailImagePosition: bottom
+thumbnailImagePosition: left
 ---
 
 #TidyTuesday Week 14 was a good challenge for me. I wanted to focus on getting better at creating line charts with ggplot2, and I feel like I achieved that goal.  

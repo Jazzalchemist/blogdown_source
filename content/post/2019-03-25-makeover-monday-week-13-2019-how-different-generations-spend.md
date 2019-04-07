@@ -1,5 +1,5 @@
 ---
-title: Makeover Monday Week 13 2019 - How Different Generations Spend
+title: How Different Generations Spend
 author: Jared Braggins
 date: '2019-03-25'
 slug: makeover-monday-week-13-2019-how-different-generations-spend
@@ -11,7 +11,7 @@ tags:
   - Data Visualisation
   - Data Viz
   - Tableau
-  - '#MakeoverMonday'
+  - MakeoverMonday
 thumbnailImage: "/img/Gen Spend.png"
 thumbnailImagePosition: left
 ---
@@ -28,7 +28,7 @@ Week 13 of #MakeoverMonday looked at how different generations are spending thei
 - The legend could be moved to the top to help make reading the chart easier
 - Each portion of each bar doesn't start from the same place, so it tricky to compare across each age group (although the labels do help with this)
 
-#### What I focused on
+#### What I focused on:
 - I simplified the original visualisation by separating each age group and category into separate bar charts. I highlighted the highest percentage of spend per age group in order to back up my point about millennials spending more at restaurants. 
 
 <img src="/img/Gen Spend.png" title="/img/Gen Spend"/>

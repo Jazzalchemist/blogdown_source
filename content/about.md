@@ -7,17 +7,10 @@ showSocial: false
 comments: false
 ---
 
-<h4 class='text-center'>
-    I am a data analyst specializing in data visualisation.
-</h4>
+I’m a Senior Analyst based in Wellington, New Zealand. I have a strong interest in data visualisation and how to effectively communicate through a balance of effective design and thorough analysis.
 
+My blog is a way for me to document tricks and tips about data visualisation, but it is also a way for me to document things I’ve learned along the way. My favourite tools to blog about are Tableau and R, but I will occasionally stray into blogging about Excel, Python and SQL. 
 
-## Skills
+Along with spending my free time learning Tableau and R, I’m also pursuing a Bachelor of Science degree (part-time), majoring in both Computer Science & Statistics. So yeah, I like to keep busy! 
 
-<div class='display-card skills'>
-    <h3 class='skill-category'>Programming</h3>
-    <span class='tooltip--top' data-tooltip='My primary programming language.'>R</span>
-    <span>Python</span>
-    <span>SQL</span>
-    <span>VBA</span>
-</div>
+Feel free to contact me at <jared.braggins@outlook.co.nz>, or connect with me on [Linkedin](https://www.linkedin.com/in/jared-braggins-01184587/)

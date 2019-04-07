@@ -1,5 +1,5 @@
 ---
-title: Tidy Tuesday Week 13 2019 - Seattle Pet Names
+title: Seattle Pet Names
 author: Jared Braggins
 date: '2019-03-27'
 slug: tidytuesday-week-13-2019-seattle-pet-names
@@ -12,11 +12,13 @@ tags:
   - Data Visualisation
   - dplyr
   - ggplot2
-  - '#TidyTuesday'
+  - TidyTuesday
   - R
 thumbnailImage: "/img/Top Ten Pet Names.png"
 thumbnailImagePosition: left
 ---
+
+This is my post for #TidyTuesday Week 13, which looked at pet names in Seattle.
 
 #### The Data
 Week 13's data comes from Seattle's open data portal and contains information about registered pets. 

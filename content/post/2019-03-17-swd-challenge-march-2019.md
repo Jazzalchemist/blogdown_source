@@ -1,5 +1,5 @@
 ---
-title: 'SWDChallenge March 2019 - Which Countries Contributed the most to Foreign Aid?'
+title: 'Which Countries Contributed the most to Foreign Aid?'
 author: Jared Braggins
 date: '2019-03-17'
 slug: swd-challenge-march-2019
@@ -11,7 +11,7 @@ tags:
   - Data Viz
   - Tableau
   - Analytics
-  - SWD Challenge
+  - SWDChallenge
 thumbnailImage: "/img/AidData Report.png"
 thumbnailImagePosition: left
 ---

@@ -2,31 +2,31 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Thoughts on Jared Braggins</title>
-    <link>/tags/thoughts/</link>
+    <link>https://jaredbraggins.com/tags/thoughts/</link>
     <description>Recent content in Thoughts on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
     <lastBuildDate>Tue, 18 Dec 2018 00:00:00 +0000</lastBuildDate>
     
-	<atom:link href="/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
+	<atom:link href="https://jaredbraggins.com/tags/thoughts/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
       <title>Finding the Motivation</title>
-      <link>/2018/12/finding-the-motivation/</link>
+      <link>https://jaredbraggins.com/2018/12/finding-the-motivation/</link>
       <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/12/finding-the-motivation/</guid>
+      <guid>https://jaredbraggins.com/2018/12/finding-the-motivation/</guid>
       <description>It has been a tough few months in the lead up to Christmas.
 I&amp;rsquo;ve found my motivation to do, well, anything in data visualisation has severely waned. As a result, I took steps to try and reinvigorate my interest in what I was doing. For example, I started learning Tableau in late July, and shortly after began to post to things to my Tableau Public profile. I even started taking part in the #SWDchallenge.</description>
     </item>
     
     <item>
       <title>Nearly A Year Later ...</title>
-      <link>/2018/10/nearly-a-year-later/</link>
+      <link>https://jaredbraggins.com/2018/10/nearly-a-year-later/</link>
       <pubDate>Mon, 01 Oct 2018 00:00:00 +0000</pubDate>
       
-      <guid>/2018/10/nearly-a-year-later/</guid>
+      <guid>https://jaredbraggins.com/2018/10/nearly-a-year-later/</guid>
       <description>Hey there! It&amp;rsquo;s been awhile.
 Habits are interesting things. Good habits take awhile to form, but can be incredibly beneficial. I like forming good habits, but over the previous 11 months I&amp;rsquo;ve noticed how easy it is to break a habit - namely, blogging.
 I started blogging back in November 2017 to get back into writing in a way that I actually enjoy, and to force myself to write about what I&amp;rsquo;m learning.</description>

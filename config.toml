@@ -91,7 +91,7 @@ canonifyurls = true
   identifier = "resources"
   name = "Resoures"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-briefcase\"></i>"
-  url = "/projects/index.html"
+  url = "/resources/index.html"
   
 
 [[menu.links]]

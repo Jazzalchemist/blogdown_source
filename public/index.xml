@@ -6,10 +6,31 @@
     <description>Recent content on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 09 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredbraggins.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grand Slam Winners</title>
+      <link>https://jaredbraggins.com/2019/04/grand-slam-winners/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/04/grand-slam-winners/</guid>
+      <description>My focus for #TidyTuesday Week 15 was on getting better at exploratory analysis. This is a bit of a contrast to previous weeks where most of my effort has gone into data visualisation.
+The Data Week 15&amp;rsquo;s data comes from Wikipedia. Inspiration for this week came from John Burn-Murdoch&amp;rsquo;s amazing article in the Financial Times.
+The Analysis I decided to look at the top Grand Slam winners, but I broke this down by court type (grass, clay or hard).</description>
+    </item>
+    
+    <item>
+      <title>State Fiscal Condition 2016</title>
+      <link>https://jaredbraggins.com/2019/04/state-fiscal-condition-2016/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/04/state-fiscal-condition-2016/</guid>
+      <description>Week 15 of #MakeoverMonday looked at ranking US states by fiscal condition. Here&amp;rsquo;s the original visualisation:
+What works well:  Tidy design Good choice of colours Clear question in the title The top/bottom states are clearly stated  What could be improved:  It isn&amp;rsquo;t clear if things are improving or getting worse. Is this any different to the previous year? More information could be added in the form of text to help explain what is being shown here  What I focused on:  I struggled with this one.</description>
+    </item>
     
     <item>
       <title>Live Longer and How to Emulate Your Heroes</title>

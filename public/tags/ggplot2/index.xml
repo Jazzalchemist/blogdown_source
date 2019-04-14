@@ -6,10 +6,21 @@
     <description>Recent content in Ggplot2 on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 02 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredbraggins.com/tags/ggplot2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Grand Slam Winners</title>
+      <link>https://jaredbraggins.com/2019/04/grand-slam-winners/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/04/grand-slam-winners/</guid>
+      <description>My focus for #TidyTuesday Week 15 was on getting better at exploratory analysis. This is a bit of a contrast to previous weeks where most of my effort has gone into data visualisation.
+The Data Week 15&amp;rsquo;s data comes from Wikipedia. Inspiration for this week came from John Burn-Murdoch&amp;rsquo;s amazing article in the Financial Times.
+The Analysis I decided to look at the top Grand Slam winners, but I broke this down by court type (grass, clay or hard).</description>
+    </item>
     
     <item>
       <title>Seattle Bike Traffic</title>

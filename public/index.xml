@@ -236,5 +236,18 @@ This is something that I have wanted to do for a while now, but I always seemed 
 My blog is a way for me to document tricks and tips about data visualisation, but it is also a way for me to document things I’ve learned along the way. My favourite tools to blog about are Tableau and R, but I will occasionally stray into blogging about Excel, Python and SQL.</description>
     </item>
     
+    <item>
+      <title></title>
+      <link>https://jaredbraggins.com/resources/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/resources/</guid>
+      <description>title: &amp;ldquo;Resources&amp;rdquo; author: &amp;ldquo;Jared Braggins&amp;rdquo; date: 2019-14-04
+Here are some of my favourite data visualisation resources. I&amp;rsquo;ll keep adding to the list when I come across other useful or interesting resources. I hope these help you as much as they have helped me.
+Books Storytelling with Data by Cole Nussbaumer Knaflic
+The Bog Book of Dashboards by Andy Cotgreave, Jeffrey Shaffer and Steve Wexler
+Podcasts Data Viz Today with Alli Torban</description>
+    </item>
+    
   </channel>
 </rss>

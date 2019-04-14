@@ -89,7 +89,7 @@ canonifyurls = true
 [[menu.main]]
   weight = 4
   identifier = "resources"
-  name = "Resoures"
+  name = "Resources"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-briefcase\"></i>"
   url = "/resources/index.html"
   

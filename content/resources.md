@@ -1,7 +1,6 @@
 ---
 title: "Resources"
 author: "Jared Braggins"
-date: 2019-14-04
 ---
 
 Here are some of my favourite data visualisation resources. I'll keep adding to the list when I come across other useful or interesting resources. I hope these help you as much as they have helped me.

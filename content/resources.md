@@ -12,6 +12,7 @@ Here are some of my favourite data visualisation resources. I'll keep adding to 
 #### Books
 - [Storytelling with Data by Cole Nussbaumer Knaflic](http://www.storytellingwithdata.com/book)
 - [The Big Book of Dashboards by Andy Cotgreave, Jeffrey Shaffer and Steve Wexler](https://www.bigbookofdashboards.com/)
+- [Makeover Monday by Andy Kriebel and Eva Murray](https://www.makeovermonday.co.uk/book/)
 - [Information Dashboard Design by Stephen Few](http://www.stephen-few.com/idd.php)
 - [Visualize This by Nathan Yau](http://book.flowingdata.com/)
 

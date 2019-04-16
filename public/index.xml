@@ -23,6 +23,19 @@ The Analysis I decided to look at the top Grand Slam winners, but I broke this d
     </item>
     
     <item>
+      <title>Resources</title>
+      <link>https://jaredbraggins.com/resources/</link>
+      <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/resources/</guid>
+      <description> Here are some of my favourite data visualisation resources. I&amp;rsquo;ll keep adding to the list when I come across other useful or interesting resources. I hope these help you as much as they have helped me.
+Books Storytelling with Data by Cole Nussbaumer Knaflic
+The Big Book of Dashboards by Andy Cotgreave, Jeffrey Shaffer and Steve Wexler
+Podcasts Data Viz Today with Alli Torban
+Courses </description>
+    </item>
+    
+    <item>
       <title>State Fiscal Condition 2016</title>
       <link>https://jaredbraggins.com/2019/04/state-fiscal-condition-2016/</link>
       <pubDate>Sun, 14 Apr 2019 00:00:00 +0000</pubDate>
@@ -234,19 +247,6 @@ This is something that I have wanted to do for a while now, but I always seemed 
       <guid>https://jaredbraggins.com/about/</guid>
       <description>I’m a Senior Analyst based in Wellington, New Zealand. I have a strong interest in data visualisation and how to effectively communicate through a balance of effective design and thorough analysis.
 My blog is a way for me to document tricks and tips about data visualisation, but it is also a way for me to document things I’ve learned along the way. My favourite tools to blog about are Tableau and R, but I will occasionally stray into blogging about Excel, Python and SQL.</description>
-    </item>
-    
-    <item>
-      <title>Resources</title>
-      <link>https://jaredbraggins.com/resources/</link>
-      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      
-      <guid>https://jaredbraggins.com/resources/</guid>
-      <description> Here are some of my favourite data visualisation resources. I&amp;rsquo;ll keep adding to the list when I come across other useful or interesting resources. I hope these help you as much as they have helped me.
-Books Storytelling with Data by Cole Nussbaumer Knaflic
-The Big Book of Dashboards by Andy Cotgreave, Jeffrey Shaffer and Steve Wexler
-Podcasts Data Viz Today with Alli Torban
-Courses </description>
     </item>
     
   </channel>

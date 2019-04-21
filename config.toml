@@ -13,6 +13,7 @@
 # use grunt task `build` to synchronize assets
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
+customCSS = ["css/override.css"]
 
 # baseurl = "https://jbraggins.netlify.com/"
 baseurl = "https://jaredbraggins.com/"

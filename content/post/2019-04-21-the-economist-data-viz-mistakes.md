@@ -23,6 +23,7 @@ My focus for #TidyTuesday Week 16 was on trying to replicate a chart. For contex
 <img src="/img/1_4RND--Bo31DVfiziaa-HBA.png" title="/img/Brazilian Pension Charts"/>
 
 Instead of trying to make my own version of the better chart, I decided to try and figure out how to replicate some of the elements in it. Specifically:
+
 - Highlighting points in a scatterplot
 - Label the highlighted points, but to also add custom formatting to some of the labels only
 
@@ -87,7 +88,7 @@ aspect_ratio <- 2
 ggsave("pension.png", height = 5 , width = 3 * aspect_ratio)
   ```
   
-Here my replicated chart:
+Here's my replicated chart:
 <img src="/img/pension.png" title="/img/Brazilian Pension Chart"/>
 
 #### Conclusion

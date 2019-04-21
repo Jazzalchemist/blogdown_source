@@ -6,10 +6,20 @@
     <description>Recent content in Ggplot2 on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredbraggins.com/tags/ggplot2/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>The Economist Data Viz Mistakes</title>
+      <link>https://jaredbraggins.com/2019/04/the-economist-data-viz-mistakes/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/04/the-economist-data-viz-mistakes/</guid>
+      <description>My focus for #TidyTuesday Week 16 was on trying to replicate a chart. For context, the idea was to explore the data behind some before and after charts from the Economist. Here are the charts I was looking at:
+Instead of trying to make my own version of the better chart, I decided to try and figure out how to replicate some of the elements in it. Specifically: - Highlighting points in a scatterplot - Label the highlighted points, but to also add custom formatting to some of the labels only</description>
+    </item>
     
     <item>
       <title>Grand Slam Winners</title>

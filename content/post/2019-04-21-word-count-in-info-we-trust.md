@@ -18,7 +18,7 @@ thumbnailImagePosition: left
 
 Week 16 of #MakeoverMonday was a collaboration with RJ Andrews, and looked at the most common words in his book Info We Trust.
 
-<img src="/img/InfoWeTrust-wordcloud" title="Info We Trust Wordcloud"/>
+<img src="/img/InfoWeTrust-wordcloud.png" title="Info We Trust Wordcloud"/>
 
 #### What works well:
 - The most common word, data, stands out well

@@ -6,10 +6,20 @@
     <description>Recent content in Tableau on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 14 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredbraggins.com/categories/tableau/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Word Count in Info We Trust</title>
+      <link>https://jaredbraggins.com/2019/04/word-count-in-info-we-trust/</link>
+      <pubDate>Sun, 21 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/04/word-count-in-info-we-trust/</guid>
+      <description>Week 16 of #MakeoverMonday was a collaboration with RJ Andrews, and looked at the most common words in his book Info We Trust.
+What works well:  The most common word, data, stands out well People are used to seeing and interpreting word clouds  What could be improved:  Lack of a title or description Having words on different angles makes them hard to read Too many colours that don&amp;rsquo;t seem to serve a purpose  What I focused on:  I decided to show the top ten words per section in the book, which highlighted how common the word &amp;lsquo;data&amp;rsquo; is.</description>
+    </item>
     
     <item>
       <title>State Fiscal Condition 2016</title>

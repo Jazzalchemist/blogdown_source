@@ -13,7 +13,6 @@
 # use grunt task `build` to synchronize assets
 
 ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
-customCSS = ["css/override.css"]
 
 # baseurl = "https://jbraggins.netlify.com/"
 baseurl = "https://jaredbraggins.com/"
@@ -191,6 +190,7 @@ canonifyurls = true
   # Custom CSS. Put here your custom CSS files. They are loaded after the theme CSS;
   # they have to be referred from static root. Example
   # customCSS = ["css/foo.css"]
+  customCSS = ["css/overrides.css"]
 
   # Custom JS. Put here your custom JS files. They are loaded after the theme JS;
   # they have to be referred from static root. Example

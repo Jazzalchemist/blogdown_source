@@ -35,4 +35,4 @@ Here's the original viz:
 
 <img src="/img/Popcorn_Rankings.png" title="/img/Stephen Curry's Stadium POpcorn Rankings"/>
 
-The interactive version can be found [here]https://public.tableau.com/profile/jared.braggins2936#!/vizhome/StephenCurrysPopcornRankings_15559706073800/Popcorn_Rankings)
+The interactive version can be found [here](https://public.tableau.com/profile/jared.braggins2936#!/vizhome/StephenCurrysPopcornRankings_15559706073800/Popcorn_Rankings)

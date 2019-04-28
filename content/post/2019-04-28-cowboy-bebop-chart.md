@@ -1,0 +1,125 @@
+---
+title: Cowboy Bebop Chart
+author: Jared Braggins
+date: '2019-04-28'
+slug: cowboy-bebop-chart
+categories:
+  - Analysis
+  - Data Visualisation
+  - R
+tags:
+  - Analysis
+  - Data Visualisation
+  - dplyr
+  - ggplot2
+  - Tableau
+  - tidyverse
+  - TidyTuesday
+thumbnailImage: "/img/CowboyBebop.png"
+thumbnailImagePosition: left
+---
+
+For #TidyTuesday week 17 I got a little too ambitious. 
+
+I had decided to focus on my favourite anime, Cowboy Bebop. My original goal was to use gganimate to plot the top 20 anime for each year, but to also include any anime for previous years back to 1998. This was to show a rolling top 20 from the year that Cowboy Bebop was released. 
+
+#### The Data
+The data for week 17 comes from [MyAnimeList](https://www.kaggle.com/aludosan/myanimelist-anime-dataset-as-20190204).
+
+#### The Analysis
+Since it was taking me some time to get my head around using gganimate, I simplified my approach to show the top ten shows that released in 1998.
+
+Here's the code:
+  ```
+# Load packages
+library(tidyverse)
+library(lubridate)
+library(stringr)
+
+
+# Import data
+anime <- read_csv("https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-04-23/tidy_anime.csv") %>% 
+  mutate(start_date = ymd(as.character(start_date))) %>% 
+  mutate(start_year = year(start_date))
+
+
+# Inspect data
+View(anime)
+
+
+# Filter all series that aired in 1998. Remove all films.
+anime_filtered <- 
+  anime %>% 
+  select(title_english, type, score, start_date, start_year, status) %>%
+  filter(status == "Finished Airing" & 
+           type == "TV" & 
+           start_year == 1998 &
+           !is.na(title_english)) %>% 
+  mutate(score = round(score, 1)) %>% 
+  arrange(desc(score)) %>% 
+  distinct(title_english, .keep_all = TRUE)
+
+
+# Wrap long title names
+anime_filtered$title_english = str_wrap(anime_filtered$title_english, width = 36)
+
+
+# Set formatting for chart
+my_font <- 'Bookman Old Style'
+my_background <- '#191919'
+my_palette <- c('#CCD0CF', '#EFCC77')
+my_titlecolour <- '#EFCC77'
+my_textcolour <- 'white'
+my_labelcolour <- 'black'
+my_theme <- theme(text = element_text(family = my_font),
+                  rect = element_rect(fill = my_background),
+                  plot.background = element_rect(fill = my_background, color = NA),
+                  panel.background = element_rect(fill = my_background, color = NA),
+                  panel.border = element_blank(),
+                  plot.title = element_text(face = 'bold', size = 14, colour = my_titlecolour),
+                  plot.subtitle = element_text(size = 12, colour = my_textcolour),
+                  panel.grid.major.y = element_blank(),
+                  panel.grid.minor.y = element_blank(),
+                  panel.grid.major.x = element_blank(),
+                  panel.grid.minor.x = element_blank(),
+                  legend.position = 'none',
+                  plot.caption = element_text(size = 9, colour = my_textcolour),
+                  axis.ticks = element_blank(),
+                  axis.text.x = element_blank(),
+                  axis.text.y = element_text(size = 6, colour = my_textcolour))
+
+
+theme_set(theme_light() + my_theme)
+
+# Plot top 10 to see where Cowboy Bebop places
+anime_filtered %>% 
+  top_n(10, score) %>% 
+  mutate(title_english = fct_reorder(title_english, score)) %>% 
+  mutate(highlight_flag = ifelse(title_english == "Cowboy Bebop",T,F)) %>%
+  ggplot(aes(title_english, score, fill = highlight_flag)) +
+  geom_col() +
+  geom_text(aes(label=score), hjust = 1.5, color = my_labelcolour) +
+  scale_fill_manual(values = c(my_palette)) +
+  coord_flip() +
+  labs(title = "Cowboy Bebop Had the Highest Score",
+       subtitle = "Of the top ten shows that aired in 1998",
+       caption = "Data source: MyAnimeList",
+       y = "",
+       x = "")
+
+ggsave(
+  filename = 'CowboyBebop.png',
+  height = 8,
+  width = 15,
+  units = 'cm',
+  dpi = 'retina'
+)
+
+  ```
+
+Here's the chart:
+<img src="/img/CowboyBebop.png" title="/img/Cowboy Bebop Chart"/>
+
+#### Conclusion
+This was a fun dataset to explore. Although I didn't achieve what I wanted this week, I think I'll continue to chip away at getting better with gganimate to see if I can accomplish what I originally set out to do. 
+

@@ -29,7 +29,7 @@ I decided to emulate the &amp;lsquo;Live Long&amp;rsquo; chart because a) I want
       <guid>https://jaredbraggins.com/2019/04/tidy-tuesday-week-14-seattle-bike-traffic/</guid>
       <description>#TidyTuesday Week 14 was a good challenge for me. I wanted to focus on getting better at creating line charts with ggplot2, and I feel like I achieved that goal.
 The Data Week 14&amp;rsquo;s data comes from Seattle&amp;rsquo;s open data portal and contains information about bike traffic in Seattle.
-The Analysis SInce I&amp;rsquo;m still trying to get back up to speed with using R, I decided to keep it simple and focus on a) showing traffic over time, and b) showing which crossing registered the most traffic each year.</description>
+The Analysis Since I&amp;rsquo;m still trying to get back up to speed with using R, I decided to keep it simple and focus on a) showing traffic over time, and b) showing which crossing registered the most traffic each year.</description>
     </item>
     
     <item>

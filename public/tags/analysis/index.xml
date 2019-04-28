@@ -6,10 +6,32 @@
     <description>Recent content in Analysis on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredbraggins.com/tags/analysis/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Cowboy Bebop Chart</title>
+      <link>https://jaredbraggins.com/2019/04/cowboy-bebop-chart/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/04/cowboy-bebop-chart/</guid>
+      <description>For #TidyTuesday week 17 I got a little too ambitious.
+I had decided to focus on my favourite anime, Cowboy Bebop. My original goal was to use gganimate to plot the top 20 anime for each year, but to also include any anime for previous years back to 1998. This was to show a rolling top 20 from the year that Cowboy Bebop was released.
+The Data The data for week 17 comes from MyAnimeList.</description>
+    </item>
+    
+    <item>
+      <title>Stephen Curry&#39;s Popcorn Rankings</title>
+      <link>https://jaredbraggins.com/2019/04/stephen-curry-s-popcorn-rankings/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/04/stephen-curry-s-popcorn-rankings/</guid>
+      <description>Week 17 of #MakeoverMonday looked at Stephen Curry&amp;rsquo;s ranking of stadium popcorn.
+Here&amp;rsquo;s the original viz:
+What works well:  A heat chart is perfect for this data. The labels and colours work well There&amp;rsquo;s a clear title The scoring is simple  What could be improved:  The colours aren&amp;rsquo;t great  What I focused on:  Although I do like the original chart, I decided to try something different.</description>
+    </item>
     
     <item>
       <title>The Economist Data Viz Mistakes</title>
@@ -71,7 +93,7 @@ I decided to emulate the &amp;lsquo;Live Long&amp;rsquo; chart because a) I want
       <guid>https://jaredbraggins.com/2019/04/tidy-tuesday-week-14-seattle-bike-traffic/</guid>
       <description>#TidyTuesday Week 14 was a good challenge for me. I wanted to focus on getting better at creating line charts with ggplot2, and I feel like I achieved that goal.
 The Data Week 14&amp;rsquo;s data comes from Seattle&amp;rsquo;s open data portal and contains information about bike traffic in Seattle.
-The Analysis SInce I&amp;rsquo;m still trying to get back up to speed with using R, I decided to keep it simple and focus on a) showing traffic over time, and b) showing which crossing registered the most traffic each year.</description>
+The Analysis Since I&amp;rsquo;m still trying to get back up to speed with using R, I decided to keep it simple and focus on a) showing traffic over time, and b) showing which crossing registered the most traffic each year.</description>
     </item>
     
     <item>

@@ -6,10 +6,21 @@
     <description>Recent content in Makeovermonday on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 21 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredbraggins.com/tags/makeovermonday/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Stephen Curry&#39;s Popcorn Rankings</title>
+      <link>https://jaredbraggins.com/2019/04/stephen-curry-s-popcorn-rankings/</link>
+      <pubDate>Sun, 28 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/04/stephen-curry-s-popcorn-rankings/</guid>
+      <description>Week 17 of #MakeoverMonday looked at Stephen Curry&amp;rsquo;s ranking of stadium popcorn.
+Here&amp;rsquo;s the original viz:
+What works well:  A heat chart is perfect for this data. The labels and colours work well There&amp;rsquo;s a clear title The scoring is simple  What could be improved:  The colours aren&amp;rsquo;t great  What I focused on:  Although I do like the original chart, I decided to try something different.</description>
+    </item>
     
     <item>
       <title>Word Count in Info We Trust</title>

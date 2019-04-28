@@ -28,7 +28,7 @@ Week 14's data comes from Seattle's open data portal and contains information ab
 
 
 #### The Analysis
-SInce I'm still trying to get back up to speed with using R, I decided to keep it simple and focus on a) showing traffic over time, and b) showing which crossing registered the most traffic each year. The result was the Burke Gilman Trail.
+Since I'm still trying to get back up to speed with using R, I decided to keep it simple and focus on a) showing traffic over time, and b) showing which crossing registered the most traffic each year. The result was the Burke Gilman Trail.
 
 Here's the code:
   ```

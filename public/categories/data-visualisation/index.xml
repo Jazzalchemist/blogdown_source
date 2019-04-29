@@ -6,10 +6,21 @@
     <description>Recent content in Data Visualisation on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sun, 28 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredbraggins.com/categories/data-visualisation/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>International Space Station Spacewalks</title>
+      <link>https://jaredbraggins.com/2019/04/international-space-station-spacewalks/</link>
+      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/04/international-space-station-spacewalks/</guid>
+      <description>Week 18 of #MakeoverMonday looked at spacewalks at the International Space Station.
+Here&amp;rsquo;s the original viz:
+What works well:  The heading is a succinct summary of what the viz is showing Using the BANS (Big-ass numbers) for USA and Russia as a legend is a good idea The labels on the bars make the chart easier to read The colours are a good choice as they are very close to the NASA palette  What could be improved:  The years on the x-axis are on an angle, making them harder to read There are numerous images on the viz, making it very busy  What I focused on:  Changing the bar chart to a line chart Changing the orientation of the dates on the x-axis to be horizontal Adding the BANs into the description  The interactive version can be found here</description>
+    </item>
     
     <item>
       <title>Cowboy Bebop Chart</title>

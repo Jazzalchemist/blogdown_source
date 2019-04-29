@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://jaredbraggins.com/2019/04/international-space-station-spacewalks/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://jaredbraggins.com/2019/04/cowboy-bebop-chart/</loc>
     <lastmod>2019-04-28T00:00:00+00:00</lastmod>
   </url>
@@ -133,14 +138,14 @@
   </url>
   
   <url>
-    <loc>https://jaredbraggins.com/tags/analysis/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <loc>https://jaredbraggins.com/categories/analysis/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jaredbraggins.com/categories/analysis/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <loc>https://jaredbraggins.com/tags/analysis/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -169,19 +174,19 @@
   
   <url>
     <loc>https://jaredbraggins.com/categories/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jaredbraggins.com/tags/data-visualisation/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jaredbraggins.com/categories/data-visualisation/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaredbraggins.com/tags/data-visualisation/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -198,13 +203,13 @@
   </url>
   
   <url>
-    <loc>https://jaredbraggins.com/tags/excel/</loc>
+    <loc>https://jaredbraggins.com/categories/excel/</loc>
     <lastmod>2017-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jaredbraggins.com/categories/excel/</loc>
+    <loc>https://jaredbraggins.com/tags/excel/</loc>
     <lastmod>2017-11-12T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -217,13 +222,13 @@
   
   <url>
     <loc>https://jaredbraggins.com/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jaredbraggins.com/tags/makeovermonday/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -241,6 +246,12 @@
   
   <url>
     <loc>https://jaredbraggins.com/post/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://jaredbraggins.com/categories/r/</loc>
     <lastmod>2019-04-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
@@ -248,12 +259,6 @@
   <url>
     <loc>https://jaredbraggins.com/tags/r/</loc>
     <lastmod>2019-04-02T00:00:00+00:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>https://jaredbraggins.com/categories/r/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -270,20 +275,20 @@
   </url>
   
   <url>
-    <loc>https://jaredbraggins.com/tags/tableau/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <loc>https://jaredbraggins.com/categories/tableau/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
-    <loc>https://jaredbraggins.com/categories/tableau/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <loc>https://jaredbraggins.com/tags/tableau/</loc>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://jaredbraggins.com/tags/</loc>
-    <lastmod>2019-04-28T00:00:00+00:00</lastmod>
+    <lastmod>2019-04-29T00:00:00+00:00</lastmod>
     <priority>0</priority>
   </url>
   

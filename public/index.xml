@@ -6,10 +6,23 @@
     <description>Recent content on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 29 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredbraggins.com/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Chicago Bird Collisions</title>
+      <link>https://jaredbraggins.com/2019/04/chicago-bird-collisions/</link>
+      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/04/chicago-bird-collisions/</guid>
+      <description>For #TidyTuesday week 18 we looked at bird collisions in Chicago.
+The Data The data for week 18 comes from a study conducted by the Royal Society.
+The Analysis I wanted to show the number of collisions per bird family over time. This ended up being a perfect excuse to try a ridgeline chart for the first time.
+Here&amp;rsquo;s the code:
+ # Load libraries library(tidyverse) library(lubridate) library(ggridges) # Import data bird_collisions &amp;lt;- read_csv(&amp;quot;https://raw.</description>
+    </item>
     
     <item>
       <title>International Space Station Spacewalks</title>

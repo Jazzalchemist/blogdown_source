@@ -6,7 +6,7 @@
     <description>Recent content in Tags on Jared Braggins</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Tue, 30 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 09 May 2019 00:00:00 +0000</lastBuildDate>
     
 	<atom:link href="https://jaredbraggins.com/tags/index.xml" rel="self" type="application/rss+xml" />
     
@@ -14,7 +14,7 @@
     <item>
       <title>Analysis</title>
       <link>https://jaredbraggins.com/tags/analysis/</link>
-      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jaredbraggins.com/tags/analysis/</guid>
       <description></description>
@@ -30,6 +30,15 @@
     </item>
     
     <item>
+      <title>Arc Chart</title>
+      <link>https://jaredbraggins.com/tags/arc-chart/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/tags/arc-chart/</guid>
+      <description></description>
+    </item>
+    
+    <item>
       <title>Board Games</title>
       <link>https://jaredbraggins.com/tags/board-games/</link>
       <pubDate>Sun, 17 Mar 2019 00:00:00 +0000</pubDate>
@@ -41,7 +50,7 @@
     <item>
       <title>Data Visualisation</title>
       <link>https://jaredbraggins.com/tags/data-visualisation/</link>
-      <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jaredbraggins.com/tags/data-visualisation/</guid>
       <description></description>
@@ -122,7 +131,7 @@
     <item>
       <title>Swdchallenge</title>
       <link>https://jaredbraggins.com/tags/swdchallenge/</link>
-      <pubDate>Tue, 09 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jaredbraggins.com/tags/swdchallenge/</guid>
       <description></description>
@@ -131,7 +140,7 @@
     <item>
       <title>Tableau</title>
       <link>https://jaredbraggins.com/tags/tableau/</link>
-      <pubDate>Mon, 29 Apr 2019 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jaredbraggins.com/tags/tableau/</guid>
       <description></description>
@@ -140,7 +149,7 @@
     <item>
       <title>Thoughts</title>
       <link>https://jaredbraggins.com/tags/thoughts/</link>
-      <pubDate>Tue, 18 Dec 2018 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jaredbraggins.com/tags/thoughts/</guid>
       <description></description>
@@ -161,6 +170,15 @@
       <pubDate>Tue, 30 Apr 2019 00:00:00 +0000</pubDate>
       
       <guid>https://jaredbraggins.com/tags/tidyverse/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Timeline</title>
+      <link>https://jaredbraggins.com/tags/timeline/</link>
+      <pubDate>Thu, 09 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/tags/timeline/</guid>
       <description></description>
     </item>
     

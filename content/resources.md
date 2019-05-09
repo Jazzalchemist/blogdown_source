@@ -23,7 +23,7 @@ Here are some of my favourite data visualisation resources. I'll keep adding to 
 #### Podcasts
 - [Storytelling Telling with Data with Cole Nussbaumer Knaflic](http://www.storytellingwithdata.com/podcast)
 - [Data Viz Today with Alli Torban](https://dataviztoday.com/)
-- [Data Stories Enrico Bertini and Moritz Stefaner](http://datastori.es/)
+- [Data Stories with Enrico Bertini and Moritz Stefaner](http://datastori.es/)
 - [The Present Beyond Measure Show with Lea Pica](http://leapica.com/podcast/)
 
 #### Useful Links

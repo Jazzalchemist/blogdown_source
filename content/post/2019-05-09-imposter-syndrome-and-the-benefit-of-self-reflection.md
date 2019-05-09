@@ -36,7 +36,7 @@ So, with that in mind, I decided to visualise my work history and a) reflect on 
 Here's the end result:
 <img src="/img/Skills_Dashboard.png" title="/img/Soft Skills for the Win?"/>
 
-FOr the full effect, take a look at the interactive version [here](https://public.tableau.com/profile/jared.braggins2936#!/vizhome/JobHistory_15568444434680/Skills_Dashboard)
+Take a look at the interactive version [here](https://public.tableau.com/profile/jared.braggins2936#!/vizhome/JobHistory_15568444434680/Skills_Dashboard). 
 
 My verdict? I'm so proud of what I've done here. I know it can be improved upon (some of the formulas in the workbook are horrific), but I don't care. It's a major step forward for my skills as a data visualisation designer. Now, what to visualise next...
 

@@ -15,13 +15,14 @@ Here are some of my favourite data visualisation resources. I'll keep adding to 
 - [Makeover Monday by Andy Kriebel and Eva Murray](https://www.makeovermonday.co.uk/book/)
 - [Information Dashboard Design by Stephen Few](http://www.stephen-few.com/idd.php)
 - [Visualize This by Nathan Yau](http://book.flowingdata.com/)
+- [Info We Trust by RJ Andrews](https://infowetrust.com/inspire/)
 
 #### Blogs
-- [Storytelling Telling with Data](http://www.storytellingwithdata.com/)
+- [Storytelling with Data](http://www.storytellingwithdata.com/)
 - [FlowingData](https://flowingdata.com/)
 
 #### Podcasts
-- [Storytelling Telling with Data with Cole Nussbaumer Knaflic](http://www.storytellingwithdata.com/podcast)
+- [Storytelling with Data with Cole Nussbaumer Knaflic](http://www.storytellingwithdata.com/podcast)
 - [Data Viz Today with Alli Torban](https://dataviztoday.com/)
 - [Data Stories with Enrico Bertini and Moritz Stefaner](http://datastori.es/)
 - [The Present Beyond Measure Show with Lea Pica](http://leapica.com/podcast/)

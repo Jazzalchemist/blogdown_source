@@ -96,7 +96,7 @@ canonifyurls = true
   weight = 5
   identifier = "resources"
   name = "Resources"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file-text-o\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
   url = "/resources/index.html"
   
 

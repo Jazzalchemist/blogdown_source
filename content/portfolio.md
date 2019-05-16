@@ -7,25 +7,22 @@ showSocial: false
 comments: false
 ---
 
+#####Interactive Visualisations
+
 <style>
 .column-left{
   float: left;
-  width: 33%;
+  width: 50%;
   text-align: left;
 }
-.column-center{
-  display: inline-block;
-  width: 33%;
-  text-align: center;
-}
+
 .column-right{
   float: right;
-  width: 33%;
+  width: 50%;
   text-align: right;
 }
 </style>
 
-#####Interactive Visualisations
 
 <div class="column-left">
 <img src="/img/Skills_Dashboard.png" style="height: 100%; width: 100%; object-fit:
@@ -33,13 +30,10 @@ contain" onclick="window.open('https://public.tableau.com/profile/jared.braggins
 Soft Skills for the Win?
 </div>
 
-<div class="column-center">
+<div class="column-right">
 <img src="/img/LiveLong_Dashboard.png" style="height: 100%; width: 100%; object-fit:
 contain" onclick="window.open('https://public.tableau.com/profile/jared.braggins2936#!/vizhome/LiveLong/LiveLong_Dashboard', 'blank');"/>
 Live Long | What Will Extend Your Life?
-</div>
-
-<div class="column-right">
 </div>
 
 <hr>

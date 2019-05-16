@@ -56,12 +56,12 @@ canonifyurls = true
   name = "Home"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-home\"></i>"
   url = "/"
-[[menu.main]]
-  weight = 3
-  identifier = "post"
-  name = "Blog"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file-text-o\" title='Blog'></i>"
-  url = "/post"
+#[[menu.main]]
+#  weight = 3
+# identifier = "post"
+# name = "Blog"
+#  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file-text-o\" title='Blog'></i>"
+#  url = "/post"
 #[[menu.main]]
 #  weight = 5
 #  identifier = "categories"
@@ -69,7 +69,7 @@ canonifyurls = true
 #  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-bookmark\"></i>"
 #  url = "/categories"
 [[menu.main]]
-  weight = 6
+  weight = 5
   identifier = "tags"
   name = "Tags"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-tags\"></i>"
@@ -81,7 +81,7 @@ canonifyurls = true
 #  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
 #  url = "/archives"
 [[menu.main]]
-  weight = 4
+  weight = 3
   identifier = "portfolio"
   name = "Portfolio"
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-briefcase\"></i>"
@@ -93,10 +93,10 @@ canonifyurls = true
   pre = "<i class=\"sidebar-button-icon fa fa-lg fa-user\", title='About'></i>"
   url = "/about"
 [[menu.main]]
-  weight = 5
+  weight = 4
   identifier = "resources"
   name = "Resources"
-  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-archive\"></i>"
+  pre = "<i class=\"sidebar-button-icon fa fa-lg fa-file-text-o\"></i>"
   url = "/resources/index.html"
   
 

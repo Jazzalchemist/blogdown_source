@@ -7,7 +7,7 @@ showSocial: false
 comments: false
 ---
 
-#####Interactive Visualisations
+**Interactive Visualisations**
 
 <style>
 .column-left{

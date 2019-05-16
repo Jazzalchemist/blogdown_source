@@ -6,8 +6,8 @@ showPagination: false
 showSocial: false
 comments: false
 ---
-
 **Interactive Visualisations**
+<br>
 
 <style>
 .column-left{

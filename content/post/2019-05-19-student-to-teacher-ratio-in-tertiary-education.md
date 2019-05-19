@@ -17,7 +17,7 @@ tags:
   - TidyTuesday
   - tidyverse
 thumbnailImage: "/img/TidyTuesday/Wk_19_2019/Student Ratios.png"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 ---
 
 For #TidyTuesday week 19 we looked at global student to teacher ratios.

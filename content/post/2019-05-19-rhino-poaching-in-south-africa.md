@@ -13,7 +13,7 @@ tags:
   - MakeoverMonday
   - Tableau
 thumbnailImage: "/img/MakeoverMonday/Wk_20_2019/Rhino_Poaching.png"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 ---
 
 Week 20 of #MakeoverMonday looked at a very sad topic - rhino poachng in South Africa.

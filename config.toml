@@ -225,6 +225,7 @@ canonifyurls = true
     class = ""
     icon = ""
     url = "/#about"
+    
 
   # Customize link of author avatar in sidebar
   # [params.sidebar.profile]

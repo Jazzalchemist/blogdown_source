@@ -18,7 +18,7 @@ tags:
   - TidyTuesday
   - tidyverse
 thumbnailImage: "/img/TidyTuesday/Wk_20_2019/Nobel Map.png"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 ---
 
 For #TidyTuesday week 20 we looked at Nobel Prize Laureates.

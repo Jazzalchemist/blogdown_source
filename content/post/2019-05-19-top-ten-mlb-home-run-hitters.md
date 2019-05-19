@@ -13,7 +13,7 @@ tags:
   - Tableau
   - Bar Chart
 thumbnailImage: "/img/MakeoverMonday/Wk_19_2019/MLB_Top_Ten.png"
-thumbnailImagePosition: top
+thumbnailImagePosition: left
 ---
 
 Week 19 of #MakeoverMonday looked at the most efficient batters in Major League Baseball (MLB).

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Lubridate on Jared Braggins</title>
+    <link>https://jaredbraggins.com/tags/lubridate/</link>
+    <description>Recent content in Lubridate on Jared Braggins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jaredbraggins.com/tags/lubridate/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nobel Prize Winners</title>
+      <link>https://jaredbraggins.com/2019/05/nobel-prize-winners/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/05/nobel-prize-winners/</guid>
+      <description>For #TidyTuesday week 20 we looked at Nobel Prize Laureates.
+The Data The data for week 20 can be found on Kaggle.
+The Analysis For this week I wanted to continue my focus on creating maps, so I decided to visualise Nobel Prize Laureates by country of origin. For a bit of additional practice I created a boxplot to visualise Nobel Prize Laureates by gender and category.
+Here&amp;rsquo;s the code:</description>
+    </item>
+    
+  </channel>
+</rss>

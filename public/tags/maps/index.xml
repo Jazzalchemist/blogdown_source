@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Maps on Jared Braggins</title>
+    <link>https://jaredbraggins.com/tags/maps/</link>
+    <description>Recent content in Maps on Jared Braggins</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 19 May 2019 00:00:00 +0000</lastBuildDate>
+    
+	<atom:link href="https://jaredbraggins.com/tags/maps/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Nobel Prize Winners</title>
+      <link>https://jaredbraggins.com/2019/05/nobel-prize-winners/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/05/nobel-prize-winners/</guid>
+      <description>For #TidyTuesday week 20 we looked at Nobel Prize Laureates.
+The Data The data for week 20 can be found on Kaggle.
+The Analysis For this week I wanted to continue my focus on creating maps, so I decided to visualise Nobel Prize Laureates by country of origin. For a bit of additional practice I created a boxplot to visualise Nobel Prize Laureates by gender and category.
+Here&amp;rsquo;s the code:</description>
+    </item>
+    
+    <item>
+      <title>Student to Teacher Ratio in Tertiary Education</title>
+      <link>https://jaredbraggins.com/2019/05/student-to-teacher-ratio-in-tertiary-education/</link>
+      <pubDate>Sun, 19 May 2019 00:00:00 +0000</pubDate>
+      
+      <guid>https://jaredbraggins.com/2019/05/student-to-teacher-ratio-in-tertiary-education/</guid>
+      <description>For #TidyTuesday week 19 we looked at global student to teacher ratios.
+The Data The data for week 19 comes from the UNESCO Institute of Statistics.
+The Analysis For this week I wanted to focus on student to teacher ratios for tertiary education. I wanted to see what this looked like on a gobal scale, so I decided to show this on a map.
+Here&amp;rsquo;s the code:
+ # Load packages library(tidyverse) library(extrafont) # Import data student_ratio &amp;lt;- readr::read_csv(&amp;quot;https://raw.</description>
+    </item>
+    
+  </channel>
+</rss>

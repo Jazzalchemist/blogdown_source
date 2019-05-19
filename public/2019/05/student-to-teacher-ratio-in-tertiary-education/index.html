@@ -1,0 +1,872 @@
+
+
+  
+    
+  
+
+
+  
+
+
+
+
+
+  
+
+<!DOCTYPE html>
+<html lang="en-us">
+  <head>
+    
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="generator" content="Hugo 0.54.0 with theme Tranquilpeak 0.4.1-BETA">
+    <title>Student to Teacher Ratio in Tertiary Education</title>
+    <meta name="author" content="Jared Braggins">
+    <meta name="keywords" content="">
+
+    <link rel="icon" href="https://jaredbraggins.com/img/Profile_pic.jpg">
+    
+
+    
+    <meta name="description" content="For #TidyTuesday week 19 we looked at global student to teacher ratios.
+The Data The data for week 19 comes from the UNESCO Institute of Statistics.
+The Analysis For this week I wanted to focus on student to teacher ratios for tertiary education. I wanted to see what this looked like on a gobal scale, so I decided to show this on a map.
+Here&rsquo;s the code:
+ # Load packages library(tidyverse) library(extrafont) # Import data student_ratio &lt;- readr::read_csv(&quot;https://raw.">
+    <meta property="og:description" content="For #TidyTuesday week 19 we looked at global student to teacher ratios.
+The Data The data for week 19 comes from the UNESCO Institute of Statistics.
+The Analysis For this week I wanted to focus on student to teacher ratios for tertiary education. I wanted to see what this looked like on a gobal scale, so I decided to show this on a map.
+Here&rsquo;s the code:
+ # Load packages library(tidyverse) library(extrafont) # Import data student_ratio &lt;- readr::read_csv(&quot;https://raw.">
+    <meta property="og:type" content="blog">
+    <meta property="og:title" content="Student to Teacher Ratio in Tertiary Education">
+    <meta property="og:url" content="/2019/05/student-to-teacher-ratio-in-tertiary-education/">
+    <meta property="og:site_name" content="Jared Braggins">
+    <meta name="twitter:card" content="summary">
+    <meta name="twitter:title" content="Jared Braggins">
+    <meta name="twitter:description" content="For #TidyTuesday week 19 we looked at global student to teacher ratios.
+The Data The data for week 19 comes from the UNESCO Institute of Statistics.
+The Analysis For this week I wanted to focus on student to teacher ratios for tertiary education. I wanted to see what this looked like on a gobal scale, so I decided to show this on a map.
+Here&rsquo;s the code:
+ # Load packages library(tidyverse) library(extrafont) # Import data student_ratio &lt;- readr::read_csv(&quot;https://raw.">
+    
+      <meta name="twitter:creator" content="@JareBraggins">
+    
+    
+
+    
+    
+
+    
+      <meta property="og:image" content="https://jaredbraggins.com/images/Profile_pic.jpg">
+    
+
+    
+      <meta property="og:image" content="https://jaredbraggins.com/img/MakeoverMonday/Wk_19_2019/Student%20Ratios.png">
+    
+    
+    
+
+    
+
+    
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css" integrity="sha256-eZrrJcwDc/3uDhsdt61sL2oOBY362qM3lon1gyExkL0=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.css" integrity="sha256-vuXZ9LGmmwtjqFX1F+EKin1ThZMub58gKULUyf0qECk=" crossorigin="anonymous" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.css" integrity="sha256-SEa4XYAHihTcEP1f5gARTB2K26Uk8PsndQYHQC1f4jU=" crossorigin="anonymous" />
+    
+    
+    <link rel="stylesheet" href="https://jaredbraggins.com/css/style-fpbzgxsy0kgmdvyrj5ykkg6ratccrk3gocmaqn4xpcjywmv5dteilzucro4f.min.css" />
+    
+    
+      
+        <link rel="stylesheet" href="https://jaredbraggins.com/css/overrides.css">
+      
+    
+
+    
+      
+<script type="application/javascript">
+var doNotTrack = false;
+if (!doNotTrack) {
+	(function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+	(i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+	m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+	})(window,document,'script','https://www.google-analytics.com/analytics.js','ga');
+	ga('create', 'UA-108165514-1', 'auto');
+	
+	ga('send', 'pageview');
+}
+</script>
+
+    
+    
+  </head>
+
+  <body>
+    <div id="blog">
+      <header id="header" data-behavior="4">
+  <i id="btn-open-sidebar" class="fa fa-lg fa-bars"></i>
+  <div class="header-title">
+    <a class="header-title-link" href="https://jaredbraggins.com/">Jared Braggins</a>
+  </div>
+  
+    
+      <a class="header-right-picture "
+         href="https://jaredbraggins.com/#about">
+    
+    
+    
+      
+        <img class="header-picture" src="https://jaredbraggins.com/images/Profile_pic.jpg" alt="Author&#39;s picture" />
+      
+    
+    </a>
+  
+</header>
+
+      <nav id="sidebar" data-behavior="4">
+  <div class="sidebar-container">
+    
+      <div class="sidebar-profile">
+        <a href="https://jaredbraggins.com/#about">
+          <img class="sidebar-profile-picture" src="https://jaredbraggins.com/images/Profile_pic.jpg" alt="Author&#39;s picture" />
+        </a>
+        <h4 class="sidebar-profile-name">Jared Braggins</h4>
+        
+          <h5 class="sidebar-profile-bio">Data Visualisation and Analysis</h5>
+        
+      </div>
+    
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jaredbraggins.com/">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-home"></i>
+      
+      <span class="sidebar-button-desc">Home</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jaredbraggins.com/about">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-user", title='About'></i>
+      
+      <span class="sidebar-button-desc">About</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jaredbraggins.com/portfolio">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-briefcase"></i>
+      
+      <span class="sidebar-button-desc">Portfolio</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jaredbraggins.com/resources/index.html">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-file-text-o"></i>
+      
+      <span class="sidebar-button-desc">Resources</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jaredbraggins.com/tags">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-tags"></i>
+      
+      <span class="sidebar-button-desc">Tags</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://github.com/Jazzalchemist/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-github"></i>
+      
+      <span class="sidebar-button-desc">GitHub</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://www.linkedin.com/in/jared-braggins-01184587/" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-linkedin" title='LinkedIn'></i>
+      
+      <span class="sidebar-button-desc">Linkedin</span>
+    </a>
+  </li>
+
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://twitter.com/JaredBraggins" target="_blank" rel="noopener">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-twitter"></i>
+      
+      <span class="sidebar-button-desc">Twitter</span>
+    </a>
+  </li>
+
+
+    </ul>
+    <ul class="sidebar-buttons">
+      
+  <li class="sidebar-button">
+    
+      <a class="sidebar-button-link " href="https://jaredbraggins.com/index.xml">
+    
+      <i class="sidebar-button-icon fa fa-lg fa-rss"></i>
+      
+      <span class="sidebar-button-desc">RSS</span>
+    </a>
+  </li>
+
+
+    </ul>
+  </div>
+</nav>
+
+      
+
+      <div id="main" data-behavior="4"
+        class="
+               hasCoverMetaIn
+               ">
+        <article class="post" itemscope itemType="http://schema.org/BlogPosting">
+          
+          
+            <div class="post-header main-content-wrap text-left">
+  
+    <h1 class="post-title" itemprop="headline">
+      Student to Teacher Ratio in Tertiary Education
+    </h1>
+  
+  
+  <div class="postShorten-meta post-meta">
+    
+      <time itemprop="datePublished" datetime="2019-05-19T00:00:00Z">
+        
+  May 19, 2019
+
+      </time>
+    
+    
+  
+  
+    <span>in</span>
+    
+      <a class="category-link" href="https://jaredbraggins.com/categories/analysis">Analysis</a>, 
+    
+      <a class="category-link" href="https://jaredbraggins.com/categories/data-visualisation">Data Visualisation</a>, 
+    
+      <a class="category-link" href="https://jaredbraggins.com/categories/r">R</a>
+    
+  
+
+
+  </div>
+
+</div>
+          
+          <div class="post-content markdown" itemprop="articleBody">
+            <div class="main-content-wrap">
+              
+
+<p>For #TidyTuesday week 19 we looked at global student to teacher ratios.</p>
+
+<h5 id="the-data">The Data</h5>
+
+<p>The data for week 19 comes from the <a href="http://data.uis.unesco.org/index.aspx?queryid=180">UNESCO Institute of Statistics</a>.</p>
+
+<h5 id="the-analysis">The Analysis</h5>
+
+<p>For this week I wanted to focus on student to teacher ratios for tertiary education. I wanted to see what this looked like on a gobal scale, so I decided to show this on a map.</p>
+
+<p>Here&rsquo;s the code:</p>
+
+<pre><code>  # Load packages
+library(tidyverse)
+library(extrafont)
+
+# Import data
+student_ratio &lt;- readr::read_csv(&quot;https://raw.githubusercontent.com/rfordatascience/tidytuesday/master/data/2019/2019-05-07/student_teacher_ratio.csv&quot;)
+
+
+# Inspect data
+View(student_ratio)
+
+# Group countries and calculate mean
+ratio_grouped &lt;-student_ratio %&gt;%
+  filter(indicator == &quot;Tertiary Education&quot;) %&gt;% 
+  group_by(country) %&gt;%
+  mutate(mean = mean(student_ratio, na.rm = TRUE))
+
+
+# Load world map
+map.world &lt;- map_data('world') %&gt;% 
+  filter(region != &quot;Antarctica&quot;)
+
+map_data('world') %&gt;%
+  group_by(region) %&gt;%
+  summarise()
+
+
+# Join datasets
+country_join &lt;- left_join(map.world, ratio_grouped, by = c('region' = 'country'))
+
+
+# Set theme
+my_background &lt;- 'white'
+my_textcolour &lt;- &quot;grey19&quot;
+my_font &lt;- 'Century Gothic'
+my_theme &lt;- theme(text = element_text(family = my_font),
+                  plot.title = element_text(face = 'bold', size = 16),
+                  plot.background = element_rect(fill = my_background),
+                  plot.subtitle = element_text(size = 14, colour = my_textcolour),
+                  plot.caption = element_text(size = 8, hjust = 1.15, colour = my_textcolour),
+                  panel.background = element_rect(fill = my_background, colour = my_background),
+                  panel.border = element_blank(),
+                  panel.grid.major.y = element_blank(),
+                  panel.grid.minor.y = element_blank(),
+                  panel.grid.major.x = element_blank(),
+                  panel.grid.minor.x = element_blank(),
+                  axis.text = element_blank())
+
+theme_set(theme_light() + my_theme)
+
+
+# Plot map and save image
+ggplot(data = country_join, aes(x = long, y = lat, group = group)) +
+  geom_polygon(aes(fill = mean)) +
+  scale_fill_gradientn(colours = c('#F9E53F', '#7FD157','#2A8A8C','#404E88', '#461863', '#462255')) +
+  labs(title = &quot;Student to Teacher Ratio in Tertiary Education&quot;,
+       subtitle = &quot;2012 - 2018&quot;,
+       x = &quot;&quot;,
+       y = &quot;&quot;,
+       caption = &quot;Visualisation: @JaredBraggins | Data Source: UNESCO Institute of Statistics&quot;) +
+  guides(
+    fill = guide_legend(title = &quot;Ratio&quot;))
+
+ggsave('Student Ratios.png', device = &quot;png&quot;, type = &quot;cairo&quot;)
+
+</code></pre>
+
+<p>Here&rsquo;s the chart:
+<img src="https://jaredbraggins.com/img/MakeoverMonday/Wk_19_2019/Student Ratios.png" title="Student to Teacher Ratio in Tertiary Education"/></p>
+
+<h5 id="conclusion-lessons-learned">Conclusion/Lessons Learned</h5>
+
+<p>This was my first map created in R! It was a challenge trying to figure out how to join another dataset to the world map data. I did enjoy customising the map though. Bring on more maps!</p>
+
+              
+            </div>
+          </div>
+          <div id="post-footer" class="post-footer main-content-wrap">
+            
+              
+                
+                
+                  <div class="post-footer-tags">
+                    <span class="text-color-light text-small">TAGGED IN</span><br/>
+                    
+  <a class="tag tag--primary tag--small" href="https://jaredbraggins.com//tags/analysis/">Analysis</a>
+
+  <a class="tag tag--primary tag--small" href="https://jaredbraggins.com//tags/maps/">Maps</a>
+
+  <a class="tag tag--primary tag--small" href="https://jaredbraggins.com//tags/data-visualisation/">Data Visualisation</a>
+
+  <a class="tag tag--primary tag--small" href="https://jaredbraggins.com//tags/dplyr/">dplyr</a>
+
+  <a class="tag tag--primary tag--small" href="https://jaredbraggins.com//tags/ggplot2/">ggplot2</a>
+
+  <a class="tag tag--primary tag--small" href="https://jaredbraggins.com//tags/r/">R</a>
+
+  <a class="tag tag--primary tag--small" href="https://jaredbraggins.com//tags/tidytuesday/">TidyTuesday</a>
+
+  <a class="tag tag--primary tag--small" href="https://jaredbraggins.com//tags/tidyverse/">tidyverse</a>
+
+                  </div>
+                
+              
+            
+            
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://jaredbraggins.com/2019/05/rhino-poaching-in-south-africa/" data-tooltip="Rhino Poaching in South Africa">
+              
+                <i class="fa fa-angle-left"></i>
+                <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+              </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://jaredbraggins.com/2019/05/top-ten-mlb-home-run-hitters/" data-tooltip="Top Ten MLB Home Run Hitters">
+              
+                <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                <i class="fa fa-angle-right"></i>
+              </a>
+            </li>
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://jaredbraggins.com/2019/05/student-to-teacher-ratio-in-tertiary-education/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://jaredbraggins.com/2019/05/student-to-teacher-ratio-in-tertiary-education/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+
+            
+              
+                <div id="disqus_thread">
+  <noscript>Please enable JavaScript to view the <a href="//disqus.com/?ref_noscript">comments powered by Disqus.</a></noscript>
+</div>
+              
+            
+          </div>
+        </article>
+        <footer id="footer" class="main-content-wrap">
+  <span class="copyrights">
+    &copy; 2019 Jared Braggins. All Rights Reserved
+  </span>
+</footer>
+
+      </div>
+      <div id="bottom-bar" class="post-bottom-bar" data-behavior="4">
+        
+  <div class="post-actions-wrap">
+      <nav >
+        <ul class="post-actions post-action-nav">
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://jaredbraggins.com/2019/05/rhino-poaching-in-south-africa/" data-tooltip="Rhino Poaching in South Africa">
+              
+                <i class="fa fa-angle-left"></i>
+                <span class="hide-xs hide-sm text-small icon-ml">NEXT</span>
+              </a>
+            </li>
+            <li class="post-action">
+              
+                <a class="post-action-btn btn btn--default tooltip--top" href="https://jaredbraggins.com/2019/05/top-ten-mlb-home-run-hitters/" data-tooltip="Top Ten MLB Home Run Hitters">
+              
+                <span class="hide-xs hide-sm text-small icon-mr">PREVIOUS</span>
+                <i class="fa fa-angle-right"></i>
+              </a>
+            </li>
+        </ul>
+      </nav>
+    <ul class="post-actions post-action-share" >
+      
+        <li class="post-action hide-lg hide-md hide-sm">
+          <a class="post-action-btn btn btn--default btn-open-shareoptions" href="#btn-open-shareoptions">
+            <i class="fa fa-share-alt"></i>
+          </a>
+        </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https://jaredbraggins.com/2019/05/student-to-teacher-ratio-in-tertiary-education/">
+              <i class="fa fa-facebook-official"></i>
+            </a>
+          </li>
+        
+          <li class="post-action hide-xs">
+            <a class="post-action-btn btn btn--default" target="new" href="https://twitter.com/intent/tweet?text=https://jaredbraggins.com/2019/05/student-to-teacher-ratio-in-tertiary-education/">
+              <i class="fa fa-twitter"></i>
+            </a>
+          </li>
+        
+      
+      
+        <li class="post-action">
+          <a class="post-action-btn btn btn--default" href="#disqus_thread">
+            <i class="fa fa-comment-o"></i>
+          </a>
+        </li>
+      
+      <li class="post-action">
+        
+          <a class="post-action-btn btn btn--default" href="#">
+        
+          <i class="fa fa-list"></i>
+        </a>
+      </li>
+    </ul>
+  </div>
+
+
+      </div>
+      <div id="share-options-bar" class="share-options-bar" data-behavior="4">
+  <i id="btn-close-shareoptions" class="fa fa-close"></i>
+  <ul class="share-options">
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://www.facebook.com/sharer/sharer.php?u=https%3A%2F%2Fjaredbraggins.com%2F2019%2F05%2Fstudent-to-teacher-ratio-in-tertiary-education%2F">
+          <i class="fa fa-facebook-official"></i><span>Share on Facebook</span>
+        </a>
+      </li>
+    
+      <li class="share-option">
+        <a class="share-option-btn" target="new" href="https://twitter.com/intent/tweet?text=https%3A%2F%2Fjaredbraggins.com%2F2019%2F05%2Fstudent-to-teacher-ratio-in-tertiary-education%2F">
+          <i class="fa fa-twitter"></i><span>Share on Twitter</span>
+        </a>
+      </li>
+    
+  </ul>
+</div>
+<div id="share-options-mask" class="share-options-mask"></div>
+    </div>
+    
+    <div id="about">
+  <div id="about-card">
+    <div id="about-btn-close">
+      <i class="fa fa-remove"></i>
+    </div>
+    
+      <img id="about-card-picture" src="https://jaredbraggins.com/images/Profile_pic.jpg" alt="Author&#39;s picture" />
+    
+    <h4 id="about-card-name">Jared Braggins</h4>
+    
+      <div id="about-card-bio">Data Visualisation and Analysis</div>
+    
+    
+    
+  </div>
+</div>
+
+    <div id="algolia-search-modal" class="modal-container">
+  <div class="modal">
+    <div class="modal-header">
+      <span class="close-button"><i class="fa fa-close"></i></span>
+      <a href="https://algolia.com" target="_blank" rel="noopener" class="searchby-algolia text-color-light link-unstyled">
+        <span class="searchby-algolia-text text-color-light text-small">by</span>
+        <img class="searchby-algolia-logo" src="https://www.algolia.com/static_assets/images/press/downloads/algolia-light.svg">
+      </a>
+      <i class="search-icon fa fa-search"></i>
+      <form id="algolia-search-form">
+        <input type="text" id="algolia-search-input" name="search"
+          class="form-control input--large search-input" placeholder="Search" />
+      </form>
+    </div>
+    <div class="modal-body">
+      <div class="no-result text-color-light text-center">no post found</div>
+      <div class="results">
+        
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://jaredbraggins.com/2019/05/nobel-prize-winners/">
+                <h3 class="media-heading">Nobel Prize Winners</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2019
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">For #TidyTuesday week 20 we looked at Nobel Prize Laureates.
+The Data The data for week 20 can be found on Kaggle.
+The Analysis For this week I wanted to continue my focus on creating maps, so I decided to visualise Nobel Prize Laureates by country of origin. For a bit of additional practice I created a boxplot to visualise Nobel Prize Laureates by gender and category.
+Here&rsquo;s the code:</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://jaredbraggins.com/2019/05/rhino-poaching-in-south-africa/">
+                <h3 class="media-heading">Rhino Poaching in South Africa</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2019
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Week 20 of #MakeoverMonday looked at a very sad topic - rhino poachng in South Africa.
+Here&rsquo;s the original viz:
+What works well:  Simple but effective colours choices Clear title The use of rhino imagery helps make it immediately clear what the chart is about  What could be improved:  I didn&rsquo;t like the use of a unit chart as it didn&rsquo;t quite make sense in terms of numbers of poached rhinos per year The use of rhino icons seemed a but too &lsquo;fun&rsquo; for such a serious topic  What I focused on:  I wanted to simplify the orginal chart I wanted to annotate some of the key facts as well  The interactive version can be found here</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://jaredbraggins.com/2019/05/student-to-teacher-ratio-in-tertiary-education/">
+                <h3 class="media-heading">Student to Teacher Ratio in Tertiary Education</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2019
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">For #TidyTuesday week 19 we looked at global student to teacher ratios.
+The Data The data for week 19 comes from the UNESCO Institute of Statistics.
+The Analysis For this week I wanted to focus on student to teacher ratios for tertiary education. I wanted to see what this looked like on a gobal scale, so I decided to show this on a map.
+Here&rsquo;s the code:
+ # Load packages library(tidyverse) library(extrafont) # Import data student_ratio &lt;- readr::read_csv(&quot;https://raw.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://jaredbraggins.com/2019/05/top-ten-mlb-home-run-hitters/">
+                <h3 class="media-heading">Top Ten MLB Home Run Hitters</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2019
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Week 19 of #MakeoverMonday looked at the most efficient batters in Major League Baseball (MLB).
+Here&rsquo;s the original viz:
+What works well:  Simple title that says what it is about Nice colour choices There&rsquo;s a lot of detail included, but without cluttering the viz  What could be improved:  I don&rsquo;t follow baseball, I was a bit lost when trying to understand this I was confused by the highlighted stats.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://jaredbraggins.com/2019/05/imposter-syndrome-and-the-benefit-of-self-reflection/">
+                <h3 class="media-heading">Imposter Syndrome and the Benefit of Self-Reflection</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  May 5, 2019
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">The focus of this month&rsquo;s #SWDChallenge was on artisanal data.
+I found this challenge to be incredibly enjoyable. Why? Because I got to design a visualisation using data that I knew inside and out (since it was about my work history after all!). But hey, that was kinda the point, right?
+I want to take a step back here though. I want to address why I used data about my work history.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://jaredbraggins.com/2019/04/chicago-bird-collisions/">
+                <h3 class="media-heading">Chicago Bird Collisions</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Apr 4, 2019
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">For #TidyTuesday week 18 we looked at bird collisions in Chicago.
+The Data The data for week 18 comes from a study conducted by the Royal Society.
+The Analysis I wanted to show the number of collisions per bird family over time. This ended up being a perfect excuse to try a ridgeline chart for the first time.
+Here&rsquo;s the code:
+ # Load libraries library(tidyverse) library(lubridate) library(ggridges) # Import data bird_collisions &lt;- read_csv(&quot;https://raw.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://jaredbraggins.com/2019/04/international-space-station-spacewalks/">
+                <h3 class="media-heading">International Space Station Spacewalks</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Apr 4, 2019
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Week 18 of #MakeoverMonday looked at spacewalks at the International Space Station.
+Here&rsquo;s the original viz:
+What works well:  The heading is a succinct summary of what the viz is showing Using the BANS (Big-ass numbers) for USA and Russia as a legend is a good idea The labels on the bars make the chart easier to read The colours are a good choice as they are very close to the NASA palette  What could be improved:  The years on the x-axis are on an angle, making them harder to read There are numerous images on the viz, making it very busy  What I focused on:  Changing the bar chart to a line chart Changing the orientation of the dates on the x-axis to be horizontal Adding the BANs into the description  The interactive version can be found here</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://jaredbraggins.com/2019/04/cowboy-bebop-chart/">
+                <h3 class="media-heading">Cowboy Bebop Chart</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Apr 4, 2019
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">For #TidyTuesday week 17 I got a little too ambitious.
+I had decided to focus on my favourite anime, Cowboy Bebop. My original goal was to use gganimate to plot the top 20 anime for each year, but to also include any anime for previous years back to 1998. This was to show a rolling top 20 from the year that Cowboy Bebop was released.
+The Data The data for week 17 comes from MyAnimeList.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://jaredbraggins.com/2019/04/stephen-curry-s-popcorn-rankings/">
+                <h3 class="media-heading">Stephen Curry&#39;s Popcorn Rankings</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Apr 4, 2019
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">Week 17 of #MakeoverMonday looked at Stephen Curry&rsquo;s ranking of stadium popcorn.
+Here&rsquo;s the original viz:
+What works well:  A heat chart is perfect for this data. The labels and colours work well There&rsquo;s a clear title The scoring is simple  What could be improved:  The colours aren&rsquo;t great  What I focused on:  Although I do like the original chart, I decided to try something different.</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+          <div class="media">
+            
+            <div class="media-body">
+              <a class="link-unstyled" href="https://jaredbraggins.com/2019/04/the-economist-data-viz-mistakes/">
+                <h3 class="media-heading">The Economist Data Viz Mistakes</h3>
+              </a>
+              <span class="media-meta">
+                <span class="media-date text-small">
+                  Apr 4, 2019
+                </span>
+              </span>
+              <div class="media-content hide-xs font-merryweather">My focus for #TidyTuesday Week 16 was on trying to replicate a chart. For context, the idea was to explore the data behind some before and after charts from the Economist. Here are the charts I was looking at:
+Instead of trying to make my own version of the better chart, I decided to try and figure out how to replicate some of the elements in it. Specifically:
+ Highlighting points in a scatterplot Label the highlighted points, but to also add custom formatting to some of the labels only  Here&rsquo;s the code:</div>
+            </div>
+            <div style="clear:both;"></div>
+            <hr>
+          </div>
+        
+      </div>
+    </div>
+    <div class="modal-footer">
+      <p class="results-count text-medium"
+         data-message-zero="no post found"
+         data-message-one="1 post found"
+         data-message-other="{n} posts found">
+         30 posts found
+      </p>
+    </div>
+  </div>
+</div>
+    
+  
+    
+    <div id="cover" style="background-image:url('https://jaredbraggins.com/images/backgrounds-blank-blue.jpg');"></div>
+  
+
+
+    
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/2.1.3/jquery.min.js" integrity="sha256-IFHWFEbU2/+wNycDECKgjIRSirRNIDp2acEB5fvdVRU=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/highlight.js/9.8.0/highlight.min.js" integrity="sha256-+mpyNVJsNt4rVXCw0F+pAOiB3YxmHgrbJsx4ecPuUaI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/jquery.fancybox.min.js" integrity="sha256-vMxgR/7FtLovVA+IPrR7+xTgIgARH7y9VZQnmmi0HDI=" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.4/helpers/jquery.fancybox-thumbs.min.js" integrity="sha256-N0qFUh7/9vLvia87dDndewmsgsyYoNkdA212tPc+2NI=" crossorigin="anonymous"></script>
+
+
+<script src="https://jaredbraggins.com/js/script-qi9wbxp2ya2j6p7wx1i6tgavftewndznf4v0hy2gvivk1rxgc3lm7njqb6bz.min.js"></script>
+
+
+<script>
+$(document).ready(function() {
+  hljs.configure({ classPrefix: '', useBR: false });
+  $('pre.code-highlight, pre > code').each(function(i, block) {
+    if (!$(this).hasClass('codeblock')) {
+      $(this).addClass('codeblock');
+    }
+    hljs.highlightBlock(block);
+  });
+});
+</script>
+
+  
+    
+      <script>
+        var disqus_config = function () {
+          this.page.url = 'https:\/\/jaredbraggins.com\/2019\/05\/student-to-teacher-ratio-in-tertiary-education\/';
+          
+            this.page.identifier = '\/2019\/05\/student-to-teacher-ratio-in-tertiary-education\/'
+          
+        };
+        (function() {
+          
+          
+          if (window.location.hostname == "localhost") {
+            return;
+          }
+          var d = document, s = d.createElement('script');
+          var disqus_shortname = 'https-jbraggins-netlify-com';
+          s.src = '//' + disqus_shortname + '.disqus.com/embed.js';
+
+          s.setAttribute('data-timestamp', +new Date());
+          (d.head || d.body).appendChild(s);
+        })();
+      </script>
+    
+  
+
+
+
+    
+  </body>
+</html>
+

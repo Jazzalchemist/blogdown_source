@@ -84,7 +84,7 @@ ggsave('Bird Collision.png', dpi = 'retina')
   ```
   
 Here's the chart:
-<img src="/img/Bird Collision.png" title="/img/Chicago Bird COllisions"/>
+<img src="/img/Bird Collision.png" title="Chicago Bird COllisions"/>
 
 #### Conclusion
 I know I could of dug into the data a bit more than I did, but it was fun to try a new chart type for the first time. I wouldn't say I'm the biggest fan of ridgeline charts, but they definitely have a distinctive aesthetic appeal.

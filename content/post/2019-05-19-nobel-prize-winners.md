@@ -17,7 +17,7 @@ tags:
   - R
   - TidyTuesday
   - tidyverse
-thumbnailImage: "/img/MakeoverMonday/Wk_20_2019/Nobel Map.png"
+thumbnailImage: "/img/TidyTuesday/Wk_20_2019/Nobel Map.png"
 thumbnailImagePosition: top
 ---
 
@@ -146,8 +146,8 @@ ggsave('Nobel Boxplot.png', device = "png", type = "cairo")
   ```
   
 Here are the charts:
-<img src="/img/MakeoverMonday/Wk_20_2019/Nobel Map.png" title="Nobel Prize Winners by Country of Origin"/>
-<img src="/img/MakeoverMonday/Wk_20_2019/Nobel Boxplot.png" title="Nobel Prize Winners by Age and Gender"/>
+<img src="/img/TidyTuesday/Wk_20_2019/Nobel Map.png" title="Nobel Prize Winners by Country of Origin"/>
+<img src="/img/TidyTuesday/Wk_20_2019/Nobel Boxplot.png" title="Nobel Prize Winners by Age and Gender"/>
 
 ##### Conclusion/Lessons Learned
 To be honest, I rushed my #TidyTuesday submission this week. I wanted to build a map again after week 19's submission, but I didn't consider that some of the country names weren't going to match between the Nobel Prize data and the world map data. This was pointed to me by a Twitter user who questioned why my map showed that the USA didn't seem to have any Nobel Prize winners. 

@@ -16,7 +16,7 @@ tags:
   - R
   - TidyTuesday
   - tidyverse
-thumbnailImage: "/img/MakeoverMonday/Wk_19_2019/Student Ratios.png"
+thumbnailImage: "/img/TidyTuesday/Wk_19_2019/Student Ratios.png"
 thumbnailImagePosition: top
 ---
 
@@ -98,7 +98,7 @@ ggsave('Student Ratios.png', device = "png", type = "cairo")
   ```
   
 Here's the chart:
-<img src="/img/MakeoverMonday/Wk_19_2019/Student Ratios.png" title="Student to Teacher Ratio in Tertiary Education"/>
+<img src="/img/TidyTuesday/Wk_19_2019/Student Ratios.png" title="Student to Teacher Ratio in Tertiary Education"/>
 
 ##### Conclusion/Lessons Learned
 This was my first map created in R! It was a challenge trying to figure out how to join another dataset to the world map data. I did enjoy customising the map though. Bring on more maps!

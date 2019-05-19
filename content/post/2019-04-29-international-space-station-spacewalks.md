@@ -37,6 +37,6 @@ Here's the original viz:
 - Changing the orientation of the dates on the x-axis to be horizontal
 - Adding the BANs into the description
 
-<img src="/img/Spacewalks.png" title="/img/ISS Spacewalks"/>
+<img src="/img/Spacewalks.png" title="ISS Spacewalks"/>
 
 The interactive version can be found [here](https://public.tableau.com/profile/jared.braggins2936#!/vizhome/ISSSpacewalks_15564991984510/Spacewalks)

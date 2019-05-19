@@ -20,7 +20,7 @@ Week 19 of #MakeoverMonday looked at the most efficient batters in Major League 
 
 Here's the original viz:
 
-<img src="img/MakeoverMonday/Wk_19_2019/MLBHittingStats2013_57e4bee0f2257_w1500.jpg" title="/img/MLB Hitting Stats"/>
+<img src="/img/MakeoverMonday/Wk_19_2019/MLBHittingStats2013_57e4bee0f2257_w1500.jpg" title="MLB Hitting Stats"/>
 
 ##### What works well:
 - Simple title that says what it is about
@@ -35,7 +35,7 @@ Here's the original viz:
 ##### What I focused on:
 - I went with a simple top ten bar chart showing the best home-run hitters. This can be filtered by year. Nice and simple!
 
-<img src="/img/MakeoverMonday/Wk_19_2019/MLB_Top_Ten.png" title="/img/MLB Top Ten"/>
+<img src="/img/MakeoverMonday/Wk_19_2019/MLB_Top_Ten.png" title="MLB Top Ten"/>
 
 The interactive version can be found [here](https://public.tableau.com/profile/jared.braggins2936#!/vizhome/MLBStats_15571060975360/MLB_Top_Ten)
 

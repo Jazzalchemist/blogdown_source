@@ -20,7 +20,7 @@ Week 20 of #MakeoverMonday looked at a very sad topic - rhino poachng in South A
 
 Here's the original viz:
 
-<img src="img/MakeoverMonday/Wk_20_2019/RhinoGraph-2016Stats-2.jpg" title="/img/Rhino Graph"/>
+<img src="/img/MakeoverMonday/Wk_20_2019/RhinoGraph-2016Stats-2.jpg" title="Rhino Graph"/>
 
 ##### What works well:
 - Simple but effective colours choices
@@ -36,6 +36,6 @@ Here's the original viz:
 - I wanted to simplify the orginal chart
 - I wanted to annotate some of the key facts as well
 
-<img src="/img/MakeoverMonday/Wk_20_2019/Rhino_Poaching.png" title="/img/Rhino Poaching in South Africa"/>
+<img src="/img/MakeoverMonday/Wk_20_2019/Rhino_Poaching.png" title="Rhino Poaching in South Africa"/>
 
 The interactive version can be found [here](https://public.tableau.com/profile/jared.braggins2936#!/vizhome/Rhinoviz/Dashboard1)
